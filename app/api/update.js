@@ -1,14 +1,17 @@
+import fs from "fs";
+import path from "path";
 
-let cachedData = null;
+const RAW_PATH = "/tmp/cryptorank-raw.json";
+const LIGHT_PATH = "/tmp/cryptorank-light.json";
+const CACHE_DURATION = 30 * 60 * 1000; // 30 min
+
 let lastFetch = 0;
-const CACHE_DURATION = 30 * 60 * 1000; // 30 minutes
 
 export default async function handler(req, res) {
   try {
     const now = Date.now();
 
-    // If cache expired or never fetched → refresh
-    if (!cachedData || now - lastFetch > CACHE_DURATION) {
+    if (now - lastFetch > CACHE_DURATION || req.query.refresh === "true") {
       console.log("Fetching fresh data from CryptoRank...");
 
       const response = await fetch("https://api.cryptorank.io/v2/currencies?include=percentChange&limit=500");
@@ -18,25 +21,27 @@ export default async function handler(req, res) {
 
       const json = await response.json();
 
-      // Keep only light version
-      cachedData = {
+      // save raw JSON to file
+      fs.writeFileSync(RAW_PATH, JSON.stringify(json));
+
+      // filter down to light version
+      const light = {
         updatedAt: new Date().toISOString(),
         data: json.data.slice(0, 20).map(item => ({
-          id: item.id,
           symbol: item.symbol,
           name: item.name,
-          rank: item.rank,
           price: item.price,
           percentChange: item.percentChange?.h24 ?? null,
-          image: item.images?.x60 ?? null
         })),
-        usedCredits: json.status?.usedCredits ?? null
       };
 
+      fs.writeFileSync(LIGHT_PATH, JSON.stringify(light));
+
       lastFetch = now;
+      return res.status(200).json({ status: "updated", lightCount: light.data.length });
     }
 
-    res.status(200).json(cachedData);
+    return res.status(200).json({ status: "cache valid", lastFetch });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
