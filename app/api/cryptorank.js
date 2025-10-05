@@ -1,7 +1,7 @@
-
 let cachedData = null;
 let lastFetch = 0;
 const CACHE_DURATION = 30 * 60 * 1000; // 30 minutes
+const apiKey = process.env.CRYPTORANK_API_KEY
 
 export default async function handler(req, res) {
   try {
@@ -11,7 +11,12 @@ export default async function handler(req, res) {
     if (!cachedData || now - lastFetch > CACHE_DURATION) {
       console.log("Fetching fresh data from CryptoRank...");
 
-      const response = await fetch("https://api.cryptorank.io/v2/currencies?include=percentChange&limit=500");
+      const response = await fetch("https://api.cryptorank.io/v2/currencies?include=percentChange&limit=500", {
+        headers: {
+            "x-api-key":  apiKey
+        }
+      })
+
       if (!response.ok) {
         return res.status(response.status).json({ error: "Failed to fetch cryptorank" });
       }
@@ -22,15 +27,13 @@ export default async function handler(req, res) {
       cachedData = {
         updatedAt: new Date().toISOString(),
         data: json.data.slice(0, 20).map(item => ({
-          id: item.id,
           symbol: item.symbol,
           name: item.name,
-          rank: item.rank,
           price: item.price,
           percentChange: item.percentChange?.h24 ?? null,
-          image: item.images?.x60 ?? null
+        //   image: item.images?.x60 ?? null
         })),
-        usedCredits: json.status?.usedCredits ?? null
+        // usedCredits: json.status?.usedCredits ?? null
       };
 
       lastFetch = now;
