@@ -1,699 +1,599 @@
 [
   {
-    "id": 1,
     "symbol": "BTC",
     "name": "Bitcoin",
     "price": "125040.949599321730",
     "h24": "4.913686482235149"
   },
   {
-    "id": 3,
     "symbol": "ETH",
     "name": "Ethereum",
     "price": "4648.121405176483",
     "h24": "5.54183098712277"
   },
   {
-    "id": 5663,
     "symbol": "SOL",
     "name": "Solana",
     "price": "234.716169332832",
     "h24": "1.2461124090631541"
   },
   {
-    "id": 26,
     "symbol": "BNB",
     "name": "BNB",
     "price": "1224.084199771491",
     "h24": "4.990216567997027"
   },
   {
-    "id": 194031,
     "symbol": "COAI",
     "name": "ChainOpera AI",
     "price": "2.526418053095",
     "h24": "552.7959223506687"
   },
   {
-    "id": 202263,
     "symbol": "GIGGLE",
     "name": "GiggleFund",
     "price": "107.081037406085",
     "h24": "80.685902184289"
   },
   {
-    "id": 180791,
     "symbol": "BLESS",
     "name": "Bless",
     "price": "0.055577586103",
     "h24": "47.209479182549906"
   },
   {
-    "id": 175674,
     "symbol": "ALEO",
     "name": "Aleo",
     "price": "0.368601732416",
     "h24": "40.192218833003714"
   },
   {
-    "id": 199113,
     "symbol": "USELESS",
     "name": "Useless Coin",
     "price": "0.268012894782",
     "h24": "15.134287589105815"
   },
   {
-    "id": 200617,
     "symbol": "DORA",
     "name": "DORA",
     "price": "0.221925722794",
     "h24": "14.785992924875796"
   },
   {
-    "id": 198329,
     "symbol": "TIBBIR",
     "name": "Ribbita by Virtuals",
     "price": "0.309223282981",
     "h24": "14.663388887366452"
   },
   {
-    "id": 188643,
     "symbol": "UXLINK",
     "name": "UXLINK",
     "price": "0.192742120313",
     "h24": "14.57440506518008"
   },
   {
-    "id": 182288,
     "symbol": "MNT",
     "name": "Mantle",
     "price": "2.375474701687",
     "h24": "14.07743643123652"
   },
   {
-    "id": 175531,
     "symbol": "STRK",
     "name": "StarkNet",
     "price": "0.170784701711",
     "h24": "13.945227196814791"
   },
   {
-    "id": 23000,
     "symbol": "CAKE",
     "name": "PancakeSwap",
     "price": "3.799167935866",
     "h24": "13.815998008465435"
   },
   {
-    "id": 177115,
     "symbol": "PEAQ",
     "name": "peaq",
     "price": "0.144917317415",
     "h24": "13.72170928326506"
   },
   {
-    "id": 163753,
     "symbol": "ASTR",
     "name": "Astar",
     "price": "0.027581243401",
     "h24": "13.186225729983443"
   },
   {
-    "id": 20199,
     "symbol": "TWT",
     "name": "Trust Wallet",
     "price": "1.604835869302",
     "h24": "13.135929183546448"
   },
   {
-    "id": 199266,
     "symbol": "B",
     "name": "BUILDon",
     "price": "0.305022414998",
     "h24": "12.83681301793087"
   },
   {
-    "id": 187460,
     "symbol": "SAROS",
     "name": "Saros",
     "price": "0.292175826662",
     "h24": "12.505769205445333"
   },
   {
-    "id": 202476,
     "symbol": "4",
     "name": "4",
     "price": "0.165481300187",
     "h24": "12.080466750514923"
   },
   {
-    "id": 194573,
     "symbol": "LAUNCHCOIN",
     "name": "LAUNCHCOIN (on Believe)",
     "price": "0.119733125561",
     "h24": "10.82509840568105"
   },
   {
-    "id": 191246,
     "symbol": "ASTER",
     "name": "Aster (prev. Astherus)",
     "price": "2.073474014840",
     "h24": "10.203343396338393"
   },
   {
-    "id": 178527,
     "symbol": "DBR",
     "name": "deBridge",
     "price": "0.030625374890",
     "h24": "10.140871521221458"
   },
   {
-    "id": 173586,
     "symbol": "ZBCN",
     "name": "Zebec Network",
     "price": "0.004951072745",
     "h24": "9.754706359910406"
   },
   {
-    "id": 187054,
     "symbol": "CAP",
     "name": "Capverse",
     "price": "0.138860403623",
     "h24": "9.553921183214294"
   },
   {
-    "id": 185409,
     "symbol": "TOSHI",
     "name": "Toshi",
     "price": "0.000883790656",
     "h24": "8.790503886468594"
   },
   {
-    "id": 181080,
     "symbol": "FORM",
     "name": "Four",
     "price": "1.207732891543",
     "h24": "8.72103082822773"
   },
   {
-    "id": 22,
     "symbol": "ZEC",
     "name": "Zcash",
     "price": "163.057334719383",
     "h24": "8.3488615618142"
   },
   {
-    "id": 319,
     "symbol": "BORG",
     "name": "SwissBorg",
     "price": "0.640985871831",
     "h24": "8.180785206543234"
   },
   {
-    "id": 3946,
     "symbol": "COTI",
     "name": "COTI",
     "price": "0.049883953399",
     "h24": "6.646192119211733"
   },
   {
-    "id": 172998,
     "symbol": "CCD",
     "name": "Concordium",
     "price": "0.015986976800",
     "h24": "6.47786068929612"
   },
   {
-    "id": 190085,
     "symbol": "LISTA",
     "name": "Lista DAO",
     "price": "0.349528004862",
     "h24": "6.450559801406263"
   },
   {
-    "id": 202005,
     "symbol": "UB",
     "name": "Unibase",
     "price": "0.035104384391",
     "h24": "6.358461616975556"
   },
   {
-    "id": 28522,
     "symbol": "LDO",
     "name": "Lido",
     "price": "1.258950190339",
     "h24": "5.978902988716959"
   },
   {
-    "id": 19796,
     "symbol": "MWC",
     "name": "MimbleWimbleCoin",
     "price": "34.565638504441",
     "h24": "5.842949098766544"
   },
   {
-    "id": 175143,
     "symbol": "EUL",
     "name": "Euler",
     "price": "10.826871671435",
     "h24": "5.811058826770542"
   },
   {
-    "id": 3455,
     "symbol": "DAG",
     "name": "Constellation Network",
     "price": "0.028077850322",
     "h24": "5.51344845652255"
   },
   {
-    "id": 183200,
     "symbol": "IP",
     "name": "Story Protocol",
     "price": "10.119726254194",
     "h24": "5.501945160319035"
   },
   {
-    "id": 25781,
     "symbol": "WBNB",
     "name": "Wrapped BNB",
     "price": "1224.768283453359",
     "h24": "4.951217008058601"
   },
   {
-    "id": 174339,
     "symbol": "APEX",
     "name": "APEX",
     "price": "2.160021647217",
     "h24": "4.722037061271276"
   },
   {
-    "id": 188829,
     "symbol": "PROVE",
     "name": "Succinct",
     "price": "0.779487489273",
     "h24": "4.6306478723085185"
   },
   {
-    "id": 6678,
     "symbol": "FLUID",
     "name": "Fluid",
     "price": "6.805530789095",
     "h24": "4.497872387801291"
   },
   {
-    "id": 5857,
     "symbol": "BDX",
     "name": "Beldex",
     "price": "0.084412622440",
     "h24": "4.36017628716337"
   },
   {
-    "id": 179365,
     "symbol": "TAO",
     "name": "Bittensor",
     "price": "337.216368766283",
     "h24": "4.324066145273453"
   },
   {
-    "id": 181227,
     "symbol": "EIGEN",
     "name": "EigenCloud",
     "price": "1.979461082873",
     "h24": "4.068893292833665"
   },
   {
-    "id": 186254,
     "symbol": "BEAM",
     "name": "Beam",
     "price": "0.008975595784",
     "h24": "3.9774009306123084"
   },
   {
-    "id": 192009,
     "symbol": "HEMI",
     "name": "Hemi",
     "price": "0.092870396041",
     "h24": "3.9624001968961506"
   },
   {
-    "id": 2854,
     "symbol": "XVS",
     "name": "Venus",
     "price": "6.792552605368",
     "h24": "3.8841519946364604"
   },
   {
-    "id": 133,
     "symbol": "RLC",
     "name": "iExec RLC",
     "price": "1.132993764994",
     "h24": "3.821650521609789"
   },
   {
-    "id": 176076,
     "symbol": "ZK",
     "name": "zkSync",
     "price": "0.057602164543",
     "h24": "3.76035655411184"
   },
   {
-    "id": 182171,
     "symbol": "OETH",
     "name": "Origin Ether",
     "price": "4643.187590123044",
     "h24": "3.555018751855616"
   },
   {
-    "id": 7977,
     "symbol": "ZANO",
     "name": "Zano",
     "price": "13.499114169518",
     "h24": "3.540741565676266"
   },
   {
-    "id": 175987,
     "symbol": "ARB",
     "name": "Arbitrum",
     "price": "0.461408601305",
     "h24": "3.5345657252245863"
   },
   {
-    "id": 188218,
     "symbol": "META",
     "name": "Meta DAO",
     "price": "6860.918455458846",
     "h24": "3.5112202130200814"
   },
   {
-    "id": 57,
     "symbol": "DGB",
     "name": "DigiByte",
     "price": "0.008523232441",
     "h24": "3.4818919460033166"
   },
   {
-    "id": 26107,
     "symbol": "INJ",
     "name": "Injective",
     "price": "13.309650509638",
     "h24": "3.2975658411482116"
   },
   {
-    "id": 186630,
     "symbol": "MYX",
     "name": "MYX Finance",
     "price": "5.671333464279",
     "h24": "3.253595074887187"
   },
   {
-    "id": 7666,
     "symbol": "MX",
     "name": "MX Token",
     "price": "2.701123044844",
     "h24": "3.1578981188069384"
   },
   {
-    "id": 23773,
     "symbol": "AAVE",
     "name": "Aave",
     "price": "297.415209287027",
     "h24": "3.0451658746272217"
   },
   {
-    "id": 89219,
     "symbol": "PENDLE",
     "name": "Pendle",
     "price": "4.930645432018",
     "h24": "3.0368966326867177"
   },
   {
-    "id": 176822,
     "symbol": "SXT",
     "name": "Space and Time",
     "price": "0.070452386973",
     "h24": "3.019619987808682"
   },
   {
-    "id": 179370,
     "symbol": "NIL",
     "name": "Nillion",
     "price": "0.348029281589",
     "h24": "2.9589198761089155"
   },
   {
-    "id": 5323,
     "symbol": "CKB",
     "name": "Nervos Network",
     "price": "0.004429667546",
     "h24": "2.9539889897329017"
   },
   {
-    "id": 80480,
     "symbol": "AIOZ",
     "name": "AIOZ Network",
     "price": "0.299438142760",
     "h24": "2.9049143366807346"
   },
   {
-    "id": 173389,
     "symbol": "AXL",
     "name": "Axelar",
     "price": "0.309488067964",
     "h24": "2.852185447080152"
   },
   {
-    "id": 90306,
     "symbol": "WILD",
     "name": "Wilder World",
     "price": "0.243967476309",
     "h24": "2.8034322604355912"
   },
   {
-    "id": 174899,
     "symbol": "KAS",
     "name": "Kaspa",
     "price": "0.078106323316",
     "h24": "2.7383791198161402"
   },
   {
-    "id": 2234,
     "symbol": "IOTX",
     "name": "IoTeX",
     "price": "0.024357333646",
     "h24": "2.623532937677388"
   },
   {
-    "id": 22085,
     "symbol": "DOT",
     "name": "Polkadot",
     "price": "4.370994798544",
     "h24": "2.6164414200249566"
   },
   {
-    "id": 182298,
     "symbol": "HSK",
     "name": "Hashkey",
     "price": "0.392299282762",
     "h24": "2.5923310212742843"
   },
   {
-    "id": 186232,
     "symbol": "POL",
     "name": "POL (ex-MATIC)",
     "price": "0.246866553931",
     "h24": "2.56020352106843"
   },
   {
-    "id": 174889,
     "symbol": "OP",
     "name": "Optimism",
     "price": "0.758849373293",
     "h24": "2.556291310549766"
   },
   {
-    "id": 178440,
     "symbol": "SQD",
     "name": "SQD",
     "price": "0.171454433308",
     "h24": "2.554724136126485"
   },
   {
-    "id": 195209,
     "symbol": " KTA",
     "name": "Keeta",
     "price": "0.619774968669",
     "h24": "2.528382196697454"
   },
   {
-    "id": 28593,
     "symbol": "JASMY",
     "name": "Jasmy",
     "price": "0.013342168755",
     "h24": "2.517645485735843"
   },
   {
-    "id": 182880,
     "symbol": "ORDI",
     "name": "ORDI",
     "price": "8.645899133581",
     "h24": "2.3838975108630454"
   },
   {
-    "id": 90594,
     "symbol": "METIS",
     "name": "Metis",
     "price": "14.407363944755",
     "h24": "2.3378888471057966"
   },
   {
-    "id": 180105,
     "symbol": "VENOM",
     "name": "Venom",
     "price": "0.135226746165",
     "h24": "2.311429639458988"
   },
   {
-    "id": 19,
     "symbol": "XNO",
     "name": "Nano",
     "price": "0.871820912029",
     "h24": "2.2978703195741432"
   },
   {
-    "id": 39,
     "symbol": "DCR",
     "name": "Decred",
     "price": "18.833002340731",
     "h24": "2.2951362266960635"
   },
   {
-    "id": 188564,
     "symbol": "BRETT",
     "name": "Based Brett",
     "price": "0.047394069224",
     "h24": "2.287973276073785"
   },
   {
-    "id": 185868,
     "symbol": "MOVE",
     "name": "Movement",
     "price": "0.117657218712",
     "h24": "2.236056126573895"
   },
   {
-    "id": 182004,
     "symbol": "PYTH",
     "name": "Pyth Network",
     "price": "0.166264345856",
     "h24": "2.2274245194097912"
   },
   {
-    "id": 182647,
     "symbol": "WBETH",
     "name": "Wrapped Beacon ETH",
     "price": "5015.329796974681",
     "h24": "2.2270920690783744"
   },
   {
-    "id": 193153,
     "symbol": "CMETH",
     "name": "Mantle Restaked Ether",
     "price": "4995.449998498577",
     "h24": "2.2162437709495446"
   },
   {
-    "id": 175891,
     "symbol": "cbETH",
     "name": "Coinbase Wrapped Staked ETH",
     "price": "5118.950071543390",
     "h24": "2.2152308786741894"
   },
   {
-    "id": 180087,
     "symbol": "frxETH",
     "name": "Frax Ether",
     "price": "4619.953156810911",
     "h24": "2.205998705678264"
   },
   {
-    "id": 202285,
     "symbol": "vbETH",
     "name": "Vault Bridge ETH",
     "price": "4640.953893022885",
     "h24": "2.2052776723194465"
   },
   {
-    "id": 80818,
     "symbol": "ENS",
     "name": "Ethereum Name Service",
     "price": "21.983326756402",
     "h24": "2.199140975221649"
   },
   {
-    "id": 180361,
     "symbol": "CORE",
     "name": "Core DAO",
     "price": "0.402700392737",
     "h24": "2.1813123310796927"
   },
   {
-    "id": 169760,
     "symbol": "wstETH",
     "name": "Wrapped stETH",
     "price": "5646.038435367031",
     "h24": "2.1792915316616197"
   },
   {
-    "id": 1254,
     "symbol": "WETH",
     "name": "WETH",
     "price": "4647.821226999084",
     "h24": "2.176645496855763"
   },
   {
-    "id": 186954,
     "symbol": "weETH",
     "name": "Wrapped eETH",
     "price": "5003.620761234654",
     "h24": "2.168887035345747"
   },
   {
-    "id": 191730,
     "symbol": "CDCETH",
     "name": "Crypto.com Wrapped Staked ETH",
     "price": "4903.775287248131",
     "h24": "2.1673859867760585"
   },
   {
-    "id": 186857,
     "symbol": "mETH",
     "name": "Mantle Staked Ether",
     "price": "5002.883489508474",
     "h24": "2.1628169874933754"
   },
   {
-    "id": 187784,
     "symbol": "rsETH",
     "name": "KelpDAO Restaked ETH",
     "price": "4901.720415816190",
     "h24": "2.1594011375672406"
   },
   {
-    "id": 187892,
     "symbol": "ezETH",
     "name": "Renzo Restaked ETH",
     "price": "4925.920427796638",
     "h24": "2.141976840538133"
   },
   {
-    "id": 190980,
     "symbol": "GIGA",
     "name": "Gigachad",
     "price": "0.011999875766",
     "h24": "2.131111278510653"
   },
   {
-    "id": 185402,
     "symbol": "ATH",
     "name": "Aethir",
     "price": "0.055863213706",
