@@ -498,12 +498,6 @@
     "h24": "2.2274245194097912"
   },
   {
-    "symbol": "CMETH",
-    "name": "Mantle Restaked Ether",
-    "price": "4995.449998498577",
-    "h24": "2.2162437709495446"
-  },
-  {
     "symbol": "frxETH",
     "name": "Frax Ether",
     "price": "4619.953156810911",
@@ -532,18 +526,6 @@
     "name": "WETH",
     "price": "4647.821226999084",
     "h24": "2.176645496855763"
-  },
-  {
-    "symbol": "rsETH",
-    "name": "KelpDAO Restaked ETH",
-    "price": "4901.720415816190",
-    "h24": "2.1594011375672406"
-  },
-  {
-    "symbol": "ezETH",
-    "name": "Renzo Restaked ETH",
-    "price": "4925.920427796638",
-    "h24": "2.141976840538133"
   },
   {
     "symbol": "GIGA",
@@ -598,5 +580,23 @@
     "name": "Swell Ethereum",
     "price": "5117.468262996867",
     "h24": "2.0381578544636945"
+  },
+  {
+    "symbol": "RPL",
+    "name": "Rocket Pool",
+    "price": "5.206208547700",
+    "h24": "2.0216024456454975"
+  },
+  {
+    "symbol": "SUSHI",
+    "name": "Sushi",
+    "price": "0.723400290295",
+    "h24": "2.0047422670550663"
+  },
+  {
+    "symbol": "rETH",
+    "name": "Rocket Pool ETH",
+    "price": "5314.728521038616",
+    "h24": "2.0017299191297244"
   }
 ]
