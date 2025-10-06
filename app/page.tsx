@@ -156,9 +156,9 @@ export default function CronDashboard() {
   }
 
   // Extract GitHub configuration from environment check result
-  const owner = envResult?.variables?.find((v: any) => v.name === "GITHUB_OWNER")?.value 
-  const repo = envResult?.variables?.find((v: any) => v.name === "GITHUB_REPO")?.value 
-  const branch = envResult?.variables?.find((v: any) => v.name === "GITHUB_BRANCH")?.value 
+  const owner = envResult?.variables?.find((v: any) => v.name === "GITHUB_OWNER")?.value || "mnz1988"
+  const repo = envResult?.variables?.find((v: any) => v.name === "GITHUB_REPO")?.value || "esp_uno_ft811"
+  const branch = envResult?.variables?.find((v: any) => v.name === "GITHUB_BRANCH")?.value || "master"
 
   // Construct GitHub raw content URLs for direct access to JSON files
   const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/raw.json`
