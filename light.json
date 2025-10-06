@@ -534,12 +534,6 @@
     "h24": "2.176645496855763"
   },
   {
-    "symbol": "mETH",
-    "name": "Mantle Staked Ether",
-    "price": "5002.883489508474",
-    "h24": "2.1628169874933754"
-  },
-  {
     "symbol": "rsETH",
     "name": "KelpDAO Restaked ETH",
     "price": "4901.720415816190",
@@ -588,15 +582,21 @@
     "h24": "2.0923045159497837"
   },
   {
-    "symbol": "stETH",
-    "name": "Lido Staked Ether",
-    "price": "4638.378635863392",
-    "h24": "2.082469109617121"
+    "symbol": "AIOT",
+    "name": "OKZOO",
+    "price": "1.021102967188",
+    "h24": "2.0630001301247876"
   },
   {
-    "symbol": "sAVAX",
-    "name": "BENQI Liquid Staked AVAX",
-    "price": "37.717931417143",
-    "h24": "2.076307897982075"
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "price": "0.226029974152",
+    "h24": "2.052794487229111"
+  },
+  {
+    "symbol": "swETH",
+    "name": "Swell Ethereum",
+    "price": "5117.468262996867",
+    "h24": "2.0381578544636945"
   }
 ]
