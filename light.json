@@ -234,12 +234,6 @@
     "h24": "5.501945160319035"
   },
   {
-    "symbol": "WBNB",
-    "name": "Wrapped BNB",
-    "price": "1224.768283453359",
-    "h24": "4.951217008058601"
-  },
-  {
     "symbol": "APEX",
     "name": "APEX",
     "price": "2.160021647217",
@@ -504,22 +498,10 @@
     "h24": "2.2274245194097912"
   },
   {
-    "symbol": "WBETH",
-    "name": "Wrapped Beacon ETH",
-    "price": "5015.329796974681",
-    "h24": "2.2270920690783744"
-  },
-  {
     "symbol": "CMETH",
     "name": "Mantle Restaked Ether",
     "price": "4995.449998498577",
     "h24": "2.2162437709495446"
-  },
-  {
-    "symbol": "cbETH",
-    "name": "Coinbase Wrapped Staked ETH",
-    "price": "5118.950071543390",
-    "h24": "2.2152308786741894"
   },
   {
     "symbol": "frxETH",
@@ -546,28 +528,10 @@
     "h24": "2.1813123310796927"
   },
   {
-    "symbol": "wstETH",
-    "name": "Wrapped stETH",
-    "price": "5646.038435367031",
-    "h24": "2.1792915316616197"
-  },
-  {
     "symbol": "WETH",
     "name": "WETH",
     "price": "4647.821226999084",
     "h24": "2.176645496855763"
-  },
-  {
-    "symbol": "weETH",
-    "name": "Wrapped eETH",
-    "price": "5003.620761234654",
-    "h24": "2.168887035345747"
-  },
-  {
-    "symbol": "CDCETH",
-    "name": "Crypto.com Wrapped Staked ETH",
-    "price": "4903.775287248131",
-    "h24": "2.1673859867760585"
   },
   {
     "symbol": "mETH",
@@ -598,5 +562,41 @@
     "name": "Aethir",
     "price": "0.055863213706",
     "h24": "2.1240377004716287"
+  },
+  {
+    "symbol": "GTETH",
+    "name": "GTETH",
+    "price": "4644.546385177217",
+    "h24": "2.1207131938823065"
+  },
+  {
+    "symbol": "QNT",
+    "name": "Quant",
+    "price": "105.002559213943",
+    "h24": "2.106605537077873"
+  },
+  {
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "price": "30.802419119856",
+    "h24": "2.0991886561185553"
+  },
+  {
+    "symbol": "ZEUS",
+    "name": "Zeus Network",
+    "price": "0.121938473628",
+    "h24": "2.0923045159497837"
+  },
+  {
+    "symbol": "stETH",
+    "name": "Lido Staked Ether",
+    "price": "4638.378635863392",
+    "h24": "2.082469109617121"
+  },
+  {
+    "symbol": "sAVAX",
+    "name": "BENQI Liquid Staked AVAX",
+    "price": "37.717931417143",
+    "h24": "2.076307897982075"
   }
 ]
