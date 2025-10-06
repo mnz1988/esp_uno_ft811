@@ -170,14 +170,14 @@ export default function CronDashboard() {
         {/* Page Header */}
         <div className="space-y-2">
           <h1 className="text-4xl font-bold tracking-tight">Cryptorank Cron-Job Dashboard</h1>
-          <p className="text-muted-foreground">Trigger the API to fetch data and save to GitHub</p>
+          <p className="text-muted-foreground">How to do: Trigger the API to fetch data and save to GitHub</p>
         </div>
 
         {/* Environment Variables Check Card */}
         <Card>
           <CardHeader>
-            <CardTitle>Environment Variables</CardTitle>
-            <CardDescription>Check if all required environment variables are configured</CardDescription>
+            <CardTitle>Environment Variables Checking</CardTitle>
+            <CardDescription>Check if all required environment variables are configured on the server</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
             <Button onClick={checkEnv} disabled={envLoading} className="w-full bg-transparent" variant="outline">
@@ -250,7 +250,7 @@ export default function CronDashboard() {
               {testLoading ? (
                 <>
                   <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                  Testing...
+                  Testing Github Access...
                 </>
               ) : (
                 "Test GitHub Credentials"
@@ -288,7 +288,7 @@ export default function CronDashboard() {
         {/* Manual Cron Trigger Card */}
         <Card>
           <CardHeader>
-            <CardTitle>Manual Trigger</CardTitle>
+            <CardTitle>Manual Trigger for API Request</CardTitle>
             <CardDescription>Test your cron job endpoint before setting up automated scheduling</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
@@ -338,7 +338,7 @@ export default function CronDashboard() {
         {/* Regenerate Light Version Card */}
         <Card>
           <CardHeader>
-            <CardTitle>Regenerate Light Version</CardTitle>
+            <CardTitle>Regenerate the json Light Version</CardTitle>
             <CardDescription>
               Re-filter and regenerate light.json from the existing raw.json file in your repository
             </CardDescription>
@@ -480,7 +480,7 @@ export default function CronDashboard() {
               <h3 className="font-semibold">2. Setup cron-job.org</h3>
               <p className="text-muted-foreground">Create a new cron job with this URL:</p>
               <code className="block rounded-md bg-muted p-2 text-foreground">
-                https://your-domain.vercel.app/api/cron
+                https://esp-uno-ft811.vercel.app/api/cron
               </code>
               <p className="text-muted-foreground">Set schedule to: Every 30 minutes</p>
             </div>
