@@ -169,8 +169,8 @@ function filterData(rawData: any): FilteredCrypto[] {
   // Sort others by 24-hour change (highest to lowest)
   const sortedOthers = otherCryptos.sort((a, b) => b.h24 - a.h24)
 
-  // Combine and limit to top 100
-  return [...sortedPriority, ...sortedOthers].slice(0, 100)
+  // Combine and limit to top 50
+  return [...sortedPriority, ...sortedOthers].slice(0, 50)
 }
 
 /**

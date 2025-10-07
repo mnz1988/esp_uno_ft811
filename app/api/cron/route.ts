@@ -178,15 +178,15 @@ function filterData(rawData: any): FilteredCrypto[] {
   // Example: [+15%, +10%, +5%, 0%, -5%, -10%]
   const sortedOthers = otherCryptos.sort((a, b) => b.h24 - a.h24)
 
-  // Combine priority cryptos (first) with sorted others, then limit to top 100
-  const result = [...sortedPriority, ...sortedOthers].slice(0, 100)
+  // Combine priority cryptos (first) with sorted others, then limit to top 50
+  const result = [...sortedPriority, ...sortedOthers].slice(0, 50)
 
   // Log filtering statistics for debugging
   console.log("[v0] Filtered data:", {
     total: cryptos.length, // Total cryptocurrencies in raw data
     priority: sortedPriority.length, // Number of priority cryptos found
     others: sortedOthers.length, // Number of other cryptos
-    final: result.length, // Final count after limiting to 100
+    final: result.length, // Final count after limiting to 50
   })
 
   return result
