@@ -147,7 +147,7 @@ async function readFromGitHub(filename: string) {
   const content = Buffer.from(data.content, "base64").toString("utf-8")
   return JSON.parse(content)
 }
-
+ 
 /**
  * Main API endpoint handler - Triggered by cron-job.org every 2 hours
  * Process:
