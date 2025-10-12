@@ -4,26 +4,6 @@ import { NextResponse } from "next/server"
 export const dynamic = "force-dynamic"
 
 /**
- * TypeScript types for Fear & Greed Index data
- */
-
-// Response structure from CryptoRank Global API
-type GlobalApiResponse = {
-  data: {
-    fearGreed: number // Fear & Greed Index value (0-100)
-    altcoinIndex: number // Altcoin Index value
-  }
-}
-
-// Structure for the FGI entry in light.json
-type FGICrypto = {
-  symbol: string
-  name: string
-  price: number // Will store fearGreed value
-  h24: number // Will store altcoinIndex value
-}
-
-/**
  * Commits a file to GitHub repository using GitHub API
  * @param filename - Name of the file to commit (e.g., "global.json", "light.json")
  * @param content - File content as a string
@@ -156,6 +136,22 @@ async function readFromGitHub(filename: string) {
  * 4. Read existing light.json from GitHub
  * 5. Add/update FGI entry in light.json
  * 6. Save updated light.json back to GitHub
+ *
+ * Expected API response structure:
+ * {
+ *   data: {
+ *     fearGreed: number,      // Fear & Greed Index value (0-100)
+ *     altcoinIndex: number    // Altcoin Index value
+ *   }
+ * }
+ *
+ * FGI entry structure in light.json:
+ * {
+ *   symbol: "FGI",
+ *   name: "Fear & Greed Index",
+ *   price: fearGreed,         // Stores Fear & Greed value
+ *   h24: altcoinIndex         // Stores Altcoin Index value
+ * }
  */
 export async function GET(request: Request) {
   try {
@@ -182,7 +178,7 @@ export async function GET(request: Request) {
       throw new Error(`CryptoRank API request failed: ${response.statusText}`)
     }
 
-    const globalData: GlobalApiResponse = await response.json()
+    const globalData = await response.json()
     console.log("[v0] Global data fetched successfully")
 
     // Step 2: Save complete raw global data to GitHub
@@ -208,7 +204,7 @@ export async function GET(request: Request) {
     }
 
     // Step 5: Create or update FGI entry
-    const fgiEntry: FGICrypto = {
+    const fgiEntry = {
       symbol: "FGI",
       name: "Fear & Greed Index",
       price: fearGreed, // Store Fear & Greed value as price
