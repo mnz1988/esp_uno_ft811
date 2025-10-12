@@ -2,6 +2,7 @@ import { NextResponse } from "next/server"
 
 // Force dynamic rendering to ensure fresh data on every request
 export const dynamic = "force-dynamic"
+export const runtime = "nodejs";
 
 /**
  * TypeScript interfaces for cryptocurrency data structure

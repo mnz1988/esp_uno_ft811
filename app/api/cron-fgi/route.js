@@ -129,8 +129,11 @@ export async function GET(request) {
       h24: altcoinIndex,
     }
 
+    // Remove any old FGI entry (if it exists)
     lightData = lightData.filter((crypto) => crypto.symbol !== "FGI")
-    lightData.unshift(fgiEntry)
+    // Add the updated FGI entry to the END of the array
+    lightData.push(fgiEntry)
+
 
     await commitToGitHub("light.json", JSON.stringify(lightData, null, 2))
     console.log("[v0] light.json updated")
