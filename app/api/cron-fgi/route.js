@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 
 export const dynamic = "force-dynamic"
+export const runtime = "nodejs";
 
 async function commitToGitHub(filename, content) {
   const token = process.env.GITHUB_TOKEN?.trim()
