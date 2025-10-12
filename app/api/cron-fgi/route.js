@@ -1,67 +1,37 @@
 import { NextResponse } from "next/server"
 
-// Force dynamic rendering to ensure fresh data on every request
 export const dynamic = "force-dynamic"
 
-/**
- * Commits a file to GitHub repository using GitHub API
- * @param filename - Name of the file to commit (e.g., "global.json", "light.json")
- * @param content - File content as a string
- * @returns Promise with GitHub API response
- */
 async function commitToGitHub(filename, content) {
-  // Read and sanitize environment variables (trim whitespace)
   const token = process.env.GITHUB_TOKEN?.trim()
   const owner = process.env.GITHUB_OWNER?.trim()
   const repo = process.env.GITHUB_REPO?.trim()
   const branch = process.env.GITHUB_BRANCH?.trim() || "main"
 
-  // Validate required credentials are present
   if (!token || !owner || !repo) {
-    throw new Error(
-      "GitHub credentials not configured. Check GITHUB_TOKEN, GITHUB_OWNER, and GITHUB_REPO in Vercel environment variables.",
-    )
+    throw new Error("GitHub credentials not configured")
   }
 
-  console.log("[v0] GitHub config:", {
-    owner,
-    repo,
-    branch,
-    tokenLength: token.length,
-  })
-
-  // Setup GitHub API headers with authentication
   const headers = {
-    Authorization: `token ${token}`, // GitHub Personal Access Token format
-    Accept: "application/vnd.github.v3+json", // GitHub API v3
-    "User-Agent": "Vercel-Cron-Job", // Required by GitHub API
+    Authorization: `token ${token}`,
+    Accept: "application/vnd.github.v3+json",
+    "User-Agent": "Vercel-Cron-Job",
   }
 
-  // Step 1: Check if file already exists to get its SHA (required for updates)
   let sha
   try {
     const getFileUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${filename}?ref=${branch}`
-    console.log("[v0] Checking if file exists:", getFileUrl)
-
     const getFileResponse = await fetch(getFileUrl, { headers })
 
     if (getFileResponse.ok) {
-      // File exists, get its SHA for update operation
       const fileData = await getFileResponse.json()
       sha = fileData.sha
-      console.log("[v0] Found existing file with SHA:", sha?.substring(0, 7))
-    } else if (getFileResponse.status === 404) {
-      // File doesn't exist yet, will create new file
-      console.log("[v0] File doesn't exist yet, will create new")
     }
   } catch (error) {
     console.log(`[v0] Error checking file:`, error)
   }
 
-  // Step 2: Commit the file (create or update)
   const commitUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${filename}`
-  console.log("[v0] Committing to:", commitUrl)
-
   const commitResponse = await fetch(commitUrl, {
     method: "PUT",
     headers: {
@@ -69,32 +39,21 @@ async function commitToGitHub(filename, content) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      message: `Update ${filename} - ${new Date().toISOString()}`, // Commit message with timestamp
-      content: Buffer.from(content).toString("base64"), // GitHub API requires base64 encoded content
+      message: `Update ${filename} - ${new Date().toISOString()}`,
+      content: Buffer.from(content).toString("base64"),
       branch,
-      ...(sha && { sha }), // Include SHA if updating existing file
+      ...(sha && { sha }),
     }),
   })
 
-  console.log("[v0] Commit response status:", commitResponse.status)
-
-  // Handle commit errors
   if (!commitResponse.ok) {
     const error = await commitResponse.text()
-    console.error("[v0] Commit failed with body:", error)
     throw new Error(`Failed to commit ${filename}: ${error}`)
   }
 
-  const result = await commitResponse.json()
-  console.log("[v0] Successfully committed:", filename)
-  return result
+  return await commitResponse.json()
 }
 
-/**
- * Reads a file from GitHub repository
- * @param filename - Name of the file to read
- * @returns Promise with file content as parsed JSON
- */
 async function readFromGitHub(filename) {
   const token = process.env.GITHUB_TOKEN?.trim()
   const owner = process.env.GITHUB_OWNER?.trim()
@@ -112,8 +71,6 @@ async function readFromGitHub(filename) {
   }
 
   const url = `https://api.github.com/repos/${owner}/${repo}/contents/${filename}?ref=${branch}`
-  console.log("[v0] Reading file from GitHub:", url)
-
   const response = await fetch(url, { headers })
 
   if (!response.ok) {
@@ -122,121 +79,69 @@ async function readFromGitHub(filename) {
   }
 
   const data = await response.json()
-  // Decode base64 content and parse JSON
   const content = Buffer.from(data.content, "base64").toString("utf-8")
   return JSON.parse(content)
 }
 
-/**
- * Main API endpoint handler - Triggered by cron-job.org every 2 hours
- * Process:
- * 1. Fetch global data from CryptoRank API
- * 2. Save raw response to GitHub as global.json
- * 3. Extract fearGreed and altcoinIndex values
- * 4. Read existing light.json from GitHub
- * 5. Add/update FGI entry in light.json
- * 6. Save updated light.json back to GitHub
- *
- * Expected API response structure:
- * {
- *   data: {
- *     fearGreed: number,      // Fear & Greed Index value (0-100)
- *     altcoinIndex: number    // Altcoin Index value
- *   }
- * }
- *
- * FGI entry structure in light.json:
- * {
- *   symbol: "FGI",
- *   name: "Fear & Greed Index",
- *   price: fearGreed,         // Stores Fear & Greed value
- *   h24: altcoinIndex         // Stores Altcoin Index value
- * }
- */
 export async function GET(request) {
   try {
     console.log("[v0] Starting FGI cron job...")
 
-    // Step 1: Fetch global data from CryptoRank API
     const globalApiUrl = "https://api.cryptorank.io/v2/global"
-    console.log("[v0] Fetching data from CryptoRank Global API...")
-
     const apiKey = process.env.X_API_KEY?.trim()
 
     if (!apiKey) {
-      throw new Error("X_API_KEY not configured in environment variables")
+      throw new Error("X_API_KEY not configured")
     }
 
     const response = await fetch(globalApiUrl, {
       headers: {
         "Content-Type": "application/json",
-        "x-api-key": apiKey, // Authentication header required by CryptoRank API
+        "x-api-key": apiKey,
       },
     })
 
     if (!response.ok) {
-      throw new Error(`CryptoRank API request failed: ${response.statusText}`)
+      throw new Error(`CryptoRank API failed: ${response.statusText}`)
     }
 
     const globalData = await response.json()
-    console.log("[v0] Global data fetched successfully")
+    console.log("[v0] Global data fetched")
 
-    // Step 2: Save complete raw global data to GitHub
-    console.log("[v0] Saving global.json to GitHub...")
     await commitToGitHub("global.json", JSON.stringify(globalData, null, 2))
-    console.log("[v0] global.json saved successfully")
+    console.log("[v0] global.json saved")
 
-    // Step 3: Extract Fear & Greed Index and Altcoin Index values
     const fearGreed = globalData.data.fearGreed
     const altcoinIndex = globalData.data.altcoinIndex
 
-    console.log("[v0] Extracted values:", { fearGreed, altcoinIndex })
-
-    // Step 4: Read existing light.json from GitHub
-    console.log("[v0] Reading existing light.json from GitHub...")
     let lightData = []
     try {
       lightData = await readFromGitHub("light.json")
-      console.log("[v0] Existing light.json loaded, entries:", lightData.length)
     } catch (error) {
-      console.log("[v0] light.json doesn't exist yet or error reading, will create new")
-      lightData = []
+      console.log("[v0] light.json doesn't exist, creating new")
     }
 
-    // Step 5: Create or update FGI entry
     const fgiEntry = {
       symbol: "FGI",
       name: "Fear & Greed Index",
-      price: fearGreed, // Store Fear & Greed value as price
-      h24: altcoinIndex, // Store Altcoin Index as h24
+      price: fearGreed,
+      h24: altcoinIndex,
     }
 
-    // Remove existing FGI entry if present
     lightData = lightData.filter((crypto) => crypto.symbol !== "FGI")
-
-    // Add FGI entry at the beginning of the array
     lightData.unshift(fgiEntry)
 
-    console.log("[v0] FGI entry added/updated in light.json")
-
-    // Step 6: Save updated light.json back to GitHub
-    console.log("[v0] Saving updated light.json to GitHub...")
     await commitToGitHub("light.json", JSON.stringify(lightData, null, 2))
-    console.log("[v0] light.json updated successfully")
+    console.log("[v0] light.json updated")
 
-    // Return success response
     return NextResponse.json({
       success: true,
-      message: "Fear & Greed Index data updated successfully",
+      message: "FGI data updated successfully",
       timestamp: new Date().toISOString(),
-      fgiData: {
-        fearGreed,
-        altcoinIndex,
-      },
+      fgiData: { fearGreed, altcoinIndex },
       totalEntries: lightData.length,
     })
   } catch (error) {
-    // Log and return error details
     console.error("[v0] Error:", error)
     return NextResponse.json(
       {
