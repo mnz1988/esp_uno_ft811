@@ -35,6 +35,11 @@ export default function CronDashboard() {
   const [copiedRaw, setCopiedRaw] = useState(false) // Copy feedback for raw.json URL
   const [copiedLight, setCopiedLight] = useState(false) // Copy feedback for light.json URL
 
+  // State for FGI cron job
+  const [fgiLoading, setFgiLoading] = useState(false) // FGI cron job loading state
+  const [fgiResult, setFgiResult] = useState<any>(null) // FGI cron job result
+  const [fgiError, setFgiError] = useState<string | null>(null) // FGI cron job error
+
   // Automatically check environment variables when page loads
   useEffect(() => {
     checkEnv()
@@ -135,6 +140,31 @@ export default function CronDashboard() {
   }
 
   /**
+   * Triggers the Fear & Greed Index cron job endpoint
+   * Fetches global data and updates light.json with FGI entry
+   */
+  const triggerFgiCron = async () => {
+    setFgiLoading(true)
+    setFgiError(null)
+    setFgiResult(null)
+
+    try {
+      const response = await fetch("/api/cron-fgi")
+      const data = await response.json()
+
+      if (!response.ok) {
+        throw new Error(data.error || "Failed to trigger FGI cron job")
+      }
+
+      setFgiResult(data)
+    } catch (err) {
+      setFgiError(err instanceof Error ? err.message : "Unknown error occurred")
+    } finally {
+      setFgiLoading(false)
+    }
+  }
+
+  /**
    * Copies text to clipboard and shows feedback
    * @param text - Text to copy
    * @param type - Which URL is being copied (for feedback state)
@@ -156,9 +186,9 @@ export default function CronDashboard() {
   }
 
   // Extract GitHub configuration from environment check result
-  const owner = envResult?.variables?.find((v: any) => v.name === "GITHUB_OWNER")?.value || "mnz1988"
-  const repo = envResult?.variables?.find((v: any) => v.name === "GITHUB_REPO")?.value || "esp_uno_ft811"
-  const branch = envResult?.variables?.find((v: any) => v.name === "GITHUB_BRANCH")?.value || "master"
+  const owner = envResult?.variables?.find((v: any) => v.name === "GITHUB_OWNER")?.value || "YOUR_USERNAME"
+  const repo = envResult?.variables?.find((v: any) => v.name === "GITHUB_REPO")?.value || "YOUR_REPO"
+  const branch = envResult?.variables?.find((v: any) => v.name === "GITHUB_BRANCH")?.value || "main"
 
   // Construct GitHub raw content URLs for direct access to JSON files
   const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/raw.json`
@@ -392,6 +422,59 @@ export default function CronDashboard() {
           </CardContent>
         </Card>
 
+        {/* Fear & Greed Index Cron Job Card */}
+        <Card>
+          <CardHeader>
+            <CardTitle>Fear & Greed Index Update</CardTitle>
+            <CardDescription>
+              Fetch global market data and update light.json with Fear & Greed Index (runs every 2 hours)
+            </CardDescription>
+          </CardHeader>
+          <CardContent className="space-y-4">
+            <Button onClick={triggerFgiCron} disabled={fgiLoading} className="w-full" size="lg" variant="secondary">
+              {fgiLoading ? (
+                <>
+                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+                  Processing...
+                </>
+              ) : (
+                <>
+                  <Clock className="mr-2 h-4 w-4" />
+                  Update Fear & Greed Index
+                </>
+              )}
+            </Button>
+
+            {/* Display FGI cron job success */}
+            {fgiResult && (
+              <Alert className="border-green-500/50 bg-green-500/10">
+                <CheckCircle2 className="h-4 w-4 text-green-500" />
+                <AlertDescription className="space-y-2">
+                  <p className="font-semibold text-green-500">Success!</p>
+                  <div className="space-y-1 text-sm">
+                    <p>Timestamp: {fgiResult.timestamp}</p>
+                    <p>Fear & Greed: {fgiResult.fgiData?.fearGreed}</p>
+                    <p>Altcoin Index: {fgiResult.fgiData?.altcoinIndex}</p>
+                    <p>Total entries in light.json: {fgiResult.totalEntries}</p>
+                    <p className="text-muted-foreground">{fgiResult.message}</p>
+                  </div>
+                </AlertDescription>
+              </Alert>
+            )}
+
+            {/* Display FGI cron job error */}
+            {fgiError && (
+              <Alert className="border-red-500/50 bg-red-500/10">
+                <XCircle className="h-4 w-4 text-red-500" />
+                <AlertDescription>
+                  <p className="font-semibold text-red-500">Error</p>
+                  <p className="text-sm">{fgiError}</p>
+                </AlertDescription>
+              </Alert>
+            )}
+          </CardContent>
+        </Card>
+
         {/* JSON File URLs Card */}
         <Card>
           <CardHeader>
@@ -478,11 +561,21 @@ export default function CronDashboard() {
             {/* Step 2: Cron Job Setup */}
             <div className="space-y-2">
               <h3 className="font-semibold">2. Setup cron-job.org</h3>
-              <p className="text-muted-foreground">Create a new cron job with this URL:</p>
-              <code className="block rounded-md bg-muted p-2 text-foreground">
-                https://esp-uno-ft811.vercel.app/api/cron
-              </code>
-              <p className="text-muted-foreground">Set schedule to: Every 30 minutes</p>
+              <p className="text-muted-foreground">Create two cron jobs:</p>
+              <div className="space-y-2">
+                <div>
+                  <p className="font-medium">Cryptocurrency Data (Every 30 minutes):</p>
+                  <code className="block rounded-md bg-muted p-2 text-foreground">
+                    https://esp-uno-ft811.vercel.app/api/cron
+                  </code>
+                </div>
+                <div>
+                  <p className="font-medium">Fear & Greed Index (Every 2 hours):</p>
+                  <code className="block rounded-md bg-muted p-2 text-foreground">
+                    https://esp-uno-ft811.vercel.app/api/cron-fgi
+                  </code>
+                </div>
+              </div>
             </div>
 
             {/* Step 3: Customization */}
