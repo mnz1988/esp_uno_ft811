@@ -147,7 +147,7 @@ async function readFromGitHub(filename: string) {
   const content = Buffer.from(data.content, "base64").toString("utf-8")
   return JSON.parse(content)
 }
- 
+
 /**
  * Main API endpoint handler - Triggered by cron-job.org every 2 hours
  * Process:
@@ -166,9 +166,16 @@ export async function GET(request: Request) {
     const globalApiUrl = "https://api.cryptorank.io/v2/global"
     console.log("[v0] Fetching data from CryptoRank Global API...")
 
+    const apiKey = process.env.X_API_KEY?.trim()
+
+    if (!apiKey) {
+      throw new Error("X_API_KEY not configured in environment variables")
+    }
+
     const response = await fetch(globalApiUrl, {
       headers: {
         "Content-Type": "application/json",
+        "x-api-key": apiKey, // Authentication header required by CryptoRank API
       },
     })
 
