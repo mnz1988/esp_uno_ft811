@@ -9,7 +9,7 @@ export const dynamic = "force-dynamic"
  * @param content - File content as a string
  * @returns Promise with GitHub API response
  */
-async function commitToGitHub(filename: string, content: string) {
+async function commitToGitHub(filename, content) {
   // Read and sanitize environment variables (trim whitespace)
   const token = process.env.GITHUB_TOKEN?.trim()
   const owner = process.env.GITHUB_OWNER?.trim()
@@ -38,7 +38,7 @@ async function commitToGitHub(filename: string, content: string) {
   }
 
   // Step 1: Check if file already exists to get its SHA (required for updates)
-  let sha: string | undefined
+  let sha
   try {
     const getFileUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${filename}?ref=${branch}`
     console.log("[v0] Checking if file exists:", getFileUrl)
@@ -95,7 +95,7 @@ async function commitToGitHub(filename: string, content: string) {
  * @param filename - Name of the file to read
  * @returns Promise with file content as parsed JSON
  */
-async function readFromGitHub(filename: string) {
+async function readFromGitHub(filename) {
   const token = process.env.GITHUB_TOKEN?.trim()
   const owner = process.env.GITHUB_OWNER?.trim()
   const repo = process.env.GITHUB_REPO?.trim()
@@ -153,7 +153,7 @@ async function readFromGitHub(filename: string) {
  *   h24: altcoinIndex         // Stores Altcoin Index value
  * }
  */
-export async function GET(request: Request) {
+export async function GET(request) {
   try {
     console.log("[v0] Starting FGI cron job...")
 
@@ -194,7 +194,7 @@ export async function GET(request: Request) {
 
     // Step 4: Read existing light.json from GitHub
     console.log("[v0] Reading existing light.json from GitHub...")
-    let lightData: any[] = []
+    let lightData = []
     try {
       lightData = await readFromGitHub("light.json")
       console.log("[v0] Existing light.json loaded, entries:", lightData.length)
@@ -212,7 +212,7 @@ export async function GET(request: Request) {
     }
 
     // Remove existing FGI entry if present
-    lightData = lightData.filter((crypto: any) => crypto.symbol !== "FGI")
+    lightData = lightData.filter((crypto) => crypto.symbol !== "FGI")
 
     // Add FGI entry at the beginning of the array
     lightData.unshift(fgiEntry)
