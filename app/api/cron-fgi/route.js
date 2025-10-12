@@ -4,20 +4,19 @@ import { NextResponse } from "next/server"
 export const dynamic = "force-dynamic"
 
 /**
- * TypeScript interfaces for Fear & Greed Index data
+ * TypeScript types for Fear & Greed Index data
  */
 
 // Response structure from CryptoRank Global API
-interface GlobalApiResponse {
+type GlobalApiResponse = {
   data: {
     fearGreed: number // Fear & Greed Index value (0-100)
     altcoinIndex: number // Altcoin Index value
-    // ... other fields we don't need
   }
 }
 
 // Structure for the FGI entry in light.json
-interface FGICrypto {
+type FGICrypto = {
   symbol: string
   name: string
   price: number // Will store fearGreed value
