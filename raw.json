@@ -8,40 +8,40 @@
       "type": "coin",
       "rank": 1,
       "categoryId": 38,
-      "lastUpdated": 1772509475228,
+      "lastUpdated": 1772510344332,
       "totalSupply": "21000000",
       "maxSupply": "21000000",
       "circulatingSupply": "19997043",
-      "volume24hBase": "255162.1118",
+      "volume24hBase": "254792.8634",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.bitcoin1524754012028.png",
         "x150": "https://img.cryptorank.io/coins/150x150.bitcoin1524754012028.png",
         "icon": "https://img.cryptorank.io/coins/icon.bitcoin1524754012028.png",
         "native": "https://img.cryptorank.io/coins/bitcoin1524754012028.png"
       },
-      "price": "68445.62446501023",
+      "price": "68348.45067340648",
       "high24h": "69774.58287918959",
       "low24h": "65362.68880030723",
-      "volume24h": "17464730081.961755495",
-      "marketCap": "1368710095588.6615647",
-      "fullyDilutedValuation": "1437358113765.21483",
+      "volume24h": "17414697456.030895271",
+      "marketCap": "1366766907099.488337",
+      "fullyDilutedValuation": "1435317464141.53608",
       "createdAt": 1520353235663,
       "ath": {
         "date": 1759708800000,
         "value": "126037.7223335276",
-        "percentChange": "-45.694334047162606"
+        "percentChange": "-45.77143302182243"
       },
       "atl": {
         "date": 1294272000000,
         "value": "0.25675778",
-        "percentChange": "26657563.29067428"
+        "percentChange": "26619716.80687786"
       },
       "percentChange": {
-        "h24": "2.3647607448832275",
-        "d7": "7.520832296108753",
-        "d30": "-13.035398355043036",
-        "m3": "-26.193052567943507",
-        "m6": "-38.32072284478277"
+        "h24": "2.151373195065908",
+        "d7": "7.614861622370986",
+        "d30": "-13.23301199702201",
+        "m3": "-26.306853287992872",
+        "m6": "-38.455431938741796"
       }
     },
     {
@@ -52,40 +52,40 @@
       "type": "coin",
       "rank": 2,
       "categoryId": 65,
-      "lastUpdated": 1772509474442,
+      "lastUpdated": 1772510344332,
       "totalSupply": "120692218",
       "maxSupply": null,
       "circulatingSupply": "120692218",
-      "volume24hBase": "4709169.0985",
+      "volume24hBase": "4706375.2027",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ethereum1765201517428.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ethereum1765201517428.png",
         "icon": "https://img.cryptorank.io/coins/icon.ethereum1765201517428.png",
         "native": "https://img.cryptorank.io/coins/ethereum1765201517428.png"
       },
-      "price": "2012.577537140764",
+      "price": "2008.51161460122",
       "high24h": "2072.807848380547",
       "low24h": "1924.309104808699",
-      "volume24h": "9477567946.2385218735",
-      "marketCap": "242902446854.49618537",
-      "fullyDilutedValuation": "242902446854.49618537",
+      "volume24h": "9452809257.2941210572",
+      "marketCap": "242411721644.98242731",
+      "fullyDilutedValuation": "242411721644.98242731",
       "createdAt": 1520353235664,
       "ath": {
         "date": 1755993600000,
         "value": "4947.766190821724",
-        "percentChange": "-59.323511671304026"
+        "percentChange": "-59.40568860494908"
       },
       "atl": {
         "date": 1445385600000,
         "value": "0.420897",
-        "percentChange": "478063.90640483634"
+        "percentChange": "477097.89273889334"
       },
       "percentChange": {
-        "h24": "1.9077827496211077",
-        "d7": "9.976655352208425",
-        "d30": "-17.548379209835065",
-        "m3": "-33.67275235354727",
-        "m6": "-53.47809832519189"
+        "h24": "1.6947171217583799",
+        "d7": "9.817347773156518",
+        "d30": "-17.69987621381267",
+        "m3": "-33.79821533857793",
+        "m6": "-53.65283234239814"
       }
     },
     {
@@ -96,40 +96,40 @@
       "type": "token",
       "rank": 3,
       "categoryId": 37,
-      "lastUpdated": 1772509460294,
+      "lastUpdated": 1772510344333,
       "totalSupply": "189100805663",
       "maxSupply": null,
       "circulatingSupply": "183633868265",
-      "volume24hBase": "40566140696.8707",
+      "volume24hBase": "40486727754.2694",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.tether1645007690922.png",
         "x150": "https://img.cryptorank.io/coins/150x150.tether1645007690922.png",
         "icon": "https://img.cryptorank.io/coins/icon.tether1645007690922.png",
         "native": "https://img.cryptorank.io/coins/tether1645007690922.png"
       },
-      "price": "0.999812310491",
+      "price": "0.999831571846",
       "high24h": "1.0001873536",
       "low24h": "0.999605018102",
-      "volume24h": "40558526857.84127942",
-      "marketCap": "183599402114.42957147",
-      "fullyDilutedValuation": "189065313425.63360711",
+      "volume24h": "40479908649.452247839",
+      "marketCap": "183602939151.55624687",
+      "fullyDilutedValuation": "189068955763.38226816",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1495843200000,
         "value": "1.20981",
-        "percentChange": "-17.357906572850283"
+        "percentChange": "-17.356314475330837"
       },
       "atl": {
         "date": 1485993600000,
         "value": "0.849809",
-        "percentChange": "17.65141466976697"
+        "percentChange": "17.653681220839037"
       },
       "percentChange": {
-        "h24": "-0.013352934293719709",
-        "d7": "0.02651465480902333",
-        "d30": "0.09014533131454865",
-        "m3": "-0.03190625094226586",
-        "m6": "-0.02834134608524861"
+        "h24": "-0.012893735849547016",
+        "d7": "0.02860087067360805",
+        "d30": "0.09350180392998272",
+        "m3": "-0.030064131430800948",
+        "m6": "-0.02663252165979969"
       }
     },
     {
@@ -140,40 +140,40 @@
       "type": "coin",
       "rank": 4,
       "categoryId": 65,
-      "lastUpdated": 1772509469948,
+      "lastUpdated": 1772510344333,
       "totalSupply": "136359583",
       "maxSupply": "136359583",
       "circulatingSupply": "136359583",
-      "volume24hBase": "1140864.3688",
+      "volume24hBase": "1140486.8903",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.bnb1732530324407.png",
         "x150": "https://img.cryptorank.io/coins/150x150.bnb1732530324407.png",
         "icon": "https://img.cryptorank.io/coins/icon.bnb1732530324407.png",
         "native": "https://img.cryptorank.io/coins/bnb1732530324407.png"
       },
-      "price": "635.688803556368",
+      "price": "635.40960023862",
       "high24h": "650.418386122997",
       "low24h": "613.56179719044",
-      "volume24h": "725234705.62256297354",
-      "marketCap": "86682260170.715257475",
-      "fullyDilutedValuation": "86682260170.715257475",
+      "volume24h": "724676319.04290986176",
+      "marketCap": "86644188122.734923695",
+      "fullyDilutedValuation": "86644188122.734923695",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1760313600000,
         "value": "1369.216260363937",
-        "percentChange": "-53.57279766839738"
+        "percentChange": "-53.59318913801619"
       },
       "atl": {
         "date": 1501545600000,
         "value": "0.0961094",
-        "percentChange": "661322.0914461728"
+        "percentChange": "661031.5857123445"
       },
       "percentChange": {
-        "h24": "1.7525360627624738",
-        "d7": "7.234708614110765",
-        "d30": "-18.545831494178234",
-        "m3": "-28.45355818915833",
-        "m6": "-25.33995726904955"
+        "h24": "1.691700202620781",
+        "d7": "7.223502632659563",
+        "d30": "-18.773830768999066",
+        "m3": "-28.441056109523334",
+        "m6": "-25.394909361389374"
       }
     },
     {
@@ -184,40 +184,40 @@
       "type": "coin",
       "rank": 5,
       "categoryId": 38,
-      "lastUpdated": 1772509474614,
+      "lastUpdated": 1772510344333,
       "totalSupply": "99985708785",
       "maxSupply": "100000000000",
       "circulatingSupply": "61090376977",
-      "volume24hBase": "1168391758.5695",
+      "volume24hBase": "1167581170.4092",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.xrp1634717634479.png",
         "x150": "https://img.cryptorank.io/coins/150x150.xrp1634717634479.png",
         "icon": "https://img.cryptorank.io/coins/icon.xrp1634717634479.png",
         "native": "https://img.cryptorank.io/coins/xrp1634717634479.png"
       },
-      "price": "1.37477200026",
+      "price": "1.373513818909",
       "high24h": "1.414906978472",
       "low24h": "1.33857847622",
-      "volume24h": "1606272275.0158905112",
-      "marketCap": "83985339753.307742014",
-      "fullyDilutedValuation": "137457552863.76830428",
+      "volume24h": "1603688872.2549801982",
+      "marketCap": "83908476980.269720858",
+      "fullyDilutedValuation": "137331752709.60850042",
       "createdAt": 1520353235664,
       "ath": {
         "date": 1515024000000,
         "value": "3.84194",
-        "percentChange": "-64.21672383587459"
+        "percentChange": "-64.2494724303607"
       },
       "atl": {
         "date": 1404691200000,
         "value": "0.00280235",
-        "percentChange": "48957.82647635021"
+        "percentChange": "48912.92910981854"
       },
       "percentChange": {
-        "h24": "0.023568272521400927",
-        "d7": "3.273833444197653",
-        "d30": "-17.270490977661236",
-        "m3": "-36.82082791029419",
-        "m6": "-51.55127956801172"
+        "h24": "-0.09587332034853151",
+        "d7": "3.1530709324929016",
+        "d30": "-17.502850651811574",
+        "m3": "-36.91651132717894",
+        "m6": "-51.625833043733394"
       }
     },
     {
@@ -228,40 +228,40 @@
       "type": "token",
       "rank": 6,
       "categoryId": 37,
-      "lastUpdated": 1772509472654,
+      "lastUpdated": 1772510344333,
       "totalSupply": "78654855923",
       "maxSupply": null,
       "circulatingSupply": "78597692029",
-      "volume24hBase": "11021335216.2302",
+      "volume24hBase": "11030192766.3214",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.usd coin1634317395959.png",
         "x150": "https://img.cryptorank.io/coins/150x150.usd coin1634317395959.png",
         "icon": "https://img.cryptorank.io/coins/icon.usd coin1634317395959.png",
         "native": "https://img.cryptorank.io/coins/usd coin1634317395959.png"
       },
-      "price": "0.999999966359",
+      "price": "1.000024730063",
       "high24h": "1.000118658247",
       "low24h": "0.999849451346",
-      "volume24h": "11021334845.461461991",
-      "marketCap": "78597689384.895042452",
-      "fullyDilutedValuation": "78654853276.971991894",
+      "volume24h": "11030465543.683413273",
+      "marketCap": "78599635754.875531768",
+      "fullyDilutedValuation": "78656801062.542231713",
       "createdAt": 1538128957765,
       "ath": {
         "date": 1538438400000,
         "value": "1.29221634",
-        "percentChange": "-22.613579831454537"
+        "percentChange": "-22.611663456987397"
       },
       "atl": {
         "date": 1538438400000,
         "value": "0.83083855",
-        "percentChange": "20.360323477888695"
+        "percentChange": "20.363304045412914"
       },
       "percentChange": {
-        "h24": "-0.0034163005998464717",
-        "d7": "0.006456514256039698",
-        "d30": "0.020239260928672197",
-        "m3": "0.0260222161708792",
-        "m6": "0.009653562947545883"
+        "h24": "-0.0020037801932414286",
+        "d7": "0.008151908801217524",
+        "d30": "0.03248487585253962",
+        "m3": "0.028612578266105835",
+        "m6": "0.011165670185818606"
       }
     },
     {
@@ -272,40 +272,40 @@
       "type": "coin",
       "rank": 7,
       "categoryId": 65,
-      "lastUpdated": 1772509470020,
+      "lastUpdated": 1772510344333,
       "totalSupply": "621464520",
       "maxSupply": null,
       "circulatingSupply": "569646200",
-      "volume24hBase": "28969956.3002",
+      "volume24hBase": "28962353.3832",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.solana1606979093056.png",
         "x150": "https://img.cryptorank.io/coins/150x150.solana1606979093056.png",
         "icon": "https://img.cryptorank.io/coins/icon.solana1606979093056.png",
         "native": "https://img.cryptorank.io/coins/solana1606979093056.png"
       },
-      "price": "86.519488030316",
+      "price": "86.334986610941",
       "high24h": "89.733013935795",
       "low24h": "82.547668162639",
-      "volume24h": "2506465787.3539314928",
-      "marketCap": "49285497582.414994199",
-      "fullyDilutedValuation": "53768792099.406078388",
+      "volume24h": "2500464391.5599137735",
+      "marketCap": "49180397049.973419074",
+      "fullyDilutedValuation": "53654131013.374875313",
       "createdAt": 1539872239890,
       "ath": {
         "date": 1737244800000,
         "value": "293.648023454195",
-        "percentChange": "-70.53632882912565"
+        "percentChange": "-70.59915963493347"
       },
       "atl": {
         "date": 1589155200000,
         "value": "0.5076511",
-        "percentChange": "16943.100670975793"
+        "percentChange": "16906.75653237844"
       },
       "percentChange": {
-        "h24": "1.9295350260164903",
-        "d7": "12.656567758990288",
-        "d30": "-17.36431196919701",
-        "m3": "-38.29029841640538",
-        "m6": "-58.728541172341075"
+        "h24": "1.6580501387153463",
+        "d7": "12.450522866397412",
+        "d30": "-17.61323294438242",
+        "m3": "-38.505951665209714",
+        "m6": "-58.879850690273294"
       }
     },
     {
@@ -316,40 +316,40 @@
       "type": "coin",
       "rank": 8,
       "categoryId": 65,
-      "lastUpdated": 1772509469946,
+      "lastUpdated": 1772510344333,
       "totalSupply": "94741585034",
       "maxSupply": null,
       "circulatingSupply": "94741169330",
-      "volume24hBase": "703302857.9393",
+      "volume24hBase": "703364923.0451",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.tron1608810047161.png",
         "x150": "https://img.cryptorank.io/coins/150x150.tron1608810047161.png",
         "icon": "https://img.cryptorank.io/coins/icon.tron1608810047161.png",
         "native": "https://img.cryptorank.io/coins/tron1608810047161.png"
       },
-      "price": "0.283110508594",
+      "price": "0.283086047354",
       "high24h": "0.283514160887",
       "low24h": "0.280964376936",
-      "volume24h": "199112429.80680895378",
-      "marketCap": "26822220633.806574222",
-      "fullyDilutedValuation": "26822338323.977438782",
+      "volume24h": "199112795.91228774448",
+      "marketCap": "26819903147.325712453",
+      "fullyDilutedValuation": "26820020827.3279417",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1733270400000,
         "value": "0.434151446383",
-        "percentChange": "-34.78991928907559"
+        "percentChange": "-34.79555355338677"
       },
       "atl": {
         "date": 1505433600000,
         "value": "0.00109126",
-        "percentChange": "25843.451477558054"
+        "percentChange": "25841.209918259625"
       },
       "percentChange": {
-        "h24": "0.64367134029633",
-        "d7": "0.4512797287705451",
-        "d30": "-1.0112259898846103",
-        "m3": "1.0429829697625008",
-        "m6": "-16.276880489111427"
+        "h24": "0.6681966194577063",
+        "d7": "0.4341256724612057",
+        "d30": "-0.9425761425503137",
+        "m3": "1.0485133127778867",
+        "m6": "-16.352938330707595"
       }
     },
     {
@@ -360,40 +360,40 @@
       "type": "token",
       "rank": 9,
       "categoryId": null,
-      "lastUpdated": 1772509468970,
+      "lastUpdated": 1772510344333,
       "totalSupply": "9421320",
       "maxSupply": null,
       "circulatingSupply": "9421320",
-      "volume24hBase": "13097.6589",
+      "volume24hBase": "12886.2007",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.lido_staked_ether1706874112344.png",
         "x150": "https://img.cryptorank.io/coins/150x150.lido_staked_ether1706874112344.png",
         "icon": "https://img.cryptorank.io/coins/icon.lido_staked_ether1706874112344.png",
         "native": "https://img.cryptorank.io/coins/lido_staked_ether1706874112344.png"
       },
-      "price": "2010.503610234178",
+      "price": "2007.170404139547",
       "high24h": "2080.365337399133",
       "low24h": "1922.659770792013",
-      "volume24h": "26332890.504065812566",
-      "marketCap": "18941597873.171465875",
-      "fullyDilutedValuation": "18941597873.171465875",
+      "volume24h": "25864800.666842313449",
+      "marketCap": "18910194671.927996942",
+      "fullyDilutedValuation": "18910194671.927996942",
       "createdAt": 1640081867899,
       "ath": {
         "date": 1755993600000,
         "value": "4929.209473529158",
-        "percentChange": "-59.21245341609065"
+        "percentChange": "-59.2800749305045"
       },
       "atl": {
         "date": 1655510400000,
         "value": "832.463216324344",
-        "percentChange": "141.5126063000538"
+        "percentChange": "141.11220349194554"
       },
       "percentChange": {
-        "h24": "1.9309100829713932",
-        "d7": "9.927552351781063",
-        "d30": "-17.609720632091225",
-        "m3": "-33.70467735045205",
-        "m6": "-53.421390767246585"
+        "h24": "1.77989750446031",
+        "d7": "9.832518410321738",
+        "d30": "-17.758537273551678",
+        "m3": "-33.780873950124004",
+        "m6": "-53.592393718920086"
       }
     },
     {
@@ -404,40 +404,40 @@
       "type": "coin",
       "rank": 10,
       "categoryId": 59,
-      "lastUpdated": 1772509475351,
+      "lastUpdated": 1772510344333,
       "totalSupply": "168961023127",
       "maxSupply": null,
       "circulatingSupply": "168942613127",
-      "volume24hBase": "7534421694.5747",
+      "volume24hBase": "7539347175.2153",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.dogecoin1524754995294.png",
         "x150": "https://img.cryptorank.io/coins/150x150.dogecoin1524754995294.png",
         "icon": "https://img.cryptorank.io/coins/icon.dogecoin1524754995294.png",
         "native": "https://img.cryptorank.io/coins/dogecoin1524754995294.png"
       },
-      "price": "0.092692460181",
+      "price": "0.092586718376",
       "high24h": "0.097060028775",
       "low24h": "0.090888092522",
-      "volume24h": "698384082.91122792348",
-      "marketCap": "15659706440.148535396",
-      "fullyDilutedValuation": "15661412908.340467606",
+      "volume24h": "698043413.65055010827",
+      "marketCap": "15641842143.295069722",
+      "fullyDilutedValuation": "15643546664.780371882",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1620432000000,
         "value": "0.74982732",
-        "percentChange": "-87.63815911895554"
+        "percentChange": "-87.65226127316886"
       },
       "atl": {
         "date": 1430956800000,
         "value": "0.00008547",
-        "percentChange": "108350.28686205686"
+        "percentChange": "108226.56882648883"
       },
       "percentChange": {
-        "h24": "-0.6225140575321124",
-        "d7": "0.7186319752280956",
-        "d30": "-11.44933781869917",
-        "m3": "-37.224113624847234",
-        "m6": "-56.8544282964954"
+        "h24": "-0.8230729926599107",
+        "d7": "0.6072639247302385",
+        "d30": "-11.640322196982268",
+        "m3": "-37.2598288294915",
+        "m6": "-56.95721215816234"
       }
     },
     {
@@ -448,40 +448,40 @@
       "type": "token",
       "rank": 11,
       "categoryId": 37,
-      "lastUpdated": 1772509471261,
+      "lastUpdated": 1772510344333,
       "totalSupply": "10173035214",
       "maxSupply": null,
       "circulatingSupply": "10173035214",
-      "volume24hBase": "79595824.2021",
+      "volume24hBase": "77246119.0814",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.usds1724768606452.png",
         "x150": "https://img.cryptorank.io/coins/150x150.usds1724768606452.png",
         "icon": "https://img.cryptorank.io/coins/icon.usds1724768606452.png",
         "native": "https://img.cryptorank.io/coins/usds1724768606452.png"
       },
-      "price": "1.000012175961",
+      "price": "1.000031384062",
       "high24h": "1.000486067825",
       "low24h": "0.999314592232",
-      "volume24h": "79596793.357751247626",
-      "marketCap": "10173159080.480017291",
-      "fullyDilutedValuation": "10173159080.480017291",
+      "volume24h": "77248543.378390510041",
+      "marketCap": "10173354485.167884359",
+      "fullyDilutedValuation": "10173354485.167884359",
       "createdAt": 1724764818325,
       "ath": {
         "date": 1732579200000,
         "value": "1.192676844423",
-        "percentChange": "-16.153970739258245"
+        "percentChange": "-16.152360235869182"
       },
       "atl": {
         "date": 1739491200000,
         "value": "0.777002097946",
-        "percentChange": "28.701348246616796"
+        "percentChange": "28.703820325012824"
       },
       "percentChange": {
-        "h24": "0.06670517037820477",
-        "d7": "-0.06549035349829804",
-        "d30": "0.03628358458283321",
-        "m3": "0.27195186613857414",
-        "m6": "0.12478926137796309"
+        "h24": "0.06715942969767558",
+        "d7": "-0.0646293789766781",
+        "d30": "0.09844705317376619",
+        "m3": "0.27387787646645945",
+        "m6": "0.25294690647811263"
       }
     },
     {
@@ -492,40 +492,40 @@
       "type": "coin",
       "rank": 12,
       "categoryId": 65,
-      "lastUpdated": 1772509461436,
+      "lastUpdated": 1772510344333,
       "totalSupply": "45000000000",
       "maxSupply": "45000000000",
       "circulatingSupply": "36820032121",
-      "volume24hBase": "1224097911.8980",
+      "volume24hBase": "1223536972.8510",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.cardano1524754132195.png",
         "x150": "https://img.cryptorank.io/coins/150x150.cardano1524754132195.png",
         "icon": "https://img.cryptorank.io/coins/icon.cardano1524754132195.png",
         "native": "https://img.cryptorank.io/coins/cardano1524754132195.png"
       },
-      "price": "0.274085864402",
+      "price": "0.27360724839",
       "high24h": "0.287613701554",
       "low24h": "0.269263067852",
-      "volume24h": "335507934.29524657045",
-      "marketCap": "10091850331.193690457",
-      "fullyDilutedValuation": "12333863898.09",
+      "volume24h": "334768584.44519224346",
+      "marketCap": "10074227674.258225535",
+      "fullyDilutedValuation": "12312326177.55",
       "createdAt": 1520353235664,
       "ath": {
         "date": 1630540800000,
         "value": "3.08461573",
-        "percentChange": "-91.11442434348216"
+        "percentChange": "-91.12994057156027"
       },
       "atl": {
         "date": 1506816000000,
         "value": "0.0173541",
-        "percentChange": "1479.372392702589"
+        "percentChange": "1476.614450706173"
       },
       "percentChange": {
-        "h24": "-1.0847689407009022",
-        "d7": "6.06839868418148",
-        "d30": "-7.170413353720807",
-        "m3": "-37.37419012809171",
-        "m6": "-67.06785226262842"
+        "h24": "-1.3081841035483914",
+        "d7": "5.84075414937918",
+        "d30": "-7.4198813571160755",
+        "m3": "-37.54595180730115",
+        "m6": "-67.18691915088678"
       }
     },
     {
@@ -536,40 +536,40 @@
       "type": "coin",
       "rank": 13,
       "categoryId": 38,
-      "lastUpdated": 1772509458196,
+      "lastUpdated": 1772510344333,
       "totalSupply": "21000000",
       "maxSupply": "21000000",
       "circulatingSupply": "20001991",
-      "volume24hBase": "273326.8329",
+      "volume24hBase": "273288.7731",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.bitcoin_cash1688206403591.png",
         "x150": "https://img.cryptorank.io/coins/150x150.bitcoin_cash1688206403591.png",
         "icon": "https://img.cryptorank.io/coins/icon.bitcoin_cash1688206403591.png",
         "native": "https://img.cryptorank.io/coins/bitcoin_cash1688206403591.png"
       },
-      "price": "443.943476271315",
+      "price": "443.922638751691",
       "high24h": "452.748902474015",
       "low24h": "436.701718486178",
-      "volume24h": "121341664.35585483007",
-      "marketCap": "8879753416.8875561882",
-      "fullyDilutedValuation": "9322813001.697615",
+      "volume24h": "121319073.29576414894",
+      "marketCap": "8879336625.0075746168",
+      "fullyDilutedValuation": "9322375413.785511",
       "createdAt": 1520353235664,
       "ath": {
         "date": 1513728000000,
         "value": "4355.62",
-        "percentChange": "-89.80757099399592"
+        "percentChange": "-89.80804939935781"
       },
       "atl": {
         "date": 1589760000000,
         "value": "4.45849405",
-        "percentChange": "9857.251737754703"
+        "percentChange": "9856.784370984884"
       },
       "percentChange": {
-        "h24": "-1.3502251492430195",
-        "d7": "-8.613789924078835",
-        "d30": "-14.085268924009686",
-        "m3": "-20.513165756652906",
-        "m6": "-24.430191167154145"
+        "h24": "-1.336612998283151",
+        "d7": "-8.461452169208808",
+        "d30": "-14.114184039167737",
+        "m3": "-20.63308258002585",
+        "m6": "-24.462457645557983"
       }
     },
     {
@@ -580,40 +580,40 @@
       "type": "token",
       "rank": 14,
       "categoryId": 63,
-      "lastUpdated": 1772509459664,
+      "lastUpdated": 1772510344333,
       "totalSupply": "985239504",
       "maxSupply": "1000000000",
       "circulatingSupply": "921242477",
-      "volume24hBase": "101183.7293",
+      "volume24hBase": "98282.8407",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.unus_sed_leo1732534033854.png",
         "x150": "https://img.cryptorank.io/coins/150x150.unus_sed_leo1732534033854.png",
         "icon": "https://img.cryptorank.io/coins/icon.unus_sed_leo1732534033854.png",
         "native": "https://img.cryptorank.io/coins/unus_sed_leo1732534033854.png"
       },
-      "price": "9.065627706285",
+      "price": "9.062847868212",
       "high24h": "9.194488094551",
       "low24h": "8.939753195078",
-      "volume24h": "917294.01976732134865",
-      "marketCap": "8351641323.6978218679",
-      "fullyDilutedValuation": "8931814544.7888910826",
+      "volume24h": "890722.43331981458983",
+      "marketCap": "8349080418.7857924411",
+      "fullyDilutedValuation": "8929075738.5046482468",
       "createdAt": 1558164983054,
       "ath": {
         "date": 1740960000000,
         "value": "10.003929527601",
-        "percentChange": "-9.379332578535369"
+        "percentChange": "-9.407120040105648"
       },
       "atl": {
         "date": 1577750400000,
         "value": "0.80254251",
-        "percentChange": "1029.6133965894219"
+        "percentChange": "1029.2670176701295"
       },
       "percentChange": {
-        "h24": "-0.22402726689269847",
-        "d7": "15.878603737718503",
-        "d30": "3.1862505416655877",
-        "m3": "-4.509988901367469",
-        "m6": "-5.1111070075751455"
+        "h24": "-0.9951099085968712",
+        "d7": "15.85228638302465",
+        "d30": "3.258355123693648",
+        "m3": "-3.8905437188159517",
+        "m6": "-4.9832907139512965"
       }
     },
     {
@@ -624,40 +624,40 @@
       "type": "token",
       "rank": 15,
       "categoryId": null,
-      "lastUpdated": 1772509463402,
+      "lastUpdated": 1772510344333,
       "totalSupply": "119957",
       "maxSupply": "129138",
       "circulatingSupply": "119957",
-      "volume24hBase": "6163.2095",
+      "volume24hBase": "5038.8163",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.wrapped bitcoin1628063974037.png",
         "x150": "https://img.cryptorank.io/coins/150x150.wrapped bitcoin1628063974037.png",
         "icon": "https://img.cryptorank.io/coins/icon.wrapped bitcoin1628063974037.png",
         "native": "https://img.cryptorank.io/coins/wrapped bitcoin1628063974037.png"
       },
-      "price": "68300.57723143986",
+      "price": "68178.78027551853",
       "high24h": "69574.86278117647",
       "low24h": "65174.98967831742",
-      "volume24h": "420950766.44829384383",
-      "marketCap": "8193132342.951831286",
-      "fullyDilutedValuation": "8193132342.951831286",
+      "volume24h": "343540349.36640125992",
+      "marketCap": "8178521945.5103763032",
+      "fullyDilutedValuation": "8178521945.5103763032",
       "createdAt": 1522778120677,
       "ath": {
         "date": 1759708800000,
         "value": "126013.30852902005",
-        "percentChange": "-45.79891756773398"
+        "percentChange": "-45.895571609551546"
       },
       "atl": {
         "date": 1584057600000,
         "value": "4002.98646593",
-        "percentChange": "1606.240523488051"
+        "percentChange": "1603.1978712843036"
       },
       "percentChange": {
-        "h24": "2.5164568435609356",
-        "d7": "7.536879708771877",
-        "d30": "-12.907720952738424",
-        "m3": "-26.20787910706071",
-        "m6": "-38.483804310988454"
+        "h24": "2.190428229960377",
+        "d7": "7.656010616007794",
+        "d30": "-13.16229049607996",
+        "m3": "-26.336164081549562",
+        "m6": "-38.63610611181325"
       }
     },
     {
@@ -668,40 +668,40 @@
       "type": "token",
       "rank": 16,
       "categoryId": 65,
-      "lastUpdated": 1772509470605,
+      "lastUpdated": 1772510344333,
       "totalSupply": "962274029",
       "maxSupply": "1000000000",
       "circulatingSupply": "238385316",
-      "volume24hBase": "9602927.8141",
+      "volume24hBase": "9614562.7510",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.hyperliquid1699003432264.png",
         "x150": "https://img.cryptorank.io/coins/150x150.hyperliquid1699003432264.png",
         "icon": "https://img.cryptorank.io/coins/icon.hyperliquid1699003432264.png",
         "native": "https://img.cryptorank.io/coins/hyperliquid1699003432264.png"
       },
-      "price": "33.037320268504",
+      "price": "32.964834596715",
       "high24h": "33.500072318559",
       "low24h": "30.087978827175",
-      "volume24h": "317255001.7097467418",
-      "marketCap": "7875612032.0005308873",
-      "fullyDilutedValuation": "31790955282.136705883",
+      "volume24h": "316942470.80645214596",
+      "marketCap": "7858332512.2256378369",
+      "fullyDilutedValuation": "31721204202.699533215",
       "createdAt": 1699001624188,
       "ath": {
         "date": 1758153600000,
         "value": "59.264635990305",
-        "percentChange": "-44.25457995910324"
+        "percentChange": "-44.37688843291358"
       },
       "atl": {
         "date": 1732838400000,
         "value": "3.5599988982479998",
-        "percentChange": "828.0149014867062"
+        "percentChange": "825.978786480472"
       },
       "percentChange": {
-        "h24": "3.113017670015831",
-        "d7": "25.4577575189562",
-        "d30": "4.454310633333394",
-        "m3": "-4.294674674020107",
-        "m6": "-26.22405153177638"
+        "h24": "2.6916992031379356",
+        "d7": "25.412094014096187",
+        "d30": "4.474761032058693",
+        "m3": "-4.0919878929060785",
+        "m6": "-26.281823659830813"
       }
     },
     {
@@ -712,40 +712,40 @@
       "type": "coin",
       "rank": 17,
       "categoryId": 38,
-      "lastUpdated": 1772509474308,
+      "lastUpdated": 1772510344333,
       "totalSupply": "18446744",
       "maxSupply": null,
       "circulatingSupply": "18446744",
-      "volume24hBase": "315782.7750",
+      "volume24hBase": "312655.5357",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.monero1524753367220.png",
         "x150": "https://img.cryptorank.io/coins/150x150.monero1524753367220.png",
         "icon": "https://img.cryptorank.io/coins/icon.monero1524753367220.png",
         "native": "https://img.cryptorank.io/coins/monero1524753367220.png"
       },
-      "price": "342.060168707246",
+      "price": "343.943038011278",
       "high24h": "353.437322440802",
       "low24h": "336.572128270263",
-      "volume24h": "108016709.29134230449",
-      "marketCap": "6309896364.739377907",
-      "fullyDilutedValuation": "6309896364.739377907",
+      "volume24h": "107535694.79970158573",
+      "marketCap": "6344629172.7763143788",
+      "fullyDilutedValuation": "6344629172.7763143788",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1768348800000,
         "value": "798.583463441666",
-        "percentChange": "-57.166635127521346"
+        "percentChange": "-56.930858982606274"
       },
       "atl": {
         "date": 1421193600000,
         "value": "0.21296664",
-        "percentChange": "160516.78425656055"
+        "percentChange": "161400.898925427"
       },
       "percentChange": {
-        "h24": "-0.9043899905033814",
-        "d7": "10.963057849734646",
-        "d30": "-24.991406437066587",
-        "m3": "-17.80526434381714",
-        "m6": "28.334429338090676"
+        "h24": "-1.0125558873451932",
+        "d7": "12.216251292549414",
+        "d30": "-24.301280008846675",
+        "m3": "-17.36080606511883",
+        "m6": "28.913177113372218"
       }
     },
     {
@@ -756,40 +756,40 @@
       "type": "token",
       "rank": 18,
       "categoryId": 44,
-      "lastUpdated": 1772509459660,
+      "lastUpdated": 1772510344333,
       "totalSupply": "1000000000",
       "maxSupply": "1000000000",
       "circulatingSupply": "708099970",
-      "volume24hBase": "26566269.1797",
+      "volume24hBase": "26578007.2747",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.chain_link1766138155970.png",
         "x150": "https://img.cryptorank.io/coins/150x150.chain_link1766138155970.png",
         "icon": "https://img.cryptorank.io/coins/icon.chain_link1766138155970.png",
         "native": "https://img.cryptorank.io/coins/chain_link1766138155970.png"
       },
-      "price": "8.908078946133",
+      "price": "8.886830928136",
       "high24h": "9.202776962773",
       "low24h": "8.60159803946",
-      "volume24h": "236654423.1569875744",
-      "marketCap": "6307810434.514408916",
-      "fullyDilutedValuation": "8908078946.133",
+      "volume24h": "236194257.05702756091",
+      "marketCap": "6292764713.6081737559",
+      "fullyDilutedValuation": "8886830928.136",
       "createdAt": 1520353235667,
       "ath": {
         "date": 1620604800000,
         "value": "52.81650951",
-        "percentChange": "-83.13391204989342"
+        "percentChange": "-83.17414192913787"
       },
       "atl": {
         "date": 1506124800000,
         "value": "0.126297",
-        "percentChange": "6953.278340841825"
+        "percentChange": "6936.45449071316"
       },
       "percentChange": {
-        "h24": "0.9064440255471362",
-        "d7": "8.748748224187334",
-        "d30": "-11.099393450766962",
-        "m3": "-36.11999771482995",
-        "m6": "-61.83881401846108"
+        "h24": "0.5721767774595463",
+        "d7": "8.410951880360317",
+        "d30": "-11.420160285985324",
+        "m3": "-36.37755314024861",
+        "m6": "-61.994199332104316"
       }
     },
     {
@@ -800,40 +800,40 @@
       "type": "token",
       "rank": 19,
       "categoryId": null,
-      "lastUpdated": 1772509472865,
+      "lastUpdated": 1772510344333,
       "totalSupply": "2780033",
       "maxSupply": null,
       "circulatingSupply": "2780033",
-      "volume24hBase": "850.5336",
+      "volume24hBase": "845.8778",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.wrapped_e_eth1709646456434.png",
         "x150": "https://img.cryptorank.io/coins/150x150.wrapped_e_eth1709646456434.png",
         "icon": "https://img.cryptorank.io/coins/icon.wrapped_e_eth1709646456434.png",
         "native": "https://img.cryptorank.io/coins/wrapped_e_eth1709646456434.png"
       },
-      "price": "2188.996087802973",
+      "price": "2187.169670762144",
       "high24h": "2256.923787837437",
       "low24h": "2095.967164951431",
-      "volume24h": "1861814.7229449787164",
-      "marketCap": "6085481360.9631624381",
-      "fullyDilutedValuation": "6085481360.9631624381",
+      "volume24h": "1850078.26933100669",
+      "marketCap": "6080403861.3178954708",
+      "fullyDilutedValuation": "6080403861.3178954708",
       "createdAt": 1702516768309,
       "ath": {
         "date": 1710374400000,
         "value": "5541.984130774508",
-        "percentChange": "-60.50158145261498"
+        "percentChange": "-60.5345374661605"
       },
       "atl": {
         "date": 1744156800000,
         "value": "1488.748757489689",
-        "percentChange": "47.03596404634674"
+        "percentChange": "46.91328269856119"
       },
       "percentChange": {
-        "h24": "1.957619406955839",
-        "d7": "10.057879793947702",
-        "d30": "-17.377703875079064",
-        "m3": "-33.15574035078344",
-        "m6": "-52.7953251600454"
+        "h24": "1.801215612831977",
+        "d7": "9.951597286657849",
+        "d30": "-17.82405098823228",
+        "m3": "-33.26791275838947",
+        "m6": "-52.892508114569615"
       }
     },
     {
@@ -844,40 +844,40 @@
       "type": "coin",
       "rank": 20,
       "categoryId": 65,
-      "lastUpdated": 1772509465239,
+      "lastUpdated": 1772510344333,
       "totalSupply": "37927843606",
       "maxSupply": null,
       "circulatingSupply": "37926495733",
-      "volume24hBase": "114935246.7161",
+      "volume24hBase": "104843698.6068",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.canton_network1761929209838.png",
         "x150": "https://img.cryptorank.io/coins/150x150.canton_network1761929209838.png",
         "icon": "https://img.cryptorank.io/coins/icon.canton_network1761929209838.png",
         "native": "https://img.cryptorank.io/coins/canton_network1761929209838.png"
       },
-      "price": "0.159129739118",
+      "price": "0.159398933476",
       "high24h": "0.163314194567",
       "low24h": "0.157272620659",
-      "volume24h": "18289615.82539595921",
-      "marketCap": "6035233371.6522301835",
-      "fullyDilutedValuation": "6035447858.3310843795",
+      "volume24h": "16711973.739603107081",
+      "marketCap": "6045442970.3222648579",
+      "fullyDilutedValuation": "6045657819.8409259545",
       "createdAt": 1667247099480,
       "ath": {
         "date": 1770076800000,
         "value": "0.193806935495",
-        "percentChange": "-17.892649862313434"
+        "percentChange": "-17.75375165554263"
       },
       "atl": {
         "date": 1764979200000,
         "value": "0.059015948465",
-        "percentChange": "169.63853544160776"
+        "percentChange": "170.09467376523338"
       },
       "percentChange": {
-        "h24": "-0.7230689852469783",
-        "d7": "-1.5209023468662843",
-        "d30": "-11.006740076379797",
-        "m3": "107.8323466918794",
-        "m6": "16.721121060132685"
+        "h24": "0.6162803803214651",
+        "d7": "-1.4022854501282385",
+        "d30": "-11.191670026961429",
+        "m3": "108.7266969002555",
+        "m6": "16.918574203856643"
       }
     },
     {
@@ -888,40 +888,40 @@
       "type": "token",
       "rank": 21,
       "categoryId": 37,
-      "lastUpdated": 1772509467866,
+      "lastUpdated": 1772510344333,
       "totalSupply": "6005539014",
       "maxSupply": null,
       "circulatingSupply": "6010078382",
-      "volume24hBase": "116939538.3159",
+      "volume24hBase": "117836232.9521",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ethena_us_de1716374592639.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ethena_us_de1716374592639.png",
         "icon": "https://img.cryptorank.io/coins/icon.ethena_us_de1716374592639.png",
         "native": "https://img.cryptorank.io/coins/ethena_us_de1716374592639.png"
       },
-      "price": "0.999117268209",
+      "price": "0.999101169422",
       "high24h": "0.999413648957",
       "low24h": "0.998861641769",
-      "volume24h": "116836312.06780369247",
-      "marketCap": "6004773094.7458067578",
-      "fullyDilutedValuation": "6000237733.7902514059",
+      "volume24h": "117730318.14272632131",
+      "marketCap": "6004676339.7740816352",
+      "fullyDilutedValuation": "6000141051.8968448299",
       "createdAt": 1711624807074,
       "ath": {
         "date": 1753142400000,
         "value": "1.03104961746",
-        "percentChange": "-3.0970720235235265"
+        "percentChange": "-3.0986334214162543"
       },
       "atl": {
         "date": 1760054400000,
         "value": "0.847361475208",
-        "percentChange": "17.909215540362965"
+        "percentChange": "17.907315667938853"
       },
       "percentChange": {
-        "h24": "-0.01480904925053621",
-        "d7": "0.039514023320688575",
-        "d30": "0.039065943102782844",
-        "m3": "-0.025775313173890486",
-        "m6": "-0.16305711990250485"
+        "h24": "-0.014085347875140165",
+        "d7": "0.039677081794374486",
+        "d30": "0.042792050114130314",
+        "m3": "-0.03606368475124704",
+        "m6": "-0.16818482614845465"
       }
     },
     {
@@ -932,40 +932,40 @@
       "type": "coin",
       "rank": 22,
       "categoryId": 65,
-      "lastUpdated": 1772509474460,
+      "lastUpdated": 1772510344333,
       "totalSupply": "50001786911",
       "maxSupply": "50001786911",
       "circulatingSupply": "32971536006",
-      "volume24hBase": "827484003.9103",
+      "volume24hBase": "828808715.1167",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.stellar1645006520371.png",
         "x150": "https://img.cryptorank.io/coins/150x150.stellar1645006520371.png",
         "icon": "https://img.cryptorank.io/coins/icon.stellar1645006520371.png",
         "native": "https://img.cryptorank.io/coins/stellar1645006520371.png"
       },
-      "price": "0.15354171387",
+      "price": "0.153231196926",
       "high24h": "0.16167536056",
       "low24h": "0.152266209705",
-      "volume24h": "127053312.16039724375",
-      "marketCap": "5062506147.2876546032",
-      "fullyDilutedValuation": "7677360058.8774731556",
+      "volume24h": "126999351.44003209077",
+      "marketCap": "5052267926.6880855176",
+      "fullyDilutedValuation": "7661833656.8113302356",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1515024000000,
         "value": "0.938144",
-        "percentChange": "-83.63345990913975"
+        "percentChange": "-83.66655897964492"
       },
       "atl": {
         "date": 1416268800000,
         "value": "0.0012271",
-        "percentChange": "12412.567343329802"
+        "percentChange": "12387.26240127129"
       },
       "percentChange": {
-        "h24": "-1.7930582811175733",
-        "d7": "2.2979711767500746",
-        "d30": "-14.966206768363415",
-        "m3": "-39.528443875955084",
-        "m6": "-57.77051562248937"
+        "h24": "-1.9784214281932613",
+        "d7": "2.0749503214303595",
+        "d30": "-15.107558998258154",
+        "m3": "-39.59625665207903",
+        "m6": "-57.88000247629016"
       }
     },
     {
@@ -976,40 +976,40 @@
       "type": "token",
       "rank": 23,
       "categoryId": 37,
-      "lastUpdated": 1772509465367,
+      "lastUpdated": 1772510344333,
       "totalSupply": "4656762552",
       "maxSupply": null,
       "circulatingSupply": "4656762552",
-      "volume24hBase": "2060965468.4291",
+      "volume24hBase": "2060520403.8240",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.usd_11746522822771.png",
         "x150": "https://img.cryptorank.io/coins/150x150.usd_11746522822771.png",
         "icon": "https://img.cryptorank.io/coins/icon.usd_11746522822771.png",
         "native": "https://img.cryptorank.io/coins/usd_11746522822771.png"
       },
-      "price": "0.999246564866",
+      "price": "0.999222369765",
       "high24h": "1.000053284826",
       "low24h": "0.999137967348",
-      "volume24h": "2059412664.6352247483",
-      "marketCap": "4653253983.482627698",
-      "fullyDilutedValuation": "4653253983.482627698",
+      "volume24h": "2058918080.858152048",
+      "marketCap": "4653141312.6423490403",
+      "fullyDilutedValuation": "4653141312.6423490403",
       "createdAt": 1746522765156,
       "ath": {
         "date": 1747008000000,
         "value": "1.108938833562",
-        "percentChange": "-9.891642836932645"
+        "percentChange": "-9.89382466159851"
       },
       "atl": {
         "date": 1753228800000,
         "value": "0.944737949497",
-        "percentChange": "5.769707398545981"
+        "percentChange": "5.767146360216476"
       },
       "percentChange": {
-        "h24": "-0.014446885637342284",
-        "d7": "0.04684986362270742",
-        "d30": "0.05405143604528595",
-        "m3": "0.008180663172627906",
-        "m6": "-0.02457849564515923"
+        "h24": "-0.025333282440048687",
+        "d7": "0.04628588216657574",
+        "d30": "0.05880700203594205",
+        "m3": "-0.0018946424617969893",
+        "m6": "-0.032995066492563535"
       }
     },
     {
@@ -1020,40 +1020,40 @@
       "type": "token",
       "rank": 24,
       "categoryId": 37,
-      "lastUpdated": 1772509464359,
+      "lastUpdated": 1772510344333,
       "totalSupply": "4548326873",
       "maxSupply": null,
       "circulatingSupply": "4548326873",
-      "volume24hBase": "53686411.4004",
+      "volume24hBase": "68579423.3974",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.multi-collateral-dai1574400689822.png",
         "x150": "https://img.cryptorank.io/coins/150x150.multi-collateral-dai1574400689822.png",
         "icon": "https://img.cryptorank.io/coins/icon.multi-collateral-dai1574400689822.png",
         "native": "https://img.cryptorank.io/coins/multi-collateral-dai1574400689822.png"
       },
-      "price": "0.999799828742",
+      "price": "1.000054290216",
       "high24h": "1.000321785371",
       "low24h": "0.999535893603",
-      "volume24h": "53675664.92389247639",
-      "marketCap": "4547416428.6880363838",
-      "fullyDilutedValuation": "4547416428.6880363838",
+      "volume24h": "68583146.5891094003",
+      "marketCap": "4548573802.6483737746",
+      "fullyDilutedValuation": "4548573802.6483737746",
       "createdAt": 1574393494273,
       "ath": {
         "date": 1584057600000,
         "value": "1.27786737",
-        "percentChange": "-21.760281840360317"
+        "percentChange": "-21.74036886034581"
       },
       "atl": {
         "date": 1678492800000,
         "value": "0.895469469837",
-        "percentChange": "11.650911886922398"
+        "percentChange": "11.679328430709905"
       },
       "percentChange": {
-        "h24": "-0.007140438017567402",
-        "d7": "0.03087167897993391",
-        "d30": "0.037051638780874356",
-        "m3": "0.05285067358015887",
-        "m6": "-0.003184049990614938"
+        "h24": "0.02772435872601003",
+        "d7": "0.048973106452679147",
+        "d30": "0.07471956283337841",
+        "m3": "0.07134298396248576",
+        "m6": "0.019915797182355675"
       }
     },
     {
@@ -1064,40 +1064,40 @@
       "type": "token",
       "rank": 25,
       "categoryId": 54,
-      "lastUpdated": 1772509464045,
+      "lastUpdated": 1772510344333,
       "totalSupply": "1150000000000",
       "maxSupply": "1150000000000",
       "circulatingSupply": "478013694632",
-      "volume24hBase": "3051607351.1966",
+      "volume24hBase": "3046283551.8399",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.rain1743059132724.png",
         "x150": "https://img.cryptorank.io/coins/150x150.rain1743059132724.png",
         "icon": "https://img.cryptorank.io/coins/icon.rain1743059132724.png",
         "native": "https://img.cryptorank.io/coins/rain1743059132724.png"
       },
-      "price": "0.009117275922",
+      "price": "0.0091068332",
       "high24h": "0.009424652946",
       "low24h": "0.009073991234",
-      "volume24h": "27822346.226462959068",
-      "marketCap": "4358182748.4545942507",
-      "fullyDilutedValuation": "10484867310.3",
+      "volume24h": "27741996.186509522405",
+      "marketCap": "4353190984.3293593824",
+      "fullyDilutedValuation": "10472858180",
       "createdAt": 1743059132957,
       "ath": {
         "date": 1770595200000,
         "value": "0.01087191328",
-        "percentChange": "-16.139177280118997"
+        "percentChange": "-16.23522957313361"
       },
       "atl": {
         "date": 1757462400000,
         "value": "0.000787835432",
-        "percentChange": "1057.2563953940066"
+        "percentChange": "1055.9309000461406"
       },
       "percentChange": {
-        "h24": "-1.2842626526175567",
-        "d7": "-0.52748484168948",
-        "d30": "-6.258094346603338",
-        "m3": "13.070476727662843",
-        "m6": "1057.2563953940066"
+        "h24": "-1.415700571884464",
+        "d7": "-0.529084230399333",
+        "d30": "-6.481551745876748",
+        "m3": "12.917721106501052",
+        "m6": "1055.9309000461406"
       }
     },
     {
@@ -1108,40 +1108,40 @@
       "type": "token",
       "rank": 26,
       "categoryId": 37,
-      "lastUpdated": 1772509469092,
+      "lastUpdated": 1772510344333,
       "totalSupply": "4207470622",
       "maxSupply": null,
       "circulatingSupply": "4207470622",
-      "volume24hBase": "33377840.9962",
+      "volume24hBase": "33299656.9888",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pay_pal_usd1691421881419.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pay_pal_usd1691421881419.png",
         "icon": "https://img.cryptorank.io/coins/icon.pay_pal_usd1691421881419.png",
         "native": "https://img.cryptorank.io/coins/pay_pal_usd1691421881419.png"
       },
-      "price": "0.999569050349",
+      "price": "0.999654355718",
       "high24h": "0.999963323711",
       "low24h": "0.999403534107",
-      "volume24h": "33363456.827271554118",
-      "marketCap": "4205657414.0038563471",
-      "fullyDilutedValuation": "4205657414.0038563471",
+      "volume24h": "33288147.152769259942",
+      "marketCap": "4206016333.8378227166",
+      "fullyDilutedValuation": "4206016333.8378227166",
       "createdAt": 1691421836887,
       "ath": {
         "date": 1693267200000,
         "value": "1.047934734807",
-        "percentChange": "-4.615333651184641"
+        "percentChange": "-4.607193318951479"
       },
       "atl": {
         "date": 1700870400000,
         "value": "0.960678005807",
-        "percentChange": "4.048291342876148"
+        "percentChange": "4.057171047468566"
       },
       "percentChange": {
-        "h24": "-0.007348778601164007",
-        "d7": "-0.002090719401644085",
-        "d30": "0.02408304651644601",
-        "m3": "0.030575740078137653",
-        "m6": "0.04576155432529947"
+        "h24": "-0.017066278492694476",
+        "d7": "0.005740463654859283",
+        "d30": "0.03448238828427919",
+        "m3": "0.052226049377405756",
+        "m6": "0.05414222076049029"
       }
     },
     {
@@ -1152,40 +1152,40 @@
       "type": "coin",
       "rank": 27,
       "categoryId": 38,
-      "lastUpdated": 1772509474620,
+      "lastUpdated": 1772510344334,
       "totalSupply": "84000000",
       "maxSupply": "84000000",
       "circulatingSupply": "76907039",
-      "volume24hBase": "3189696.3676",
+      "volume24hBase": "3185328.7385",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.litecoin1688206454758.png",
         "x150": "https://img.cryptorank.io/coins/150x150.litecoin1688206454758.png",
         "icon": "https://img.cryptorank.io/coins/icon.litecoin1688206454758.png",
         "native": "https://img.cryptorank.io/coins/litecoin1688206454758.png"
       },
-      "price": "54.339482129611",
+      "price": "54.24121171321",
       "high24h": "55.496944345701",
       "low24h": "53.019585795446",
-      "volume24h": "173326448.7660853191",
-      "marketCap": "4179088671.3817962318",
-      "fullyDilutedValuation": "4564516498.887324",
+      "volume24h": "172776090.48115063309",
+      "marketCap": "4171530984.6350982852",
+      "fullyDilutedValuation": "4556261783.90964",
       "createdAt": 1520353235664,
       "ath": {
         "date": 1620604800000,
         "value": "415.05832129",
-        "percentChange": "-86.90798874704547"
+        "percentChange": "-86.9316650381497"
       },
       "atl": {
         "date": 1421193600000,
         "value": "1.11373997",
-        "percentChange": "4779.009786244001"
+        "percentChange": "4770.186324839361"
       },
       "percentChange": {
-        "h24": "0.19391553882908788",
-        "d7": "6.665122702618769",
-        "d30": "-8.746182450220939",
-        "m3": "-35.33537581586424",
-        "m6": "-51.159075924397364"
+        "h24": "0.1158372009688967",
+        "d7": "6.517540705869294",
+        "d30": "-8.99233454535486",
+        "m3": "-35.428231234605974",
+        "m6": "-51.29203790307467"
       }
     },
     {
@@ -1196,40 +1196,40 @@
       "type": "coin",
       "rank": 28,
       "categoryId": 65,
-      "lastUpdated": 1772509468834,
+      "lastUpdated": 1772510344334,
       "totalSupply": "50000000000",
       "maxSupply": "50000000000",
       "circulatingSupply": "43003421569",
-      "volume24hBase": "1011706531.6326",
+      "volume24hBase": "1015368106.6006",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.hedera1645006006928.png",
         "x150": "https://img.cryptorank.io/coins/150x150.hedera1645006006928.png",
         "icon": "https://img.cryptorank.io/coins/icon.hedera1645006006928.png",
         "native": "https://img.cryptorank.io/coins/hedera1645006006928.png"
       },
-      "price": "0.096895161874",
+      "price": "0.096943436452",
       "high24h": "0.102596765588",
       "low24h": "0.096411597086",
-      "volume24h": "98029468.151523878495",
-      "marketCap": "4166823494.0641180603",
-      "fullyDilutedValuation": "4844758093.7",
+      "volume24h": "98433273.517622827845",
+      "marketCap": "4168899466.0929176332",
+      "fullyDilutedValuation": "4847171822.6",
       "createdAt": 1566976890101,
       "ath": {
         "date": 1631750400000,
         "value": "0.56700167",
-        "percentChange": "-82.91095652787054"
+        "percentChange": "-82.90244251802645"
       },
       "atl": {
         "date": 1577923200000,
         "value": "0.01008029",
-        "percentChange": "861.2338719818576"
+        "percentChange": "861.7127726682467"
       },
       "percentChange": {
-        "h24": "-2.0201576386767512",
-        "d7": "3.1639214436110272",
-        "d30": "4.641042511683669",
-        "m3": "-34.00450608908488",
-        "m6": "-55.959064794100726"
+        "h24": "-2.0402564291682",
+        "d7": "3.2484081089913275",
+        "d30": "4.591979749956825",
+        "m3": "-34.03575564222597",
+        "m6": "-56.0035590448686"
       }
     },
     {
@@ -1240,40 +1240,40 @@
       "type": "coin",
       "rank": 29,
       "categoryId": 65,
-      "lastUpdated": 1772509465423,
+      "lastUpdated": 1772510344334,
       "totalSupply": "463441061",
       "maxSupply": "720000000",
       "circulatingSupply": "431771961",
-      "volume24hBase": "24881973.2934",
+      "volume24hBase": "24858640.1601",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.avalanche1629705441155.png",
         "x150": "https://img.cryptorank.io/coins/150x150.avalanche1629705441155.png",
         "icon": "https://img.cryptorank.io/coins/icon.avalanche1629705441155.png",
         "native": "https://img.cryptorank.io/coins/avalanche1629705441155.png"
       },
-      "price": "9.162111999702",
+      "price": "9.149140416059",
       "high24h": "9.42221655916",
       "low24h": "8.878027650341",
-      "volume24h": "227971426.08772483276",
-      "marketCap": "3955943065.0129639556",
-      "fullyDilutedValuation": "4246098906.1427265638",
+      "volume24h": "227435189.37703828037",
+      "marketCap": "3950342298.9061503217",
+      "fullyDilutedValuation": "4240087341.6563643986",
       "createdAt": 1593159288984,
       "ath": {
         "date": 1637452800000,
         "value": "145.85313208",
-        "percentChange": "-93.71826174108033"
+        "percentChange": "-93.72715533387331"
       },
       "atl": {
         "date": 1607472000000,
         "value": "2.80053581",
-        "percentChange": "227.15568095885195"
+        "percentChange": "226.69249874933755"
       },
       "percentChange": {
-        "h24": "0.46536445974022755",
-        "d7": "10.44422646118322",
-        "d30": "-10.088730042493632",
-        "m3": "-33.717399611234065",
-        "m6": "-62.296258102713125"
+        "h24": "0.2557974097355368",
+        "d7": "10.297870216167874",
+        "d30": "-10.335634065469646",
+        "m3": "-33.75659317828689",
+        "m6": "-62.39984861219653"
       }
     },
     {
@@ -1284,40 +1284,40 @@
       "type": "coin",
       "rank": 30,
       "categoryId": 38,
-      "lastUpdated": 1772509468484,
+      "lastUpdated": 1772510344334,
       "totalSupply": "16315371",
       "maxSupply": "21000000",
       "circulatingSupply": "16315371",
-      "volume24hBase": "800354.8596",
+      "volume24hBase": "800696.4329",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.zcash1763114325678.png",
         "x150": "https://img.cryptorank.io/coins/150x150.zcash1763114325678.png",
         "icon": "https://img.cryptorank.io/coins/icon.zcash1763114325678.png",
         "native": "https://img.cryptorank.io/coins/zcash1763114325678.png"
       },
-      "price": "221.774679654979",
+      "price": "221.736689436558",
       "high24h": "225.593849809668",
       "low24h": "211.714094426222",
-      "volume24h": "177498442.59809569399",
-      "marketCap": "3618336176.9771343822",
-      "fullyDilutedValuation": "3618336176.9771343822",
+      "volume24h": "177543776.27490710145",
+      "marketCap": "3617716352.469224733",
+      "fullyDilutedValuation": "3617716352.469224733",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1477699200000,
         "value": "5941.8",
-        "percentChange": "-96.26755057970684"
+        "percentChange": "-96.26818995192437"
       },
       "atl": {
         "date": 1720137600000,
         "value": "16.130496398735",
-        "percentChange": "1274.8782069246872"
+        "percentChange": "1274.6426889500265"
       },
       "percentChange": {
-        "h24": "1.1732742956223272",
-        "d7": "-5.626832426540607",
-        "d30": "-27.229195730877848",
-        "m3": "-28.836486902768",
-        "m6": "437.80754326670996"
+        "h24": "1.3213116044464421",
+        "d7": "-5.555401833751299",
+        "d30": "-27.18005137970191",
+        "m3": "-29.029597366540028",
+        "m6": "437.56868299123295"
       }
     },
     {
@@ -1328,40 +1328,40 @@
       "type": "coin",
       "rank": 31,
       "categoryId": 65,
-      "lastUpdated": 1772509465312,
+      "lastUpdated": 1772510344334,
       "totalSupply": "10000000000",
       "maxSupply": "10000000000",
       "circulatingSupply": "3899984688",
-      "volume24hBase": "523490507.9735",
+      "volume24hBase": "523145557.9815",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.sui1750268474192.png",
         "x150": "https://img.cryptorank.io/coins/150x150.sui1750268474192.png",
         "icon": "https://img.cryptorank.io/coins/icon.sui1750268474192.png",
         "native": "https://img.cryptorank.io/coins/sui1750268474192.png"
       },
-      "price": "0.921863928019",
+      "price": "0.920866122439",
       "high24h": "0.957948178862",
       "low24h": "0.882336633911",
-      "volume24h": "482587015.96111234956",
-      "marketCap": "3595255203.6936341731",
-      "fullyDilutedValuation": "9218639280.19",
+      "volume24h": "481747021.4496109527",
+      "marketCap": "3591363777.210033214",
+      "fullyDilutedValuation": "9208661224.39",
       "createdAt": 1659703703641,
       "ath": {
         "date": 1735948800000,
         "value": "5.345264604544",
-        "percentChange": "-82.75363342657863"
+        "percentChange": "-82.77230052079791"
       },
       "atl": {
         "date": 1697673600000,
         "value": "0.364605138885",
-        "percentChange": "152.83898379440143"
+        "percentChange": "152.5653163460897"
       },
       "percentChange": {
-        "h24": "1.2791760864771755",
-        "d7": "7.410691436455739",
-        "d30": "-19.970465594364622",
-        "m3": "-43.89779725051382",
-        "m6": "-72.23029701375803"
+        "h24": "1.1124073444434428",
+        "d7": "7.417541630259459",
+        "d30": "-20.1390091689652",
+        "m3": "-43.7898859027629",
+        "m6": "-72.29429365697968"
       }
     },
     {
@@ -1372,40 +1372,40 @@
       "type": "token",
       "rank": 32,
       "categoryId": 59,
-      "lastUpdated": 1772509462597,
+      "lastUpdated": 1772510344334,
       "totalSupply": "589500285003320",
       "maxSupply": null,
       "circulatingSupply": "589243743236192",
-      "volume24hBase": "12154983579623.2988",
+      "volume24hBase": "12173707697192.7754",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.shiba_inu1716276244699.png",
         "x150": "https://img.cryptorank.io/coins/150x150.shiba_inu1716276244699.png",
         "icon": "https://img.cryptorank.io/coins/icon.shiba_inu1716276244699.png",
         "native": "https://img.cryptorank.io/coins/shiba_inu1716276244699.png"
       },
-      "price": "0.000005446244",
+      "price": "0.000005434543",
       "high24h": "0.000005766244",
       "low24h": "0.000005408436",
-      "volume24h": "66199006.39062191335",
-      "marketCap": "3209165201.1376512628",
-      "fullyDilutedValuation": "3210562390.1976215301",
+      "volume24h": "66158537.949825117201",
+      "marketCap": "3202270460.0980445803",
+      "fullyDilutedValuation": "3203664647.3627976828",
       "createdAt": 1596241601434,
       "ath": {
         "date": 1635379200000,
         "value": "0.00008752",
-        "percentChange": "-93.77714351005484"
+        "percentChange": "-93.79051302559415"
       },
       "atl": {
         "date": 1619481600000,
         "value": "8e-7",
-        "percentChange": "580.7805"
+        "percentChange": "579.317875"
       },
       "percentChange": {
-        "h24": "-3.0796718452476286",
-        "d7": "-8.250390078413258",
-        "d30": "-20.096091662079417",
-        "m3": "-36.70122877331408",
-        "m6": "-56.0981217028716"
+        "h24": "-3.3414822634046044",
+        "d7": "-8.50492557634538",
+        "d30": "-20.367524156605047",
+        "m3": "-36.81828491920373",
+        "m6": "-56.246937128686604"
       }
     },
     {
@@ -1416,40 +1416,40 @@
       "type": "coin",
       "rank": 33,
       "categoryId": 65,
-      "lastUpdated": 1772509460909,
+      "lastUpdated": 1772510344334,
       "totalSupply": "98439120975",
       "maxSupply": "100000000000",
       "circulatingSupply": "41072429045",
-      "volume24hBase": "127735287.8096",
+      "volume24hBase": "127738466.7699",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.cronos1677768792540.png",
         "x150": "https://img.cryptorank.io/coins/150x150.cronos1677768792540.png",
         "icon": "https://img.cryptorank.io/coins/icon.cronos1677768792540.png",
         "native": "https://img.cryptorank.io/coins/cronos1677768792540.png"
       },
-      "price": "0.075507750236",
+      "price": "0.075520628665",
       "high24h": "0.077153165992",
       "low24h": "0.073836706272",
-      "volume24h": "9645004.2082508523231",
-      "marketCap": "3101286713.9156920046",
-      "fullyDilutedValuation": "7432916560.0316888001",
+      "volume24h": "9646889.3151660598992",
+      "marketCap": "3101815662.2770055749",
+      "fullyDilutedValuation": "7434184301.2619877484",
       "createdAt": 1542783682998,
       "ath": {
         "date": 1637712000000,
         "value": "0.96418232",
-        "percentChange": "-92.16872694409082"
+        "percentChange": "-92.16739126008865"
       },
       "atl": {
         "date": 1545004800000,
         "value": "0.0114866815226",
-        "percentChange": "557.3504287329531"
+        "percentChange": "557.4625449170281"
       },
       "percentChange": {
-        "h24": "0.29484550617365274",
-        "d7": "1.8091548575706573",
-        "d30": "-5.357467590464102",
-        "m3": "-30.449990175826898",
-        "m6": "-71.39125819001812"
+        "h24": "0.2819663360752453",
+        "d7": "1.853782336823253",
+        "d30": "-5.582283384444146",
+        "m3": "-30.38894301922745",
+        "m6": "-71.38512040474544"
       }
     },
     {
@@ -1460,40 +1460,40 @@
       "type": "coin",
       "rank": 34,
       "categoryId": 65,
-      "lastUpdated": 1772509462157,
+      "lastUpdated": 1772510344334,
       "totalSupply": "5155647282",
       "maxSupply": null,
       "circulatingSupply": "2452640010",
-      "volume24hBase": "62834436.3032",
+      "volume24hBase": "62660713.8747",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.toncoin1732533613281.png",
         "x150": "https://img.cryptorank.io/coins/150x150.toncoin1732533613281.png",
         "icon": "https://img.cryptorank.io/coins/icon.toncoin1732533613281.png",
         "native": "https://img.cryptorank.io/coins/toncoin1732533613281.png"
       },
-      "price": "1.232261858424",
+      "price": "1.234290568078",
       "high24h": "1.251322285614",
       "low24h": "1.198229668922",
-      "volume24h": "77428479.252005684338",
-      "marketCap": "3022294736.7676579442",
-      "fullyDilutedValuation": "6353107501.0959644036",
+      "volume24h": "77341528.124576479512",
+      "marketCap": "3027270431.2337316008",
+      "fullyDilutedValuation": "6363566812.509576664",
       "createdAt": 1628677129362,
       "ath": {
         "date": 1718409600000,
         "value": "8.2625388206",
-        "percentChange": "-85.0861595306306"
+        "percentChange": "-85.06160642778838"
       },
       "atl": {
         "date": 1655510400000,
         "value": "0.753487207999",
-        "percentChange": "63.54117831627945"
+        "percentChange": "63.81042106286669"
       },
       "percentChange": {
-        "h24": "2.1162810250346946",
-        "d7": "-8.095972049439622",
-        "d30": "-8.471109083589752",
-        "m3": "-22.26414411712224",
-        "m6": "-61.0394902440262"
+        "h24": "2.233765102180851",
+        "d7": "-7.9066411993396555",
+        "d30": "-8.495184341881806",
+        "m3": "-22.05179055212577",
+        "m6": "-61.00249188097322"
       }
     },
     {
@@ -1504,40 +1504,40 @@
       "type": "token",
       "rank": 35,
       "categoryId": 66,
-      "lastUpdated": 1772509467062,
+      "lastUpdated": 1772510344334,
       "totalSupply": "712747",
       "maxSupply": null,
       "circulatingSupply": "564549",
-      "volume24hBase": "118780.4864",
+      "volume24hBase": "118617.8178",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.tether_gold1756891417418.png",
         "x150": "https://img.cryptorank.io/coins/150x150.tether_gold1756891417418.png",
         "icon": "https://img.cryptorank.io/coins/icon.tether_gold1756891417418.png",
         "native": "https://img.cryptorank.io/coins/tether_gold1756891417418.png"
       },
-      "price": "5328.880394913272",
+      "price": "5323.151344783027",
       "high24h": "5386.838351459847",
       "low24h": "5247.597082160807",
-      "volume24h": "632967005.27522253398",
-      "marketCap": "3008414098.0678927943",
-      "fullyDilutedValuation": "3798143514.8332498782",
+      "volume24h": "631420596.33729807722",
+      "marketCap": "3005179768.5459131098",
+      "fullyDilutedValuation": "3794060151.5400681452",
       "createdAt": 1579859069178,
       "ath": {
         "date": 1769644800000,
         "value": "5591.442194253003",
-        "percentChange": "-4.695779554147896"
+        "percentChange": "-4.79824059963869"
       },
       "atl": {
         "date": 1652745600000,
         "value": "732.241990873003",
-        "percentChange": "627.748539599594"
+        "percentChange": "626.9661411300096"
       },
       "percentChange": {
-        "h24": "-0.09247166424343121",
-        "d7": "3.2454281958458915",
-        "d30": "10.677402242018498",
-        "m3": "26.36779320832365",
-        "m6": "50.74111024778632"
+        "h24": "-0.19961604877765346",
+        "d7": "3.2688443896957002",
+        "d30": "10.474534846808485",
+        "m3": "26.24968615395503",
+        "m6": "50.57553095834652"
       }
     },
     {
@@ -1548,40 +1548,40 @@
       "type": "token",
       "rank": 36,
       "categoryId": 54,
-      "lastUpdated": 1772509458909,
+      "lastUpdated": 1772510344334,
       "totalSupply": "100000000000",
       "maxSupply": "100000000000",
       "circulatingSupply": "27661188706",
-      "volume24hBase": "487612801.6304",
+      "volume24hBase": "487068455.2340",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.world_liberty_financial1727774522171.png",
         "x150": "https://img.cryptorank.io/coins/150x150.world_liberty_financial1727774522171.png",
         "icon": "https://img.cryptorank.io/coins/icon.world_liberty_financial1727774522171.png",
         "native": "https://img.cryptorank.io/coins/world_liberty_financial1727774522171.png"
       },
-      "price": "0.106483148449",
+      "price": "0.106473032841",
       "high24h": "0.110457314623",
       "low24h": "0.104424996025",
-      "volume24h": "51922546.341642672431",
-      "marketCap": "2945450463.256800217",
-      "fullyDilutedValuation": "10648314844.9",
+      "volume24h": "51859655.62994482034",
+      "marketCap": "2945170653.5150362937",
+      "fullyDilutedValuation": "10647303284.1",
       "createdAt": 1727774522331,
       "ath": {
         "date": 1756684800000,
         "value": "0.342671357257",
-        "percentChange": "-68.92557659286979"
+        "percentChange": "-68.92852857814249"
       },
       "atl": {
         "date": 1770508800000,
         "value": "0.098233919728",
-        "percentChange": "8.397535946688576"
+        "percentChange": "8.38723847710983"
       },
       "percentChange": {
-        "h24": "-2.0460166051320496",
-        "d7": "-2.1983500216187264",
-        "d30": "-15.921247527939137",
-        "m3": "-33.66290635492585",
-        "m6": "-53.46798598159097"
+        "h24": "-2.024798263029972",
+        "d7": "-1.8766258923764196",
+        "d30": "-16.17723546563745",
+        "m3": "-33.733918576189915",
+        "m6": "-53.38405534822708"
       }
     },
     {
@@ -1592,40 +1592,40 @@
       "type": "token",
       "rank": 37,
       "categoryId": 66,
-      "lastUpdated": 1772509472661,
+      "lastUpdated": 1772510344334,
       "totalSupply": "480991",
       "maxSupply": null,
       "circulatingSupply": "480991",
-      "volume24hBase": "106581.9024",
+      "volume24hBase": "106767.5565",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pax_gold1756890327694.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pax_gold1756890327694.png",
         "icon": "https://img.cryptorank.io/coins/icon.pax_gold1756890327694.png",
         "native": "https://img.cryptorank.io/coins/pax_gold1756890327694.png"
       },
-      "price": "5374.085481962885",
+      "price": "5368.857169546254",
       "high24h": "5456.979886941983",
       "low24h": "5305.213146593966",
-      "volume24h": "572780254.32782516949",
-      "marketCap": "2584886750.054810019",
-      "fullyDilutedValuation": "2584886750.054810019",
+      "volume24h": "573219761.18995975331",
+      "marketCap": "2582371978.8372222577",
+      "fullyDilutedValuation": "2582371978.8372222577",
       "createdAt": 1568839727154,
       "ath": {
         "date": 1769644800000,
         "value": "5619.953996516898",
-        "percentChange": "-4.374920412273765"
+        "percentChange": "-4.4679516438438345"
       },
       "atl": {
         "date": 1574035200000,
         "value": "1398.45324475",
-        "percentChange": "284.28781957051444"
+        "percentChange": "283.91395562931666"
       },
       "percentChange": {
-        "h24": "-0.5366503833954733",
-        "d7": "3.4751761464988244",
-        "d30": "10.912568086845768",
-        "m3": "27.15864370026906",
-        "m6": "51.585972424941076"
+        "h24": "-0.7308852693473082",
+        "d7": "3.4081594812430205",
+        "d30": "10.717890678227118",
+        "m3": "27.09902658865705",
+        "m6": "51.395008393900625"
       }
     },
     {
@@ -1636,40 +1636,40 @@
       "type": "coin",
       "rank": 38,
       "categoryId": 65,
-      "lastUpdated": 1772509470253,
+      "lastUpdated": 1772510344334,
       "totalSupply": "1670623631",
       "maxSupply": "2100000000",
       "circulatingSupply": "1670623631",
-      "volume24hBase": "65824218.9538",
+      "volume24hBase": "65960273.4417",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.polkadot1732178475860.png",
         "x150": "https://img.cryptorank.io/coins/150x150.polkadot1732178475860.png",
         "icon": "https://img.cryptorank.io/coins/icon.polkadot1732178475860.png",
         "native": "https://img.cryptorank.io/coins/polkadot1732178475860.png"
       },
-      "price": "1.50552910403",
+      "price": "1.503662475644",
       "high24h": "1.591716677679",
       "low24h": "1.490363399392",
-      "volume24h": "99100277.384989057964",
-      "marketCap": "2515172498.3507753329",
-      "fullyDilutedValuation": "2515172498.3507753329",
+      "volume24h": "99181988.057501806304",
+      "marketCap": "2512054064.8588283434",
+      "fullyDilutedValuation": "2512054064.8588283434",
       "createdAt": 1597822723024,
       "ath": {
         "date": 1635984000000,
         "value": "54.83803351",
-        "percentChange": "-97.2545895473158"
+        "percentChange": "-97.25799344104891"
       },
       "atl": {
         "date": 1770336000000,
         "value": "1.141623711191",
-        "percentChange": "31.87612426684405"
+        "percentChange": "31.712617818291697"
       },
       "percentChange": {
-        "h24": "-3.5181743351200163",
-        "d7": "19.89626179835787",
-        "d30": "-2.907739339809406",
-        "m3": "-34.33138287145376",
-        "m6": "-60.524769342666"
+        "h24": "-3.659669420635744",
+        "d7": "19.799149211948194",
+        "d30": "-3.0575745453877534",
+        "m3": "-34.398581399543005",
+        "m6": "-60.62766609182267"
       }
     },
     {
@@ -1680,40 +1680,40 @@
       "type": "coin",
       "rank": 39,
       "categoryId": 65,
-      "lastUpdated": 1772509471693,
+      "lastUpdated": 1772510344334,
       "totalSupply": "5000000000",
       "maxSupply": "10000000000",
       "circulatingSupply": "1678506070",
-      "volume24hBase": "3013708.3953",
+      "volume24hBase": "3010519.1021",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.meme_core1741962894332.png",
         "x150": "https://img.cryptorank.io/coins/150x150.meme_core1741962894332.png",
         "icon": "https://img.cryptorank.io/coins/icon.meme_core1741962894332.png",
         "native": "https://img.cryptorank.io/coins/meme_core1741962894332.png"
       },
-      "price": "1.492424056766",
+      "price": "1.477473977112",
       "high24h": "1.537693301323",
-      "low24h": "1.488703736573",
-      "volume24h": "4497730.9092233779676",
-      "marketCap": "2505042838.2957555696",
-      "fullyDilutedValuation": "7462120283.83",
+      "low24h": "1.477473977112",
+      "volume24h": "4447963.6309513341911",
+      "marketCap": "2479949038.8495330698",
+      "fullyDilutedValuation": "7387369885.56",
       "createdAt": 1741962883026,
       "ath": {
         "date": 1758153600000,
         "value": "2.961259050612",
-        "percentChange": "-49.60170551584933"
+        "percentChange": "-50.10656103164456"
       },
       "atl": {
         "date": 1751587200000,
         "value": "0.047372135896",
-        "percentChange": "3050.425938240241"
+        "percentChange": "3018.8671339532207"
       },
       "percentChange": {
-        "h24": "-1.155520829756161",
-        "d7": "7.97219482976304",
-        "d30": "19.056503238446226",
-        "m3": "12.497146440980515",
-        "m6": "80.25152008782771"
+        "h24": "-2.6285501417070085",
+        "d7": "6.579169884333275",
+        "d30": "18.054905460762537",
+        "m3": "11.247688215260178",
+        "m6": "79.43198761685395"
       }
     },
     {
@@ -1724,40 +1724,40 @@
       "type": "token",
       "rank": 40,
       "categoryId": 54,
-      "lastUpdated": 1772509459972,
+      "lastUpdated": 1772510344334,
       "totalSupply": "898904420",
       "maxSupply": null,
       "circulatingSupply": "633923278",
-      "volume24hBase": "25770137.0243",
+      "volume24hBase": "25775292.3427",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.uniswap1720803010318.png",
         "x150": "https://img.cryptorank.io/coins/150x150.uniswap1720803010318.png",
         "icon": "https://img.cryptorank.io/coins/icon.uniswap1720803010318.png",
         "native": "https://img.cryptorank.io/coins/uniswap1720803010318.png"
       },
-      "price": "3.914511263336",
+      "price": "3.909531004418",
       "high24h": "4.024434884365",
       "low24h": "3.728798944722",
-      "volume24h": "100877491.63933442073",
-      "marketCap": "2481499811.8218783354",
-      "fullyDilutedValuation": "3518771476.7525143451",
+      "volume24h": "100769304.56172351527",
+      "marketCap": "2478342709.7632910422",
+      "fullyDilutedValuation": "3514294699.9983797276",
       "createdAt": 1600313675256,
       "ath": {
         "date": 1620000000000,
         "value": "44.9076002",
-        "percentChange": "-91.28318759875305"
+        "percentChange": "-91.29427761223812"
       },
       "atl": {
         "date": 1604534400000,
         "value": "1.77032671",
-        "percentChange": "121.11801404928246"
+        "percentChange": "120.83669541527733"
       },
       "percentChange": {
-        "h24": "2.094542512387117",
-        "d7": "18.000227109842996",
-        "d30": "-1.7941190797554043",
-        "m3": "-34.69030038668288",
-        "m6": "-58.94856645216054"
+        "h24": "1.878916780299394",
+        "d7": "17.946363532391786",
+        "d30": "-1.9216742409074135",
+        "m3": "-34.789895864264885",
+        "m6": "-59.03946708973955"
       }
     },
     {
@@ -1768,40 +1768,40 @@
       "type": "token",
       "rank": 41,
       "categoryId": 65,
-      "lastUpdated": 1772509460465,
+      "lastUpdated": 1772510344334,
       "totalSupply": "6219316795",
       "maxSupply": "6219316795",
       "circulatingSupply": "3366841708",
-      "volume24hBase": "51280326.8479",
+      "volume24hBase": "51575143.0210",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.mantle1765440912505.png",
         "x150": "https://img.cryptorank.io/coins/150x150.mantle1765440912505.png",
         "icon": "https://img.cryptorank.io/coins/icon.mantle1765440912505.png",
         "native": "https://img.cryptorank.io/coins/mantle1765440912505.png"
       },
-      "price": "0.668190075009",
-      "high24h": "0.668190075009",
+      "price": "0.668594636718",
+      "high24h": "0.668594636718",
       "low24h": "0.623763829891",
-      "volume24h": "34265005.442984337534",
-      "marketCap": "2249690213.4119496754",
-      "fullyDilutedValuation": "4155685755.7557834762",
+      "volume24h": "34482864.011804388045",
+      "marketCap": "2251052308.6472706343",
+      "fullyDilutedValuation": "4158201853.1871810788",
       "createdAt": 1681720327248,
       "ath": {
         "date": 1759968000000,
         "value": "2.848963865721",
-        "percentChange": "-76.54620744584635"
+        "percentChange": "-76.53200713555573"
       },
       "atl": {
         "date": 1697587200000,
         "value": "0.307649875176",
-        "percentChange": "117.19172635020331"
+        "percentChange": "117.32322704032015"
       },
       "percentChange": {
-        "h24": "4.112359362444652",
-        "d7": "15.61824242582741",
-        "d30": "-7.102199666096027",
-        "m3": "-35.72119218306252",
-        "m6": "-40.004873624741975"
+        "h24": "4.251253277138444",
+        "d7": "15.711278873487569",
+        "d30": "-7.15284613646165",
+        "m3": "-35.59325881154436",
+        "m6": "-39.99059738688746"
       }
     },
     {
@@ -1812,40 +1812,40 @@
       "type": "token",
       "rank": 42,
       "categoryId": 54,
-      "lastUpdated": 1772509464392,
+      "lastUpdated": 1772510344334,
       "totalSupply": "16000000",
       "maxSupply": "16000000",
       "circulatingSupply": "15269093",
-      "volume24hBase": "3287822.5859",
+      "volume24hBase": "3280808.5588",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.aave1720519913836.png",
         "x150": "https://img.cryptorank.io/coins/150x150.aave1720519913836.png",
         "icon": "https://img.cryptorank.io/coins/icon.aave1720519913836.png",
         "native": "https://img.cryptorank.io/coins/aave1720519913836.png"
       },
-      "price": "120.331136479808",
+      "price": "119.845228128975",
       "high24h": "126.263965815822",
       "low24h": "112.379186342014",
-      "volume24h": "395627428.3053281617",
-      "marketCap": "1837347313.7058809741",
-      "fullyDilutedValuation": "1925298183.676928",
+      "volume24h": "393189250.17687969027",
+      "marketCap": "1829927933.9075352697",
+      "fullyDilutedValuation": "1917523650.0636",
       "createdAt": 1600158009720,
       "ath": {
         "date": 1621296000000,
         "value": "664.01103356",
-        "percentChange": "-81.87814201901588"
+        "percentChange": "-81.95131977153422"
       },
       "atl": {
         "date": 1604534400000,
         "value": "26.02845044",
-        "percentChange": "362.3061859068088"
+        "percentChange": "360.43935041480324"
       },
       "percentChange": {
-        "h24": "3.735604120416595",
-        "d7": "7.026202691183248",
-        "d30": "-6.6180659532281085",
-        "m3": "-36.99236012763971",
-        "m6": "-61.91702046771119"
+        "h24": "3.2937864350408743",
+        "d7": "6.424895200142023",
+        "d30": "-6.98163608815572",
+        "m3": "-37.26814600894059",
+        "m6": "-62.11233594671043"
       }
     },
     {
@@ -1856,40 +1856,40 @@
       "type": "coin",
       "rank": 43,
       "categoryId": 65,
-      "lastUpdated": 1772509470251,
+      "lastUpdated": 1772510344334,
       "totalSupply": "1289174541",
       "maxSupply": null,
       "circulatingSupply": "1289174531",
-      "volume24hBase": "289260603.1960",
+      "volume24hBase": "291648378.2243",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.near_protocol1704147268278.png",
         "x150": "https://img.cryptorank.io/coins/150x150.near_protocol1704147268278.png",
         "icon": "https://img.cryptorank.io/coins/icon.near_protocol1704147268278.png",
         "native": "https://img.cryptorank.io/coins/near_protocol1704147268278.png"
       },
-      "price": "1.407015866362",
-      "high24h": "1.407015866362",
+      "price": "1.41249031197",
+      "high24h": "1.41249031197",
       "low24h": "1.174954617006",
-      "volume24h": "406994258.21021464609",
-      "marketCap": "1813889019.6267900262",
-      "fullyDilutedValuation": "1813889033.6969486898",
+      "volume24h": "411950508.74358606163",
+      "marketCap": "1820946535.4759684361",
+      "fullyDilutedValuation": "1820946549.6008715558",
       "createdAt": 1596699114059,
       "ath": {
         "date": 1642291200000,
         "value": "20.49067649",
-        "percentChange": "-93.13338499561661"
+        "percentChange": "-93.10666823196719"
       },
       "atl": {
         "date": 1604448000000,
         "value": "0.52682692",
-        "percentChange": "167.0736465710598"
+        "percentChange": "168.11278208220642"
       },
       "percentChange": {
-        "h24": "17.856807620566588",
-        "d7": "44.205061664364166",
-        "d30": "17.062300929642507",
-        "m3": "-22.674370312084395",
-        "m6": "-42.33561243548033"
+        "h24": "18.385952992113644",
+        "d7": "44.64467402255345",
+        "d30": "17.328484581814987",
+        "m3": "-22.331015659829774",
+        "m6": "-42.181138604852485"
       }
     },
     {
@@ -1900,40 +1900,40 @@
       "type": "token",
       "rank": 44,
       "categoryId": 37,
-      "lastUpdated": 1772509466249,
+      "lastUpdated": 1772510344334,
       "totalSupply": "1786423196",
       "maxSupply": null,
       "circulatingSupply": "1786423196",
-      "volume24hBase": "32461617.2533",
+      "volume24hBase": "32452340.2954",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.global_dollar1730475503148.png",
         "x150": "https://img.cryptorank.io/coins/150x150.global_dollar1730475503148.png",
         "icon": "https://img.cryptorank.io/coins/icon.global_dollar1730475503148.png",
         "native": "https://img.cryptorank.io/coins/global_dollar1730475503148.png"
       },
-      "price": "0.99982872497",
+      "price": "0.999762832124",
       "high24h": "1.000074122003",
       "low24h": "0.999605253596",
-      "volume24h": "32456057.388831092525",
-      "marketCap": "1786117226.3135124041",
-      "fullyDilutedValuation": "1786117226.3135124041",
+      "volume24h": "32444643.642780910769",
+      "marketCap": "1785999513.8049675483",
+      "fullyDilutedValuation": "1785999513.8049675483",
       "createdAt": 1730474607359,
       "ath": {
         "date": 1731283200000,
         "value": "1.597678486714",
-        "percentChange": "-37.41990436221108"
+        "percentChange": "-37.42402864920298"
       },
       "atl": {
         "date": 1731283200000,
         "value": "0.911238871493",
-        "percentChange": "9.721913347688059"
+        "percentChange": "9.714682220037409"
       },
       "percentChange": {
-        "h24": "-0.02162247536550804",
-        "d7": "-0.005643182517740203",
-        "d30": "-0.0008674474486605539",
-        "m3": "0.0011928479313203484",
-        "m6": "-0.016701725424080598"
+        "h24": "-0.020618739410218287",
+        "d7": "-0.00017087673455235897",
+        "d30": "-0.003728044917087608",
+        "m3": "-0.011679316458566246",
+        "m6": "-0.02350817165332638"
       }
     },
     {
@@ -1944,40 +1944,40 @@
       "type": "token",
       "rank": 45,
       "categoryId": 65,
-      "lastUpdated": 1772509460434,
+      "lastUpdated": 1772510344334,
       "totalSupply": "21000000",
       "maxSupply": "21000000",
       "circulatingSupply": "9597491",
-      "volume24hBase": "507507.0479",
+      "volume24hBase": "505961.7891",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.bittensor1670850707129.png",
         "x150": "https://img.cryptorank.io/coins/150x150.bittensor1670850707129.png",
         "icon": "https://img.cryptorank.io/coins/icon.bittensor1670850707129.png",
         "native": "https://img.cryptorank.io/coins/bittensor1670850707129.png"
       },
-      "price": "182.363257225307",
+      "price": "182.092616880443",
       "high24h": "193.605611032914",
       "low24h": "174.383447827044",
-      "volume24h": "92550638.319843900741",
-      "marketCap": "1750229719.9505689047",
-      "fullyDilutedValuation": "3829628401.731447",
+      "volume24h": "92131906.218729801081",
+      "marketCap": "1747632251.6764997685",
+      "fullyDilutedValuation": "3823944954.489303",
       "createdAt": 1670849777078,
       "ath": {
         "date": 1709769600000,
         "value": "756.838293896674",
-        "percentChange": "-75.90459432405467"
+        "percentChange": "-75.94035365957541"
       },
       "atl": {
         "date": 1677801600000,
         "value": "0.197282468185",
-        "percentChange": "92337.63974723662"
+        "percentChange": "92200.45556287706"
       },
       "percentChange": {
-        "h24": "1.1342416834317939",
-        "d7": "8.7813604941489",
-        "d30": "-9.052779176756173",
-        "m3": "-34.96976381326603",
-        "m6": "-43.52333709370843"
+        "h24": "0.7455375641649268",
+        "d7": "8.936202668790383",
+        "d30": "-9.293769267605127",
+        "m3": "-34.988036022898065",
+        "m6": "-43.74773586148456"
       }
     },
     {
@@ -1988,40 +1988,40 @@
       "type": "token",
       "rank": 46,
       "categoryId": 54,
-      "lastUpdated": 1772509471217,
+      "lastUpdated": 1772510344334,
       "totalSupply": "8000000000",
       "maxSupply": "8000000000",
       "circulatingSupply": "2454947756",
-      "volume24hBase": "162384150.9432",
+      "volume24hBase": "161884683.7238",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.aster_prev_astherus1747322983439.png",
         "x150": "https://img.cryptorank.io/coins/150x150.aster_prev_astherus1747322983439.png",
         "icon": "https://img.cryptorank.io/coins/icon.aster_prev_astherus1747322983439.png",
         "native": "https://img.cryptorank.io/coins/aster_prev_astherus1747322983439.png"
       },
-      "price": "0.701835175225",
+      "price": "0.702656722008",
       "high24h": "0.720175135533",
       "low24h": "0.680466566086",
-      "volume24h": "113966909.03098362102",
-      "marketCap": "1722968688.5004805451",
-      "fullyDilutedValuation": "5614681401.8",
+      "volume24h": "113749361.20866713885",
+      "marketCap": "1724985542.931855414",
+      "fullyDilutedValuation": "5621253776.064",
       "createdAt": 1722332571243,
       "ath": {
         "date": 1758672000000,
         "value": "2.40687933958",
-        "percentChange": "-70.84045038387882"
+        "percentChange": "-70.80631710725419"
       },
       "atl": {
         "date": 1758067200000,
         "value": "0.108352142758",
-        "percentChange": "547.7353906996742"
+        "percentChange": "548.4936099301281"
       },
       "percentChange": {
-        "h24": "-0.4456068811919302",
-        "d7": "1.2944073936533194",
-        "d30": "26.389036402335563",
-        "m3": "-32.93182301875066",
-        "m6": "235.24334334943302"
+        "h24": "-0.4893546078071717",
+        "d7": "1.3981245698503906",
+        "d30": "26.19885376776106",
+        "m3": "-32.915149280342334",
+        "m6": "235.6357689501627"
       }
     },
     {
@@ -2032,40 +2032,40 @@
       "type": "token",
       "rank": 47,
       "categoryId": 54,
-      "lastUpdated": 1772509471259,
+      "lastUpdated": 1772510344334,
       "totalSupply": "28656946272",
       "maxSupply": null,
       "circulatingSupply": "23462665147",
-      "volume24hBase": "269473640.3455",
+      "volume24hBase": "276214403.6025",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.sky1724762428406.png",
         "x150": "https://img.cryptorank.io/coins/150x150.sky1724762428406.png",
         "icon": "https://img.cryptorank.io/coins/icon.sky1724762428406.png",
         "native": "https://img.cryptorank.io/coins/sky1724762428406.png"
       },
-      "price": "0.070359792493",
+      "price": "0.070338131116",
       "high24h": "0.071874300109",
       "low24h": "0.06737629949",
-      "volume24h": "18960109.417042692826",
-      "marketCap": "1650828251.0756633415",
-      "fullyDilutedValuation": "2016296793.1809699361",
+      "volume24h": "19428404.936720387745",
+      "marketCap": "1650320017.4404894141",
+      "fullyDilutedValuation": "2015676044.2641033996",
       "createdAt": 1724762428632,
       "ath": {
         "date": 1733270400000,
         "value": "0.100923783336",
-        "percentChange": "-30.284230171242182"
+        "percentChange": "-30.30569327566018"
       },
       "atl": {
         "date": 1738540800000,
         "value": "0.035961395803",
-        "percentChange": "95.65367506433215"
+        "percentChange": "95.59343998024737"
       },
       "percentChange": {
-        "h24": "3.6450678325214874",
-        "d7": "12.935144304374578",
-        "d30": "14.609320068608236",
-        "m3": "25.632716795585985",
-        "m6": "-2.8416691511274257"
+        "h24": "3.4301131276895234",
+        "d7": "12.706030975304934",
+        "d30": "14.332089907383008",
+        "m3": "25.361523719376414",
+        "m6": "-2.7378298466704005"
       }
     },
     {
@@ -2076,40 +2076,40 @@
       "type": "coin",
       "rank": 48,
       "categoryId": 4,
-      "lastUpdated": 1772509465007,
+      "lastUpdated": 1772510344334,
       "totalSupply": "14586944853",
       "maxSupply": "100000000000",
       "circulatingSupply": "9481514155",
-      "volume24hBase": "71574124.8323",
+      "volume24hBase": "71274132.3753",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pi_network1740126543544.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pi_network1740126543544.png",
         "icon": "https://img.cryptorank.io/coins/icon.pi_network1740126543544.png",
         "native": "https://img.cryptorank.io/coins/pi_network1740126543544.png"
       },
-      "price": "0.170754887585",
+      "price": "0.170571767037",
       "high24h": "0.171698017959",
       "low24h": "0.165827693623",
-      "volume24h": "12221631.639734143477",
-      "marketCap": "1619014883.6726112657",
-      "fullyDilutedValuation": "2490792128.58260935",
+      "volume24h": "12157354.703283971053",
+      "marketCap": "1617278623.6046779087",
+      "fullyDilutedValuation": "2488120959.2474822106",
       "createdAt": 1740126543697,
       "ath": {
         "date": 1740614400000,
         "value": "2.962250648384",
-        "percentChange": "-94.23563675551385"
+        "percentChange": "-94.24181856015282"
       },
       "atl": {
         "date": 1770768000000,
         "value": "0.131296648579",
-        "percentChange": "30.05273891835734"
+        "percentChange": "29.91326807124747"
       },
       "percentChange": {
-        "h24": "0.9280169654087933",
-        "d7": "4.717141389333394",
-        "d30": "6.3192705034713965",
-        "m3": "-27.60324351565734",
-        "m6": "-50.4899313192149"
+        "h24": "0.9650804117156997",
+        "d7": "4.593023532961539",
+        "d30": "6.2331180337917695",
+        "m3": "-27.523733892526455",
+        "m6": "-50.60087079346612"
       }
     },
     {
@@ -2120,40 +2120,40 @@
       "type": "token",
       "rank": 49,
       "categoryId": 63,
-      "lastUpdated": 1772509458342,
+      "lastUpdated": 1772510344334,
       "totalSupply": "21000000",
       "maxSupply": "300000000",
       "circulatingSupply": "21000000",
-      "volume24hBase": "122771.6783",
+      "volume24hBase": "122694.9954",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.okb1642497114506.png",
         "x150": "https://img.cryptorank.io/coins/150x150.okb1642497114506.png",
         "icon": "https://img.cryptorank.io/coins/icon.okb1642497114506.png",
         "native": "https://img.cryptorank.io/coins/okb1642497114506.png"
       },
-      "price": "76.686866315755",
+      "price": "76.706822854326",
       "high24h": "78.121798227093",
       "low24h": "75.302362870656",
-      "volume24h": "9414975.2811529790816",
-      "marketCap": "1610424192.630855",
-      "fullyDilutedValuation": "1610424192.630855",
+      "volume24h": "9411543.2772601434401",
+      "marketCap": "1610843279.940846",
+      "fullyDilutedValuation": "1610843279.940846",
       "createdAt": 1522778099260,
       "ath": {
         "date": 1755820800000,
         "value": "255.622464199621",
-        "percentChange": "-69.99995029549962"
+        "percentChange": "-69.99214325919962"
       },
       "atl": {
         "date": 1548806400000,
         "value": "0.58077198",
-        "percentChange": "13104.298581304663"
+        "percentChange": "13107.734790222834"
       },
       "percentChange": {
-        "h24": "0.22997947642031752",
-        "d7": "3.707648806933574",
-        "d30": "-16.366868425384883",
-        "m3": "-27.25315643578318",
-        "m6": "-53.61467408084652"
+        "h24": "0.2667640627276958",
+        "d7": "3.778001221398645",
+        "d30": "-16.172541907627586",
+        "m3": "-27.216097940109265",
+        "m6": "-53.6082162961921"
       }
     },
     {
@@ -2164,40 +2164,40 @@
       "type": "token",
       "rank": 50,
       "categoryId": 37,
-      "lastUpdated": 1772509471145,
+      "lastUpdated": 1772510344334,
       "totalSupply": "1583678851",
       "maxSupply": null,
       "circulatingSupply": "1583678851",
-      "volume24hBase": "300948143.5774",
+      "volume24hBase": "300746929.5464",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ripple_usd1770653767927.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ripple_usd1770653767927.png",
         "icon": "https://img.cryptorank.io/coins/icon.ripple_usd1770653767927.png",
         "native": "https://img.cryptorank.io/coins/ripple_usd1770653767927.png"
       },
-      "price": "0.999925944441",
+      "price": "0.999925491923",
       "high24h": "1.000079376931",
       "low24h": "0.999798690745",
-      "volume24h": "300925856.69439736338",
-      "marketCap": "1583561570.7774127173",
-      "fullyDilutedValuation": "1583561570.7774127173",
+      "volume24h": "300724521.47101584325",
+      "marketCap": "1583560854.1342264205",
+      "fullyDilutedValuation": "1583560854.1342264205",
       "createdAt": 1718204816678,
       "ath": {
         "date": 1734739200000,
         "value": "1.020850243753",
-        "percentChange": "-2.0496933257394354"
+        "percentChange": "-2.0497376532990135"
       },
       "atl": {
         "date": 1743379200000,
         "value": "0.927841091482",
-        "percentChange": "7.769094688818106"
+        "percentChange": "7.769045917751146"
       },
       "percentChange": {
-        "h24": "0.0005106555243645296",
-        "d7": "0.008802110091042408",
-        "d30": "0.0013018185527404354",
-        "m3": "0.018760723062343863",
-        "m6": "0.005019085172020112"
+        "h24": "-0.0027350824825021244",
+        "d7": "0.013824311932365947",
+        "d30": "0.0020759821703534385",
+        "m3": "0.012628496093913179",
+        "m6": "-0.0018556437282360087"
       }
     },
     {
@@ -2208,40 +2208,40 @@
       "type": "token",
       "rank": 51,
       "categoryId": 63,
-      "lastUpdated": 1772509461029,
+      "lastUpdated": 1772510344334,
       "totalSupply": "916931611",
       "maxSupply": "919992036",
       "circulatingSupply": "699992036",
-      "volume24hBase": "10449128.1227",
+      "volume24hBase": "10430301.1008",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.bitget_token1697554105623.png",
         "x150": "https://img.cryptorank.io/coins/150x150.bitget_token1697554105623.png",
         "icon": "https://img.cryptorank.io/coins/icon.bitget_token1697554105623.png",
         "native": "https://img.cryptorank.io/coins/bitget_token1697554105623.png"
       },
-      "price": "2.135519229787",
+      "price": "2.135627598338",
       "high24h": "2.168338526328",
       "low24h": "2.107002713442",
-      "volume24h": "22314314.040533985231",
-      "marketCap": "1494846453.5757539763",
-      "fullyDilutedValuation": "1958125087.6900730969",
+      "volume24h": "22275238.88984370165",
+      "marketCap": "1494922310.6984068362",
+      "fullyDilutedValuation": "1958224454.2401232625",
       "createdAt": 1671103508295,
       "ath": {
         "date": 1735257600000,
         "value": "8.463880993174",
-        "percentChange": "-74.76903052501251"
+        "percentChange": "-74.76775016023555"
       },
       "atl": {
         "date": 1671148800000,
         "value": "0.175349687301",
-        "percentChange": "1117.863152570801"
+        "percentChange": "1117.9249539647287"
       },
       "percentChange": {
-        "h24": "0.4200980955819572",
-        "d7": "-3.6752063814140925",
-        "d30": "-33.586450824553665",
-        "m3": "-41.05005784606615",
-        "m6": "-58.28008088151065"
+        "h24": "0.39164933355669046",
+        "d7": "-3.7107570159831686",
+        "d30": "-33.541433039744",
+        "m3": "-41.03085409522206",
+        "m6": "-56.35099196654846"
       }
     },
     {
@@ -2252,40 +2252,40 @@
       "type": "token",
       "rank": 52,
       "categoryId": 59,
-      "lastUpdated": 1772509460614,
+      "lastUpdated": 1772510344334,
       "totalSupply": "420690000000000",
       "maxSupply": "420690000000000",
       "circulatingSupply": "420690000000000",
-      "volume24hBase": "69332126774592.3828",
+      "volume24hBase": "69305872325520.7578",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pepe1715931310909.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pepe1715931310909.png",
         "icon": "https://img.cryptorank.io/coins/icon.pepe1715931310909.png",
         "native": "https://img.cryptorank.io/coins/pepe1715931310909.png"
       },
-      "price": "0.000003490459",
+      "price": "0.000003493378",
       "high24h": "0.000003676267",
       "low24h": "0.000003378376",
-      "volume24h": "242000945.88951695388",
-      "marketCap": "1468401196.71",
-      "fullyDilutedValuation": "1468401196.71",
+      "volume24h": "242111609.65278305384",
+      "marketCap": "1469629190.82",
+      "fullyDilutedValuation": "1469629190.82",
       "createdAt": 1681723451915,
       "ath": {
         "date": 1733702400000,
         "value": "0.000027977414",
-        "percentChange": "-87.52401133285585"
+        "percentChange": "-87.51357791681532"
       },
       "atl": {
         "date": 1681776000000,
         "value": "6.5078e-8",
-        "percentChange": "5263.50072221027"
+        "percentChange": "5267.98610897692"
       },
       "percentChange": {
-        "h24": "0.09451809393481177",
-        "d7": "-10.390532939343139",
-        "d30": "-16.18497776072349",
-        "m3": "-24.64471633546006",
-        "m6": "-64.36455190437235"
+        "h24": "0.25953302423561453",
+        "d7": "-10.376705493239086",
+        "d30": "-16.443514704397998",
+        "m3": "-24.59234517038494",
+        "m6": "-64.36989370668856"
       }
     },
     {
@@ -2296,40 +2296,40 @@
       "type": "token",
       "rank": 53,
       "categoryId": 54,
-      "lastUpdated": 1772509464648,
+      "lastUpdated": 1772510344335,
       "totalSupply": "999990000000000",
       "maxSupply": "999990000000000",
       "circulatingSupply": "916533066327098",
-      "volume24hBase": "42225521429470.3828",
+      "volume24hBase": "42250462955197.1719",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.htx_dao1706255430822.png",
         "x150": "https://img.cryptorank.io/coins/150x150.htx_dao1706255430822.png",
         "icon": "https://img.cryptorank.io/coins/icon.htx_dao1706255430822.png",
         "native": "https://img.cryptorank.io/coins/htx_dao1706255430822.png"
       },
-      "price": "0.000001587446",
+      "price": "0.000001587593",
       "high24h": "0.000001612495",
       "low24h": "0.000001514037",
-      "volume24h": "67030735.091127041294",
-      "marketCap": "1454946750.0086864117",
-      "fullyDilutedValuation": "1587430125.54",
+      "volume24h": "67076539.234430343728",
+      "marketCap": "1455081480.3694364951",
+      "fullyDilutedValuation": "1587577124.07",
       "createdAt": 1706255431013,
       "ath": {
         "date": 1733184000000,
         "value": "0.000003549177",
-        "percentChange": "-55.272842126498624"
+        "percentChange": "-55.2687003212294"
       },
       "atl": {
         "date": 1722816000000,
         "value": "8.04348e-7",
-        "percentChange": "97.35810867932786"
+        "percentChange": "97.37638435105204"
       },
       "percentChange": {
-        "h24": "4.724540350830898",
-        "d7": "-4.04273401977603",
-        "d30": "-8.242661475288546",
-        "m3": "-7.597033691122029",
-        "m6": "-28.363929932801952"
+        "h24": "4.6684331245801145",
+        "d7": "-4.033732207233891",
+        "d30": "-8.330388529353344",
+        "m3": "-7.5196265351570855",
+        "m6": "-28.391743454035606"
       }
     },
     {
@@ -2340,40 +2340,40 @@
       "type": "coin",
       "rank": 54,
       "categoryId": 65,
-      "lastUpdated": 1772509462600,
+      "lastUpdated": 1772510344335,
       "totalSupply": "155744662",
       "maxSupply": "210700000",
       "circulatingSupply": "155744098",
-      "volume24hBase": "2529782.4431",
+      "volume24hBase": "2521847.3695",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ethereum-classic1524753357045.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ethereum-classic1524753357045.png",
         "icon": "https://img.cryptorank.io/coins/icon.ethereum-classic1524753357045.png",
         "native": "https://img.cryptorank.io/coins/ethereum-classic1524753357045.png"
       },
-      "price": "8.632610117325",
+      "price": "8.63035504444",
       "high24h": "8.929352788517",
       "low24h": "8.467305816829",
-      "volume24h": "21838625.512936216137",
-      "marketCap": "1344478076.1084562979",
-      "fullyDilutedValuation": "1344482944.9005624692",
+      "volume24h": "21764438.166672069601",
+      "marketCap": "1344126861.8160577151",
+      "fullyDilutedValuation": "1344131729.3363027793",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1620259200000,
         "value": "167.4701077",
-        "percentChange": "-94.84528299653981"
+        "percentChange": "-94.84662954901772"
       },
       "atl": {
         "date": 1469404800000,
         "value": "0.452446",
-        "percentChange": "1807.9868354068774"
+        "percentChange": "1807.488417278526"
       },
       "percentChange": {
-        "h24": "-0.15626831573672403",
-        "d7": "5.0595889128072935",
-        "d30": "-11.666771289917936",
-        "m3": "-36.8713812214704",
-        "m6": "-58.4150153314568"
+        "h24": "-0.24883292581664637",
+        "d7": "5.074487319703931",
+        "d30": "-11.84246980372606",
+        "m3": "-36.89676742991924",
+        "m6": "-58.455795431567815"
       }
     },
     {
@@ -2384,40 +2384,40 @@
       "type": "coin",
       "rank": 55,
       "categoryId": 65,
-      "lastUpdated": 1772509461305,
+      "lastUpdated": 1772510344335,
       "totalSupply": "549378488",
       "maxSupply": null,
       "circulatingSupply": "549378412",
-      "volume24hBase": "17364456.3339",
+      "volume24hBase": "17394013.0324",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.internet computer1620718852173.png",
         "x150": "https://img.cryptorank.io/coins/150x150.internet computer1620718852173.png",
         "icon": "https://img.cryptorank.io/coins/icon.internet computer1620718852173.png",
         "native": "https://img.cryptorank.io/coins/internet computer1620718852173.png"
       },
-      "price": "2.397578000128",
+      "price": "2.402413968165",
       "high24h": "2.531068066915",
       "low24h": "2.347575067376",
-      "volume24h": "41632638.490341944611",
-      "marketCap": "1317177594.3564564367",
-      "fullyDilutedValuation": "1317177776.5723844465",
+      "volume24h": "41787619.871481808714",
+      "marketCap": "1319834370.797106254",
+      "fullyDilutedValuation": "1319834553.3805678345",
       "createdAt": 1620718830389,
       "ath": {
         "date": 1620691200000,
         "value": "461.09702365",
-        "percentChange": "-99.48002743952911"
+        "percentChange": "-99.4789786433346"
       },
       "atl": {
         "date": 1771891200000,
         "value": "2.019564824299",
-        "percentChange": "18.717555944766964"
+        "percentChange": "18.957011889870316"
       },
       "percentChange": {
-        "h24": "-0.8849935154814353",
-        "d7": "16.935356966470817",
-        "d30": "-12.526067985363033",
-        "m3": "-36.11660183605693",
-        "m6": "-50.564020235453526"
+        "h24": "-0.9500458822058437",
+        "d7": "17.33011975419388",
+        "d30": "-12.462588058984425",
+        "m3": "-35.75599635409655",
+        "m6": "-50.49152240850363"
       }
     },
     {
@@ -2428,40 +2428,40 @@
       "type": "token",
       "rank": 56,
       "categoryId": 54,
-      "lastUpdated": 1772509460333,
+      "lastUpdated": 1772510344335,
       "totalSupply": "10000000000",
       "maxSupply": "10000000000",
       "circulatingSupply": "4869330647",
-      "volume24hBase": "159986204.1933",
+      "volume24hBase": "159503762.9434",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ondo_finance1692257652706.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ondo_finance1692257652706.png",
         "icon": "https://img.cryptorank.io/coins/icon.ondo_finance1692257652706.png",
         "native": "https://img.cryptorank.io/coins/ondo_finance1692257652706.png"
       },
-      "price": "0.256732784696",
+      "price": "0.256512521727",
       "high24h": "0.269120155151",
       "low24h": "0.249798723926",
-      "volume24h": "41073703.715488781266",
-      "marketCap": "1250116816.6098853783",
-      "fullyDilutedValuation": "2567327846.96",
+      "volume24h": "40914712.457557149971",
+      "marketCap": "1249044283.3845344674",
+      "fullyDilutedValuation": "2565125217.27",
       "createdAt": 1651216534285,
       "ath": {
         "date": 1734307200000,
         "value": "2.134073151457",
-        "percentChange": "-87.96982265951286"
+        "percentChange": "-87.98014390688198"
       },
       "atl": {
         "date": 1705536000000,
         "value": "0.083186797231",
-        "percentChange": "208.62203287269625"
+        "percentChange": "208.35725170990145"
       },
       "percentChange": {
-        "h24": "0.14149751184147674",
-        "d7": "4.749170703133618",
-        "d30": "-11.09488517438299",
-        "m3": "-49.31868099414927",
-        "m6": "-73.37691646752187"
+        "h24": "0.08898530151353481",
+        "d7": "4.741714523196181",
+        "d30": "-11.478527534826",
+        "m3": "-49.38060724583156",
+        "m6": "-73.47099833648016"
       }
     },
     {
@@ -2472,40 +2472,40 @@
       "type": "token",
       "rank": 57,
       "categoryId": 54,
-      "lastUpdated": 1772509465404,
+      "lastUpdated": 1772510344335,
       "totalSupply": "1000000000000",
       "maxSupply": "1000000000000",
       "circulatingSupply": "590000000000",
-      "volume24hBase": "45316988042.2733",
+      "volume24hBase": "45224084026.6944",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pump_fun1724837513667.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pump_fun1724837513667.png",
         "icon": "https://img.cryptorank.io/coins/icon.pump_fun1724837513667.png",
         "native": "https://img.cryptorank.io/coins/pump_fun1724837513667.png"
       },
-      "price": "0.001984661678",
+      "price": "0.001986862676",
       "high24h": "0.002101678459",
       "low24h": "0.001878698823",
-      "volume24h": "89938889.529884062513",
-      "marketCap": "1170950390.02",
-      "fullyDilutedValuation": "1984661678",
+      "volume24h": "89854044.608926891018",
+      "marketCap": "1172248978.84",
+      "fullyDilutedValuation": "1986862676",
       "createdAt": 1724837274126,
       "ath": {
         "date": 1757808000000,
         "value": "0.008777393535",
-        "percentChange": "-77.38894046295032"
+        "percentChange": "-77.3638647045122"
       },
       "atl": {
         "date": 1766534400000,
         "value": "0.001685066766",
-        "percentChange": "17.779408985151157"
+        "percentChange": "17.910026836289763"
       },
       "percentChange": {
-        "h24": "0.8592635249245575",
-        "d7": "11.671604833455998",
-        "d30": "-25.43826954645226",
-        "m3": "-40.02530179723496",
-        "m6": "-48.81012123159574"
+        "h24": "0.7414433689030677",
+        "d7": "11.657099576954892",
+        "d30": "-25.41478521233583",
+        "m3": "-40.048675445768744",
+        "m6": "-48.69096224123347"
       }
     },
     {
@@ -2516,40 +2516,40 @@
       "type": "token",
       "rank": 58,
       "categoryId": null,
-      "lastUpdated": 1772509463366,
+      "lastUpdated": 1772510344335,
       "totalSupply": "10036969",
       "maxSupply": null,
       "circulatingSupply": "10036963",
-      "volume24hBase": "38527.9909",
+      "volume24hBase": "38537.2163",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.jito_staked_sol1701356157386.png",
         "x150": "https://img.cryptorank.io/coins/150x150.jito_staked_sol1701356157386.png",
         "icon": "https://img.cryptorank.io/coins/icon.jito_staked_sol1701356157386.png",
         "native": "https://img.cryptorank.io/coins/jito_staked_sol1701356157386.png"
       },
-      "price": "109.218007158127",
+      "price": "109.050164986425",
       "high24h": "113.400016465842",
       "low24h": "104.357955752498",
-      "volume24h": "4207950.385904451917",
-      "marketCap": "1096217096.7798558483",
-      "fullyDilutedValuation": "1096217752.0878987971",
+      "volume24h": "4202489.7956325467887",
+      "marketCap": "1094532471.1126432273",
+      "fullyDilutedValuation": "1094533125.4136331458",
       "createdAt": 1668770763835,
       "ath": {
         "date": 1737244800000,
         "value": "339.100303050716",
-        "percentChange": "-67.79182850161231"
+        "percentChange": "-67.84132482178424"
       },
       "atl": {
         "date": 1730332800000,
         "value": "17.241618023778",
-        "percentChange": "533.4556710832122"
+        "percentChange": "532.4821999654173"
       },
       "percentChange": {
-        "h24": "2.0752833633319385",
-        "d7": "12.618024592637092",
-        "d30": "-17.121629597836776",
-        "m3": "-37.51924073882074",
-        "m6": "-57.55357009570887"
+        "h24": "1.9219044216073495",
+        "d7": "12.584951028448305",
+        "d30": "-17.181212050393995",
+        "m3": "-37.65933430116114",
+        "m6": "-57.652167206211594"
       }
     },
     {
@@ -2560,40 +2560,40 @@
       "type": "coin",
       "rank": 59,
       "categoryId": 65,
-      "lastUpdated": 1772509467447,
+      "lastUpdated": 1772510344335,
       "totalSupply": "10601351824",
       "maxSupply": null,
       "circulatingSupply": "10601351824",
-      "volume24hBase": "694465996.3200",
+      "volume24hBase": "695001311.4793",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.polygon_ecosystem_token1698250519897.png",
         "x150": "https://img.cryptorank.io/coins/150x150.polygon_ecosystem_token1698250519897.png",
         "icon": "https://img.cryptorank.io/coins/icon.polygon_ecosystem_token1698250519897.png",
         "native": "https://img.cryptorank.io/coins/polygon_ecosystem_token1698250519897.png"
       },
-      "price": "0.10099971113",
+      "price": "0.100689051356",
       "high24h": "0.108570945145",
       "low24h": "0.100281894692",
-      "volume24h": "70140865.017927643042",
-      "marketCap": "1070733471.8114986011",
-      "fullyDilutedValuation": "1070733471.8114986011",
+      "volume24h": "69979022.744026590031",
+      "marketCap": "1067440058.2497602733",
+      "fullyDilutedValuation": "1067440058.2497602733",
       "createdAt": 1698250438879,
       "ath": {
         "date": 1710288000000,
         "value": "1.286047942808",
-        "percentChange": "-92.14650498102941"
+        "percentChange": "-92.17066113910558"
       },
       "atl": {
         "date": 1770336000000,
         "value": "0.086061452735",
-        "percentChange": "17.35766469222616"
+        "percentChange": "16.996690337125994"
       },
       "percentChange": {
-        "h24": "-6.553561840580931",
-        "d7": "-4.299947701789122",
-        "d30": "-5.5573405892102326",
-        "m3": "-21.844306520732186",
-        "m6": "-64.9223256626922"
+        "h24": "-6.932742828223252",
+        "d7": "-4.437322668498553",
+        "d30": "-5.842023774719637",
+        "m3": "-21.968794023284996",
+        "m6": "-65.22316352694762"
       }
     },
     {
@@ -2604,40 +2604,40 @@
       "type": "token",
       "rank": 60,
       "categoryId": 54,
-      "lastUpdated": 1772509460550,
+      "lastUpdated": 1772510344335,
       "totalSupply": "1000000000",
       "maxSupply": "1000000000",
       "circulatingSupply": "548771559",
-      "volume24hBase": "19836024.9332",
+      "volume24hBase": "19800562.6884",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.morpho1756226977624.png",
         "x150": "https://img.cryptorank.io/coins/150x150.morpho1756226977624.png",
         "icon": "https://img.cryptorank.io/coins/icon.morpho1756226977624.png",
         "native": "https://img.cryptorank.io/coins/morpho1756226977624.png"
       },
-      "price": "1.919775428494",
+      "price": "1.924803633772",
       "high24h": "1.97396577131",
       "low24h": "1.739494685159",
-      "volume24h": "38080713.265751697727",
-      "marketCap": "1053518154.8245454021",
-      "fullyDilutedValuation": "1919775428.494",
+      "volume24h": "38112195.013362601353",
+      "marketCap": "1056277490.8739254905",
+      "fullyDilutedValuation": "1924803633.772",
       "createdAt": 1657723151547,
       "ath": {
         "date": 1737072000000,
         "value": "4.169451250428",
-        "percentChange": "-53.956160818598555"
+        "percentChange": "-53.8355644864677"
       },
       "atl": {
         "date": 1732492800000,
         "value": "0.71162278887",
-        "percentChange": "169.77430438146166"
+        "percentChange": "170.48088732914724"
       },
       "percentChange": {
-        "h24": "7.817109891914506",
-        "d7": "22.52119081103535",
-        "d30": "66.6911439013274",
-        "m3": "31.27394065733393",
-        "m6": "0.182664540625021"
+        "h24": "8.117056396867506",
+        "d7": "22.693448873411025",
+        "d30": "67.12888879679267",
+        "m3": "31.26414380403437",
+        "m6": "0.4174975265630319"
       }
     },
     {
@@ -2648,40 +2648,40 @@
       "type": "coin",
       "rank": 61,
       "categoryId": 63,
-      "lastUpdated": 1772509472540,
+      "lastUpdated": 1772510344335,
       "totalSupply": "142665482",
       "maxSupply": "200000000",
       "circulatingSupply": "132155022",
-      "volume24hBase": "556401.9924",
+      "volume24hBase": "556696.6654",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ku_coin_token1679388762038.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ku_coin_token1679388762038.png",
         "icon": "https://img.cryptorank.io/coins/icon.ku_coin_token1679388762038.png",
         "native": "https://img.cryptorank.io/coins/ku_coin_token1679388762038.png"
       },
-      "price": "7.689932480518",
+      "price": "7.678571308247",
       "high24h": "7.861688799127",
       "low24h": "7.527537527994",
-      "volume24h": "4278693.7535816893841",
-      "marketCap": "1016263196.1413708614",
-      "fullyDilutedValuation": "1097087923.8805560797",
+      "volume24h": "4274635.0423372204196",
+      "marketCap": "1014761760.1699510664",
+      "fullyDilutedValuation": "1095467076.7624288301",
       "createdAt": 1520353235666,
       "ath": {
         "date": 1638316800000,
         "value": "28.68347922",
-        "percentChange": "-73.19037756355556"
+        "percentChange": "-73.22998632992542"
       },
       "atl": {
         "date": 1550016000000,
         "value": "0.33560485",
-        "percentChange": "2191.3651219635235"
+        "percentChange": "2187.979839459114"
       },
       "percentChange": {
-        "h24": "0.9638460704860559",
-        "d7": "-5.737946863573929",
-        "d30": "-16.28626896411964",
-        "m3": "-25.034203247973853",
-        "m6": "-48.668417301288414"
+        "h24": "0.6509292610228224",
+        "d7": "-5.822077535946688",
+        "d30": "-16.471833819234348",
+        "m3": "-25.192844263903794",
+        "m6": "-48.74250107814031"
       }
     },
     {
@@ -2692,40 +2692,40 @@
       "type": "coin",
       "rank": 62,
       "categoryId": 65,
-      "lastUpdated": 1772509473055,
+      "lastUpdated": 1772510344335,
       "totalSupply": "24000000000",
       "maxSupply": "24000000000",
       "circulatingSupply": "16607399401",
-      "volume24hBase": "165658263.3083",
+      "volume24hBase": "164521337.4487",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.midnight_network1765179722597.png",
         "x150": "https://img.cryptorank.io/coins/150x150.midnight_network1765179722597.png",
         "icon": "https://img.cryptorank.io/coins/icon.midnight_network1765179722597.png",
         "native": "https://img.cryptorank.io/coins/midnight_network1765179722597.png"
       },
-      "price": "0.059667762296",
+      "price": "0.059619534647",
       "high24h": "0.062173870762",
       "low24h": "0.056751344571",
-      "volume24h": "9884457.8774478229639",
-      "marketCap": "990926359.8136007847",
-      "fullyDilutedValuation": "1432026295.104",
+      "volume24h": "9808685.5781935482351",
+      "marketCap": "990125423.98448654645",
+      "fullyDilutedValuation": "1430868831.528",
       "createdAt": 1765179722916,
       "ath": {
         "date": 1766275200000,
         "value": "0.117334615177",
-        "percentChange": "-49.1473490529706"
+        "percentChange": "-49.18845171387526"
       },
       "atl": {
         "date": 1765238400000,
         "value": "0.023898930302",
-        "percentChange": "149.66708359748912"
+        "percentChange": "149.46528523919204"
       },
       "percentChange": {
-        "h24": "2.3001945264173447",
-        "d7": "3.396484212721821",
-        "d30": "24.704469139885898",
-        "m3": "149.66040586468333",
-        "m6": "149.66040586468333"
+        "h24": "2.090639500754599",
+        "d7": "2.9470209174330955",
+        "d30": "24.374581700317098",
+        "m3": "149.45861290379585",
+        "m6": "149.45861290379585"
       }
     },
     {
@@ -2736,40 +2736,40 @@
       "type": "token",
       "rank": 63,
       "categoryId": 54,
-      "lastUpdated": 1772509465755,
+      "lastUpdated": 1772510344335,
       "totalSupply": "15000000000",
       "maxSupply": null,
       "circulatingSupply": "8225000000",
-      "volume24hBase": "922409892.8382",
+      "volume24hBase": "923868232.5317",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ethena1689605120723.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ethena1689605120723.png",
         "icon": "https://img.cryptorank.io/coins/icon.ethena1689605120723.png",
         "native": "https://img.cryptorank.io/coins/ethena1689605120723.png"
       },
-      "price": "0.1132139859",
+      "price": "0.113090147244",
       "high24h": "0.116687296345",
       "low24h": "0.102327467739",
-      "volume24h": "104429700.60180448578",
-      "marketCap": "931185034.0275",
-      "fullyDilutedValuation": "1698209788.5",
+      "volume24h": "104480394.4510639839",
+      "marketCap": "930166461.0819",
+      "fullyDilutedValuation": "1696352208.66",
       "createdAt": 1689605031336,
       "ath": {
         "date": 1712793600000,
         "value": "1.515547538271",
-        "percentChange": "-92.52982944836167"
+        "percentChange": "-92.53800066390409"
       },
       "atl": {
         "date": 1771891200000,
         "value": "0.094332087893",
-        "percentChange": "20.016410564788472"
+        "percentChange": "19.885131104356653"
       },
       "percentChange": {
-        "h24": "6.646117113785589",
-        "d7": "17.454090863521966",
-        "d30": "-18.368791039078847",
-        "m3": "-59.176446093153885",
-        "m6": "-83.60802232391872"
+        "h24": "6.402733307361165",
+        "d7": "17.423891989697243",
+        "d30": "-18.670587754718984",
+        "m3": "-59.06303998818932",
+        "m6": "-83.67632282478897"
       }
     },
     {
@@ -2780,40 +2780,40 @@
       "type": "token",
       "rank": 64,
       "categoryId": 44,
-      "lastUpdated": 1772509462094,
+      "lastUpdated": 1772510344335,
       "totalSupply": "14612493",
       "maxSupply": "14612493",
       "circulatingSupply": "14544176",
-      "volume24hBase": "100322.7130",
+      "volume24hBase": "100329.8233",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.quant1612278656385.png",
         "x150": "https://img.cryptorank.io/coins/150x150.quant1612278656385.png",
         "icon": "https://img.cryptorank.io/coins/icon.quant1612278656385.png",
         "native": "https://img.cryptorank.io/coins/quant1612278656385.png"
       },
-      "price": "63.661737011245",
+      "price": "63.721549960926",
       "high24h": "64.275890849489",
       "low24h": "61.07538903589",
-      "volume24h": "6386718.1712606099077",
-      "marketCap": "925907507.55726125912",
-      "fullyDilutedValuation": "930256686.44465848379",
+      "volume24h": "6393171.8479818274844",
+      "marketCap": "926777437.62450086698",
+      "fullyDilutedValuation": "931130702.75318144852",
       "createdAt": 1529956164261,
       "ath": {
         "date": 1631318400000,
         "value": "424.90658123",
-        "percentChange": "-85.0174744700447"
+        "percentChange": "-85.00339774063565"
       },
       "atl": {
         "date": 1534982400000,
         "value": "0.16242245",
-        "percentChange": "39095.158681109046"
+        "percentChange": "39131.98422442587"
       },
       "percentChange": {
-        "h24": "1.9961683787437696",
-        "d7": "2.4004599955071346",
-        "d30": "-9.371995079849434",
-        "m3": "-34.477277648418756",
-        "m6": "-37.23543862203825"
+        "h24": "2.04238538149945",
+        "d7": "2.5089817485011086",
+        "d30": "-9.05467229907877",
+        "m3": "-34.75336609037562",
+        "m6": "-37.232302050353894"
       }
     },
     {
@@ -2824,40 +2824,40 @@
       "type": "coin",
       "rank": 65,
       "categoryId": 65,
-      "lastUpdated": 1772509468818,
+      "lastUpdated": 1772510344335,
       "totalSupply": "496029869",
       "maxSupply": null,
       "circulatingSupply": "496023714",
-      "volume24hBase": "13944576.0659",
+      "volume24hBase": "13958584.2813",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.cosmos1552581000995.png",
         "x150": "https://img.cryptorank.io/coins/150x150.cosmos1552581000995.png",
         "icon": "https://img.cryptorank.io/coins/icon.cosmos1552581000995.png",
         "native": "https://img.cryptorank.io/coins/cosmos1552581000995.png"
       },
-      "price": "1.847604193337",
+      "price": "1.851525281371",
       "high24h": "1.87850552596",
       "low24h": "1.790881388376",
-      "volume24h": "25764057.213663606453",
-      "marketCap": "916455493.98099279362",
-      "fullyDilutedValuation": "916466865.98480278285",
+      "volume24h": "25844671.688974800314",
+      "marketCap": "918400446.63053843189",
+      "fullyDilutedValuation": "918411842.7686452704",
       "createdAt": 1552580443095,
       "ath": {
         "date": 1632096000000,
         "value": "44.72059434",
-        "percentChange": "-95.86856073671538"
+        "percentChange": "-95.85979276730023"
       },
       "atl": {
         "date": 1584057600000,
         "value": "1.14235772",
-        "percentChange": "61.73604475986734"
+        "percentChange": "62.079289959278256"
       },
       "percentChange": {
-        "h24": "1.7438563585670213",
-        "d7": "-12.195162624889377",
-        "d30": "-6.456614024277028",
-        "m3": "-22.667238618078294",
-        "m6": "-58.450026223754556"
+        "h24": "1.974292703546927",
+        "d7": "-12.03893238441156",
+        "d30": "-6.268383448177335",
+        "m3": "-22.46879967587228",
+        "m6": "-58.44059002811073"
       }
     },
     {
@@ -2868,40 +2868,40 @@
       "type": "token",
       "rank": 66,
       "categoryId": 65,
-      "lastUpdated": 1772509460439,
+      "lastUpdated": 1772510344335,
       "totalSupply": "10000000000",
       "maxSupply": "10000000000",
       "circulatingSupply": "2258039386",
-      "volume24hBase": "184299942.4782",
+      "volume24hBase": "185889568.2507",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.worldcoin1685021642487.png",
         "x150": "https://img.cryptorank.io/coins/150x150.worldcoin1685021642487.png",
         "icon": "https://img.cryptorank.io/coins/icon.worldcoin1685021642487.png",
         "native": "https://img.cryptorank.io/coins/worldcoin1685021642487.png"
       },
-      "price": "0.40450082504",
+      "price": "0.403113974055",
       "high24h": "0.415556683535",
       "low24h": "0.379571142796",
-      "volume24h": "74549478.787256442214",
-      "marketCap": "913378794.60981502544",
-      "fullyDilutedValuation": "4045008250.4",
+      "volume24h": "74934682.592907831536",
+      "marketCap": "910247230.46317213023",
+      "fullyDilutedValuation": "4031139740.55",
       "createdAt": 1667987638216,
       "ath": {
         "date": 1710028800000,
         "value": "11.940568616554",
-        "percentChange": "-96.61238222374759"
+        "percentChange": "-96.62399683800538"
       },
       "atl": {
         "date": 1770336000000,
         "value": "0.315391368475",
-        "percentChange": "28.25361296216431"
+        "percentChange": "27.81388913848905"
       },
       "percentChange": {
-        "h24": "3.4746464319671917",
-        "d7": "9.747819393944077",
-        "d30": "-1.6856635680306908",
-        "m3": "-35.93432535530101",
-        "m6": "-54.4082398423219"
+        "h24": "3.1013820982151876",
+        "d7": "9.161667493216388",
+        "d30": "-1.8900267555749009",
+        "m3": "-36.292090157332694",
+        "m6": "-54.6129967454535"
       }
     },
     {
@@ -2912,84 +2912,40 @@
       "type": "token",
       "rank": 67,
       "categoryId": 63,
-      "lastUpdated": 1772509462244,
+      "lastUpdated": 1772510344335,
       "totalSupply": "1000000000",
       "maxSupply": "1000000000",
       "circulatingSupply": "1000000000",
-      "volume24hBase": "7839743.6439",
+      "volume24hBase": "7812688.7893",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.nexo1730966011572.png",
         "x150": "https://img.cryptorank.io/coins/150x150.nexo1730966011572.png",
         "icon": "https://img.cryptorank.io/coins/icon.nexo1730966011572.png",
         "native": "https://img.cryptorank.io/coins/nexo1730966011572.png"
       },
-      "price": "0.867799918316",
+      "price": "0.867178435187",
       "high24h": "0.889873287854",
       "low24h": "0.837524227883",
-      "volume24h": "6803328.8937948001917",
-      "marketCap": "867799918.316",
-      "fullyDilutedValuation": "867799918.316",
+      "volume24h": "6774995.2389081915491",
+      "marketCap": "867178435.187",
+      "fullyDilutedValuation": "867178435.187",
       "createdAt": 1525217804335,
       "ath": {
         "date": 1620777600000,
         "value": "4.038519",
-        "percentChange": "-78.51192681485465"
+        "percentChange": "-78.5273157019442"
       },
       "atl": {
         "date": 1536710400000,
         "value": "0.04296896",
-        "percentChange": "1919.5972123039514"
+        "percentChange": "1918.1508586360944"
       },
       "percentChange": {
-        "h24": "1.362293127679329",
-        "d7": "6.06479609290325",
-        "d30": "5.097729557839023",
-        "m3": "-11.901027166517007",
-        "m6": "-30.607763925256478"
-      }
-    },
-    {
-      "id": 7139,
-      "key": "gatechain-token",
-      "symbol": "GT",
-      "name": "GateToken",
-      "type": "coin",
-      "rank": 68,
-      "categoryId": 63,
-      "lastUpdated": 1772509462101,
-      "totalSupply": "115180573",
-      "maxSupply": "300000000",
-      "circulatingSupply": "115180573",
-      "volume24hBase": "262354.7200",
-      "images": {
-        "x60": "https://img.cryptorank.io/coins/60x60.gate_token1735030136852.png",
-        "x150": "https://img.cryptorank.io/coins/150x150.gate_token1735030136852.png",
-        "icon": "https://img.cryptorank.io/coins/icon.gate_token1735030136852.png",
-        "native": "https://img.cryptorank.io/coins/gate_token1735030136852.png"
-      },
-      "price": "7.032939248686",
-      "high24h": "7.087423134002",
-      "low24h": "6.881388677559",
-      "volume24h": "1845124.8073660258979",
-      "marketCap": "810057972.53784297708",
-      "fullyDilutedValuation": "810057972.53784297708",
-      "createdAt": 1555835761384,
-      "ath": {
-        "date": 1737763200000,
-        "value": "25.935329940432",
-        "percentChange": "-72.88278473865887"
-      },
-      "atl": {
-        "date": 1584057600000,
-        "value": "0.26782713",
-        "percentChange": "2525.924882474005"
-      },
-      "percentChange": {
-        "h24": "1.1694326777377044",
-        "d7": "2.8060825167369217",
-        "d30": "-16.81861462824606",
-        "m3": "-32.598304889139996",
-        "m6": "-58.22501033159912"
+        "h24": "1.2713400913555046",
+        "d7": "6.034000405352147",
+        "d30": "4.7021783269212225",
+        "m3": "-11.915118163579207",
+        "m6": "-30.632350902691968"
       }
     },
     {
@@ -2998,42 +2954,86 @@
       "symbol": "TRUMP",
       "name": "OFFICIAL TRUMP",
       "type": "token",
-      "rank": 69,
+      "rank": 68,
       "categoryId": 59,
-      "lastUpdated": 1772509471630,
+      "lastUpdated": 1772510344335,
       "totalSupply": "1000000000",
       "maxSupply": "1000000000",
       "circulatingSupply": "232498807",
-      "volume24hBase": "18329122.0336",
+      "volume24hBase": "18289561.6898",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.official_trump1737184335048.png",
         "x150": "https://img.cryptorank.io/coins/150x150.official_trump1737184335048.png",
         "icon": "https://img.cryptorank.io/coins/icon.official_trump1737184335048.png",
         "native": "https://img.cryptorank.io/coins/official_trump1737184335048.png"
       },
-      "price": "3.479633152002",
+      "price": "3.478365229475",
       "high24h": "3.558730689644",
       "low24h": "3.393885652438",
-      "volume24h": "63778620.675204876151",
-      "marketCap": "809010556.63811466161",
-      "fullyDilutedValuation": "3479633152.002",
+      "volume24h": "63617775.444138345767",
+      "marketCap": "808715766.16321873633",
+      "fullyDilutedValuation": "3478365229.475",
       "createdAt": 1737184335333,
       "ath": {
         "date": 1737244800000,
         "value": "75.197844269292",
-        "percentChange": "-95.37269560608541"
+        "percentChange": "-95.37438172161082"
       },
       "atl": {
         "date": 1770768000000,
         "value": "3.098821007794",
-        "percentChange": "12.288936445512674"
+        "percentChange": "12.248020157549897"
       },
       "percentChange": {
-        "h24": "0.881665947364571",
-        "d7": "5.523920110572767",
-        "d30": "-17.99015274485053",
-        "m3": "-42.675611668370706",
-        "m6": "-58.60996300786173"
+        "h24": "0.7186868301017069",
+        "d7": "5.499990687468622",
+        "d30": "-18.093164239322885",
+        "m3": "-42.671755657549376",
+        "m6": "-58.663262389943625"
+      }
+    },
+    {
+      "id": 7139,
+      "key": "gatechain-token",
+      "symbol": "GT",
+      "name": "GateToken",
+      "type": "coin",
+      "rank": 69,
+      "categoryId": 63,
+      "lastUpdated": 1772510344335,
+      "totalSupply": "115180573",
+      "maxSupply": "300000000",
+      "circulatingSupply": "115180573",
+      "volume24hBase": "261556.7508",
+      "images": {
+        "x60": "https://img.cryptorank.io/coins/60x60.gate_token1735030136852.png",
+        "x150": "https://img.cryptorank.io/coins/150x150.gate_token1735030136852.png",
+        "icon": "https://img.cryptorank.io/coins/icon.gate_token1735030136852.png",
+        "native": "https://img.cryptorank.io/coins/gate_token1735030136852.png"
+      },
+      "price": "7.020789186479",
+      "high24h": "7.087423134002",
+      "low24h": "6.881388677559",
+      "volume24h": "1836334.8076672225324",
+      "marketCap": "808658521.41085507247",
+      "fullyDilutedValuation": "808658521.41085507247",
+      "createdAt": 1555835761384,
+      "ath": {
+        "date": 1737763200000,
+        "value": "25.935329940432",
+        "percentChange": "-72.92963227148343"
+      },
+      "atl": {
+        "date": 1584057600000,
+        "value": "0.26782713",
+        "percentChange": "2521.388350940773"
+      },
+      "percentChange": {
+        "h24": "0.883808038085152",
+        "d7": "3.7581201558300354",
+        "d30": "-17.18569746428408",
+        "m3": "-32.73325575894582",
+        "m6": "-58.18735050475116"
       }
     },
     {
@@ -3044,40 +3044,40 @@
       "type": "coin",
       "rank": 70,
       "categoryId": 65,
-      "lastUpdated": 1772509460493,
+      "lastUpdated": 1772510344335,
       "totalSupply": "27249101240",
       "maxSupply": "28704026601",
       "circulatingSupply": "26777148611",
-      "volume24hBase": "361430616.5243",
+      "volume24hBase": "361386624.5745",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.kaspa1664357057357.png",
         "x150": "https://img.cryptorank.io/coins/150x150.kaspa1664357057357.png",
         "icon": "https://img.cryptorank.io/coins/icon.kaspa1664357057357.png",
         "native": "https://img.cryptorank.io/coins/kaspa1664357057357.png"
       },
-      "price": "0.03019130339",
+      "price": "0.030128670128",
       "high24h": "0.0307062544",
       "low24h": "0.029322459312",
-      "volume24h": "10912061.397919888607",
-      "marketCap": "808437017.63381809129",
-      "fullyDilutedValuation": "822685882.6416652036",
+      "volume24h": "10888098.400476488861",
+      "marketCap": "806759877.46925239221",
+      "fullyDilutedValuation": "820979182.54443575872",
       "createdAt": 1654079389913,
       "ath": {
         "date": 1722384000000,
         "value": "0.20741534121",
-        "percentChange": "-85.44403552125276"
+        "percentChange": "-85.4742325460411"
       },
       "atl": {
         "date": 1666310400000,
         "value": "0.001299960219",
-        "percentChange": "2222.479022721541"
+        "percentChange": "2217.660932053491"
       },
       "percentChange": {
-        "h24": "1.778529650992057",
-        "d7": "2.367828760154441",
-        "d30": "-9.05243900507397",
-        "m3": "-45.390052255723745",
-        "m6": "-63.89071531552765"
+        "h24": "1.4814452235699864",
+        "d7": "2.234203934721579",
+        "d30": "-9.33457113735641",
+        "m3": "-45.53456335458869",
+        "m6": "-64.02788332216684"
       }
     },
     {
@@ -3088,40 +3088,40 @@
       "type": "token",
       "rank": 71,
       "categoryId": 65,
-      "lastUpdated": 1772509460574,
+      "lastUpdated": 1772510344335,
       "totalSupply": "105104058151",
       "maxSupply": null,
       "circulatingSupply": "85034601553",
-      "volume24hBase": "391689492.9577",
+      "volume24hBase": "392208822.1066",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.flare1697636280466.png",
         "x150": "https://img.cryptorank.io/coins/150x150.flare1697636280466.png",
         "icon": "https://img.cryptorank.io/coins/icon.flare1697636280466.png",
         "native": "https://img.cryptorank.io/coins/flare1697636280466.png"
       },
-      "price": "0.009280999332",
+      "price": "0.009293589298",
       "high24h": "0.009510055005",
       "low24h": "0.009155750908",
-      "volume24h": "3635269.9224918324043",
-      "marketCap": "789206080.2102791626",
-      "fullyDilutedValuation": "975470693.48992015513",
+      "volume24h": "3645027.7117110835752",
+      "marketCap": "790276662.95265497979",
+      "fullyDilutedValuation": "976793950.008503268",
       "createdAt": 1672307860839,
       "ath": {
         "date": 1708905600000,
         "value": "0.053648587613",
-        "percentChange": "-82.7003845861712"
+        "percentChange": "-82.67691711655053"
       },
       "atl": {
         "date": 1697673600000,
         "value": "0.008243650883",
-        "percentChange": "12.583604809602173"
+        "percentChange": "12.736327992311947"
       },
       "percentChange": {
-        "h24": "-0.7917303117131637",
-        "d7": "3.4373214289260803",
-        "d30": "-5.661878371392601",
-        "m3": "-33.777341461274744",
-        "m6": "-54.867442441891804"
+        "h24": "-0.6857276049241311",
+        "d7": "3.511946600216524",
+        "d30": "-5.535123457565068",
+        "m3": "-33.676217980338976",
+        "m6": "-54.856582670844546"
       }
     },
     {
@@ -3132,40 +3132,40 @@
       "type": "coin",
       "rank": 72,
       "categoryId": 65,
-      "lastUpdated": 1772509470018,
+      "lastUpdated": 1772510344335,
       "totalSupply": "8886144114",
       "maxSupply": "10000000000",
       "circulatingSupply": "8885850463",
-      "volume24hBase": "242578657.8417",
+      "volume24hBase": "242963151.8361",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.algorand1725547062890.png",
         "x150": "https://img.cryptorank.io/coins/150x150.algorand1725547062890.png",
         "icon": "https://img.cryptorank.io/coins/icon.algorand1725547062890.png",
         "native": "https://img.cryptorank.io/coins/algorand1725547062890.png"
       },
-      "price": "0.086926137035",
+      "price": "0.086835302865",
       "high24h": "0.08967620841",
       "low24h": "0.085414431848",
-      "volume24h": "21086425.653313991537",
-      "marketCap": "772412655.01925619721",
-      "fullyDilutedValuation": "772438180.96632266199",
+      "volume24h": "21097778.87472272434",
+      "marketCap": "771605516.1677054765",
+      "fullyDilutedValuation": "771631015.44122708661",
       "createdAt": 1539001522546,
       "ath": {
         "date": 1560988800000,
         "value": "4.7061674799999995",
-        "percentChange": "-98.15293150096308"
+        "percentChange": "-98.15486161013122"
       },
       "atl": {
         "date": 1772236800000,
         "value": "0.08197396923",
-        "percentChange": "6.041146782956627"
+        "percentChange": "5.9303382289080355"
       },
       "percentChange": {
-        "h24": "-0.808906761807288",
-        "d7": "4.228017976279289",
-        "d30": "-16.564624224423905",
-        "m3": "-38.40392561154816",
-        "m6": "-62.50283713179519"
+        "h24": "-0.9554323925027388",
+        "d7": "3.9975859808837955",
+        "d30": "-16.721831773609658",
+        "m3": "-38.439070759043226",
+        "m6": "-62.58183484201739"
       }
     },
     {
@@ -3176,40 +3176,40 @@
       "type": "coin",
       "rank": 73,
       "categoryId": 65,
-      "lastUpdated": 1772509467105,
+      "lastUpdated": 1772510344335,
       "totalSupply": "1198073574",
       "maxSupply": "2100000000",
       "circulatingSupply": "780464896",
-      "volume24hBase": "72137393.8255",
+      "volume24hBase": "72680852.7917",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.aptos1760622422254.png",
         "x150": "https://img.cryptorank.io/coins/150x150.aptos1760622422254.png",
         "icon": "https://img.cryptorank.io/coins/icon.aptos1760622422254.png",
         "native": "https://img.cryptorank.io/coins/aptos1760622422254.png"
       },
-      "price": "0.969651301135",
+      "price": "0.970682808044",
       "high24h": "0.987523802273",
       "low24h": "0.916780327831",
-      "volume24h": "69948117.783383990142",
-      "marketCap": "756778801.89659245696",
-      "fullyDilutedValuation": "1161713599.8845597065",
+      "volume24h": "70550054.278879952616",
+      "marketCap": "757583856.82904842342",
+      "fullyDilutedValuation": "1162949421.0536310293",
       "createdAt": 1652796853741,
       "ath": {
         "date": 1675036800000,
         "value": "19.840608616911",
-        "percentChange": "-95.11279457270012"
+        "percentChange": "-95.10759560461948"
       },
       "atl": {
         "date": 1771804800000,
         "value": "0.794313662666",
-        "percentChange": "22.074105823699966"
+        "percentChange": "22.203967232043098"
       },
       "percentChange": {
-        "h24": "1.7502267898440864",
-        "d7": "19.688636654765055",
-        "d30": "-23.93053184095796",
-        "m3": "-51.510703724698594",
-        "m6": "-77.53203221343274"
+        "h24": "1.70072067760125",
+        "d7": "19.78309428259509",
+        "d30": "-23.861364502855338",
+        "m3": "-51.3377011325976",
+        "m6": "-77.53717818106522"
       }
     },
     {
@@ -3220,40 +3220,40 @@
       "type": "coin",
       "rank": 74,
       "categoryId": 44,
-      "lastUpdated": 1772509468494,
+      "lastUpdated": 1772510344335,
       "totalSupply": "1959845164",
       "maxSupply": "1959845164",
       "circulatingSupply": "757690322",
-      "volume24hBase": "68558850.3743",
+      "volume24hBase": "68587399.1205",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.filecoin1602761898881.png",
         "x150": "https://img.cryptorank.io/coins/150x150.filecoin1602761898881.png",
         "icon": "https://img.cryptorank.io/coins/icon.filecoin1602761898881.png",
         "native": "https://img.cryptorank.io/coins/filecoin1602761898881.png"
       },
-      "price": "0.998465880279",
+      "price": "0.997117032561",
       "high24h": "1.02492959806",
       "low24h": "0.96417740757",
-      "volume24h": "68453672.889891698138",
-      "marketCap": "756527934.33460895984",
-      "fullyDilutedValuation": "1956838526.8838011208",
+      "volume24h": "68389663.882109901263",
+      "marketCap": "755505925.47282857464",
+      "fullyDilutedValuation": "1954194994.206706385",
       "createdAt": 1602761876638,
       "ath": {
         "date": 1617235200000,
         "value": "235.58887398",
-        "percentChange": "-99.57618292264355"
+        "percentChange": "-99.57675546569078"
       },
       "atl": {
         "date": 1770336000000,
         "value": "0.802266688191",
-        "percentChange": "24.455607465193644"
+        "percentChange": "24.287477872147537"
       },
       "percentChange": {
-        "h24": "1.2938864478063041",
-        "d7": "13.13121258486017",
-        "d30": "-5.257849001782345",
-        "m3": "-35.60326024959541",
-        "m6": "-56.09942477518097"
+        "h24": "1.1911678849598772",
+        "d7": "13.084545655199346",
+        "d30": "-5.403349288664744",
+        "m3": "-35.553427282171306",
+        "m6": "-56.18974476573389"
       }
     },
     {
@@ -3264,40 +3264,40 @@
       "type": "token",
       "rank": 75,
       "categoryId": 37,
-      "lastUpdated": 1772509467098,
+      "lastUpdated": 1772510344335,
       "totalSupply": "702586234",
       "maxSupply": null,
       "circulatingSupply": "702228648",
-      "volume24hBase": "25240598.7571",
+      "volume24hBase": "25240424.1924",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.usdd1651566401199.png",
         "x150": "https://img.cryptorank.io/coins/150x150.usdd1651566401199.png",
         "icon": "https://img.cryptorank.io/coins/icon.usdd1651566401199.png",
         "native": "https://img.cryptorank.io/coins/usdd1651566401199.png"
       },
-      "price": "0.999785570439",
+      "price": "0.999819160619",
       "high24h": "1.000173839758",
       "low24h": "0.999202947832",
-      "volume24h": "25235186.426589137901",
-      "marketCap": "702078069.41928773647",
-      "fullyDilutedValuation": "702435578.74227873673",
+      "volume24h": "25235859.729712868959",
+      "marketCap": "702101657.40597521311",
+      "fullyDilutedValuation": "702459178.74034431885",
       "createdAt": 1651564414081,
       "ath": {
         "date": 1652227200000,
         "value": "1.052380514454",
-        "percentChange": "-4.997711691981252"
+        "percentChange": "-4.994519863594213"
       },
       "atl": {
         "date": 1655596800000,
         "value": "0.922696417818",
-        "percentChange": "8.354768820204272"
+        "percentChange": "8.358409257010067"
       },
       "percentChange": {
-        "h24": "0.043136668086521765",
-        "d7": "0.06686911113222188",
-        "d30": "0.10460609470523592",
-        "m3": "-0.012231153047556233",
-        "m6": "0.014069385965611162"
+        "h24": "0.025861667327845252",
+        "d7": "0.07196015527573045",
+        "d30": "0.11219675088509085",
+        "m3": "-0.01214623429502608",
+        "m6": "0.03270161266489251"
       }
     },
     {
@@ -3308,40 +3308,40 @@
       "type": "token",
       "rank": 76,
       "categoryId": 4,
-      "lastUpdated": 1772509461829,
+      "lastUpdated": 1772510344335,
       "totalSupply": "533503434",
       "maxSupply": "644245094",
       "circulatingSupply": "518743261",
-      "volume24hBase": "26266416.3139",
+      "volume24hBase": "26317188.3851",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.render token1636976151203.png",
         "x150": "https://img.cryptorank.io/coins/150x150.render token1636976151203.png",
         "icon": "https://img.cryptorank.io/coins/icon.render token1636976151203.png",
         "native": "https://img.cryptorank.io/coins/render token1636976151203.png"
       },
-      "price": "1.349340477528",
+      "price": "1.343842229286",
       "high24h": "1.433067591554",
       "low24h": "1.330551752308",
-      "volume24h": "35442338.731947075544",
-      "marketCap": "699961279.51217193881",
-      "fullyDilutedValuation": "719877778.39638783115",
+      "volume24h": "35366149.107972410266",
+      "marketCap": "697109100.28932934165",
+      "fullyDilutedValuation": "716944444.07829636812",
       "createdAt": 1558246031313,
       "ath": {
         "date": 1710633600000,
         "value": "13.58910325653",
-        "percentChange": "-90.07042295539554"
+        "percentChange": "-90.11088366967672"
       },
       "atl": {
         "date": 1592265600000,
         "value": "0.03664083",
-        "percentChange": "3582.6143881784337"
+        "percentChange": "3567.608592070649"
       },
       "percentChange": {
-        "h24": "-2.074254297936324",
-        "d7": "-0.9999635314373975",
-        "d30": "-14.92088633044507",
-        "m3": "-22.880638694407413",
-        "m6": "-60.863619382837655"
+        "h24": "-2.630084604129075",
+        "d7": "-1.313695437655383",
+        "d30": "-15.405798902098557",
+        "m3": "-22.86844447683839",
+        "m6": "-61.10367353829014"
       }
     },
     {
@@ -3352,40 +3352,40 @@
       "type": "coin",
       "rank": 77,
       "categoryId": 65,
-      "lastUpdated": 1772509469984,
+      "lastUpdated": 1772510344335,
       "totalSupply": "38054290327",
       "maxSupply": null,
       "circulatingSupply": "19935272779",
-      "volume24hBase": "626454272.9658",
+      "volume24hBase": "626078732.4044",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.xdc network1612175113565.png",
         "x150": "https://img.cryptorank.io/coins/150x150.xdc network1612175113565.png",
         "icon": "https://img.cryptorank.io/coins/icon.xdc network1612175113565.png",
         "native": "https://img.cryptorank.io/coins/xdc network1612175113565.png"
       },
-      "price": "0.032610779999",
+      "price": "0.032341666322",
       "high24h": "0.034429945836",
-      "low24h": "0.032610779999",
-      "volume24h": "20429162.475121197051",
-      "marketCap": "650104794.81602234722",
-      "fullyDilutedValuation": "1240980089.8718707697",
+      "low24h": "0.032341635854",
+      "volume24h": "20248429.454723833565",
+      "marketCap": "644739940.25646764884",
+      "fullyDilutedValuation": "1230739159.8763462673",
       "createdAt": 1523654142993,
       "ath": {
         "date": 1629504000000,
         "value": "0.1935185",
-        "percentChange": "-83.14849484726267"
+        "percentChange": "-83.287558387441"
       },
       "atl": {
         "date": 1557532800000,
         "value": "0.00022976",
-        "percentChange": "14093.410514885098"
+        "percentChange": "13976.282347667131"
       },
       "percentChange": {
-        "h24": "-1.0738738356836197",
-        "d7": "-3.1251824381034297",
-        "d30": "-6.513081098627364",
-        "m3": "-37.100338094729786",
-        "m6": "-59.14969588396988"
+        "h24": "-1.8711671185432264",
+        "d7": "-3.85590192401216",
+        "d30": "-7.183150944945588",
+        "m3": "-37.56905800949828",
+        "m6": "-59.4688396305466"
       }
     },
     {
@@ -3396,40 +3396,40 @@
       "type": "coin",
       "rank": 78,
       "categoryId": 65,
-      "lastUpdated": 1772509467409,
+      "lastUpdated": 1772510344336,
       "totalSupply": "85985041177",
       "maxSupply": "86712634466",
       "circulatingSupply": "85985041177",
-      "volume24hBase": "1832252369.9149",
+      "volume24hBase": "1831698120.9677",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.ve_chain1732534263450.png",
         "x150": "https://img.cryptorank.io/coins/150x150.ve_chain1732534263450.png",
         "icon": "https://img.cryptorank.io/coins/icon.ve_chain1732534263450.png",
         "native": "https://img.cryptorank.io/coins/ve_chain1732534263450.png"
       },
-      "price": "0.007206209542",
+      "price": "0.007203647745",
       "high24h": "0.007462149441",
       "low24h": "0.007082918942",
-      "volume24h": "13203594.511432866108",
-      "marketCap": "619626224.19896031093",
-      "fullyDilutedValuation": "619626224.19896031093",
+      "volume24h": "13194908.038629709323",
+      "marketCap": "619405947.97842819587",
+      "fullyDilutedValuation": "619405947.97842819587",
       "createdAt": 1526974545512,
       "ath": {
         "date": 1618790400000,
         "value": "0.28733678",
-        "percentChange": "-97.49206852599936"
+        "percentChange": "-97.49296009198683"
       },
       "atl": {
         "date": 1584057600000,
         "value": "0.00162898",
-        "percentChange": "342.37556888359586"
+        "percentChange": "342.2183050129529"
       },
       "percentChange": {
-        "h24": "-0.8253851782965641",
-        "d7": "-0.7900285442275231",
-        "d30": "-14.398639818306197",
-        "m3": "-46.174804346341375",
-        "m6": "-69.70493064656452"
+        "h24": "-0.9560024854285454",
+        "d7": "-0.8537809217235465",
+        "d30": "-14.446814903475945",
+        "m3": "-46.167476858593155",
+        "m6": "-69.73001843723759"
       }
     },
     {
@@ -3440,40 +3440,40 @@
       "type": "token",
       "rank": 79,
       "categoryId": 54,
-      "lastUpdated": 1772509463454,
+      "lastUpdated": 1772510344336,
       "totalSupply": "6863982732",
       "maxSupply": "10000000000",
       "circulatingSupply": "3497363517",
-      "volume24hBase": "142699726.1647",
+      "volume24hBase": "142023772.7205",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.jupiter1701954311817.png",
         "x150": "https://img.cryptorank.io/coins/150x150.jupiter1701954311817.png",
         "icon": "https://img.cryptorank.io/coins/icon.jupiter1701954311817.png",
         "native": "https://img.cryptorank.io/coins/jupiter1701954311817.png"
       },
-      "price": "0.17589537353",
+      "price": "0.176010421343",
       "high24h": "0.184146475665",
       "low24h": "0.167075667122",
-      "volume24h": "25100221.6363686208",
-      "marketCap": "615170062.19290950501",
-      "fullyDilutedValuation": "1207342806.548609884",
+      "volume24h": "24997664.077257674374",
+      "marketCap": "615572426.21680634333",
+      "fullyDilutedValuation": "1208132492.7503962491",
       "createdAt": 1701954312172,
       "ath": {
         "date": 1706659200000,
         "value": "1.998889510265",
-        "percentChange": "-91.2003453604256"
+        "percentChange": "-91.1945897740158"
       },
       "atl": {
         "date": 1770854400000,
         "value": "0.135813495721",
-        "percentChange": "29.512441010530875"
+        "percentChange": "29.59715115836209"
       },
       "percentChange": {
-        "h24": "2.8481268217687643",
-        "d7": "23.40221254296428",
-        "d30": "-1.4027886485143837",
-        "m3": "-30.043572676901487",
-        "m6": "-64.8970825592941"
+        "h24": "2.9276713947733306",
+        "d7": "23.624627761811155",
+        "d30": "-1.169663030062876",
+        "m3": "-29.966502361434575",
+        "m6": "-64.89474986541772"
       }
     },
     {
@@ -3484,40 +3484,40 @@
       "type": "coin",
       "rank": 80,
       "categoryId": 44,
-      "lastUpdated": 1772509468810,
+      "lastUpdated": 1772510344336,
       "totalSupply": "9938761870",
       "maxSupply": null,
       "circulatingSupply": "7605926931",
-      "volume24hBase": "80048447.1134",
+      "volume24hBase": "80162645.5657",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.beldex1559934646097.png",
         "x150": "https://img.cryptorank.io/coins/150x150.beldex1559934646097.png",
         "icon": "https://img.cryptorank.io/coins/icon.beldex1559934646097.png",
         "native": "https://img.cryptorank.io/coins/beldex1559934646097.png"
       },
-      "price": "0.079861285944",
-      "high24h": "0.080642426004",
+      "price": "0.079809827206",
+      "high24h": "0.080552623501",
       "low24h": "0.079438321485",
-      "volume24h": "6392771.924296398794",
-      "marketCap": "607419105.50576135786",
-      "fullyDilutedValuation": "793722303.62939415528",
+      "volume24h": "6397766.8909743391204",
+      "marketCap": "607027714.10457188479",
+      "fullyDilutedValuation": "793210867.48628143522",
       "createdAt": 1541090784872,
       "ath": {
         "date": 1625184000000,
         "value": "0.16626842",
-        "percentChange": "-51.968458024680814"
+        "percentChange": "-51.999407219963956"
       },
       "atl": {
         "date": 1579132800000,
         "value": "0.02627293",
-        "percentChange": "203.96794702379978"
+        "percentChange": "203.77208482647347"
       },
       "percentChange": {
-        "h24": "-1.0490316474088437",
-        "d7": "-0.3269164776399478",
-        "d30": "3.875885487360653",
-        "m3": "-1.0300106867795003",
-        "m6": "8.002710077696573"
+        "h24": "-1.0324575279502402",
+        "d7": "-0.35945364595700935",
+        "d30": "3.7106528665249594",
+        "m3": "-1.1133448395059606",
+        "m6": "7.904563711269707"
       }
     },
     {
@@ -3528,40 +3528,40 @@
       "type": "token",
       "rank": 81,
       "categoryId": 65,
-      "lastUpdated": 1772509465113,
+      "lastUpdated": 1772510344336,
       "totalSupply": "10000000000",
       "maxSupply": "10000000000",
       "circulatingSupply": "5939074958",
-      "volume24hBase": "534813444.1175",
+      "volume24hBase": "505148972.3897",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.arbitrum1696871846920.png",
         "x150": "https://img.cryptorank.io/coins/150x150.arbitrum1696871846920.png",
         "icon": "https://img.cryptorank.io/coins/icon.arbitrum1696871846920.png",
         "native": "https://img.cryptorank.io/coins/arbitrum1696871846920.png"
       },
-      "price": "0.101992687611",
+      "price": "0.102015714964",
       "high24h": "0.106993503289",
       "low24h": "0.098711977326",
-      "volume24h": "54547060.536039183078",
-      "marketCap": "605742216.88960694534",
-      "fullyDilutedValuation": "1019926876.11",
+      "volume24h": "51533133.581665141129",
+      "marketCap": "605878978.06515827151",
+      "fullyDilutedValuation": "1020157149.64",
       "createdAt": 1662021886534,
       "ath": {
         "date": 1705017600000,
         "value": "2.4071629332680002",
-        "percentChange": "-95.76295039270428"
+        "percentChange": "-95.76199377474204"
       },
       "atl": {
         "date": 1771804800000,
         "value": "0.088769401725",
-        "percentChange": "14.896220577181095"
+        "percentChange": "14.922161219511137"
       },
       "percentChange": {
-        "h24": "0.4597923156848218",
-        "d7": "9.871809274432232",
-        "d30": "-27.759485603103126",
-        "m3": "-52.57383437508268",
-        "m6": "-79.67740112324849"
+        "h24": "0.142264870003146",
+        "d7": "9.496894218220508",
+        "d30": "-27.81036534613078",
+        "m3": "-52.61611284796904",
+        "m6": "-79.70571137997837"
       }
     },
     {
@@ -3572,7 +3572,7 @@
       "type": "token",
       "rank": 82,
       "categoryId": null,
-      "lastUpdated": 1772509466197,
+      "lastUpdated": 1772510344336,
       "totalSupply": "272491",
       "maxSupply": null,
       "circulatingSupply": "272491",
@@ -3583,29 +3583,29 @@
         "icon": "https://img.cryptorank.io/coins/icon.mantle_staked_ether1706888849210.png",
         "native": "https://img.cryptorank.io/coins/mantle_staked_ether1706888849210.png"
       },
-      "price": "2186.10180340924",
+      "price": "2183.648230715243",
       "high24h": "2254.72064280742",
       "low24h": "2095.141096364227",
-      "volume24h": "2411810.0376956534614",
-      "marketCap": "595693066.51278721684",
-      "fullyDilutedValuation": "595693066.51278721684",
+      "volume24h": "2409103.1412270766225",
+      "marketCap": "595024490.03582728031",
+      "fullyDilutedValuation": "595024490.03582728031",
       "createdAt": 1702041489145,
       "ath": {
         "date": 1755820800000,
         "value": "5352.557673213626",
-        "percentChange": "-59.15780946463441"
+        "percentChange": "-59.20364872212202"
       },
       "atl": {
         "date": 1744156800000,
         "value": "1481.286509646596",
-        "percentChange": "47.581294312252815"
+        "percentChange": "47.4156563564611"
       },
       "percentChange": {
-        "h24": "1.9064405906197532",
-        "d7": "9.923160042551025",
-        "d30": "-17.598154512295643",
-        "m3": "-33.23258202075098",
-        "m6": "-52.92436729313336"
+        "h24": "1.720994402409585",
+        "d7": "9.763463868953117",
+        "d30": "-17.69018749760941",
+        "m3": "-33.32093227311462",
+        "m6": "-53.02662370456521"
       }
     },
     {
@@ -3616,40 +3616,40 @@
       "type": "token",
       "rank": 83,
       "categoryId": 59,
-      "lastUpdated": 1772509465782,
+      "lastUpdated": 1772510344336,
       "totalSupply": "999937480",
       "maxSupply": "1000000000",
       "circulatingSupply": "999937480",
-      "volume24hBase": "33073597.8657",
+      "volume24hBase": "32761235.4913",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pippin1731339508479.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pippin1731339508479.png",
         "icon": "https://img.cryptorank.io/coins/icon.pippin1731339508479.png",
         "native": "https://img.cryptorank.io/coins/pippin1731339508479.png"
       },
-      "price": "0.566642755528",
+      "price": "0.56852715517",
       "high24h": "0.570368908547",
       "low24h": "0.53530258168",
-      "volume24h": "18740914.629845227677",
-      "marketCap": "566607329.02292438944",
-      "fullyDilutedValuation": "566607329.02292438944",
+      "volume24h": "18625652.013723226285",
+      "marketCap": "568491610.8522587716",
+      "fullyDilutedValuation": "568491610.8522587716",
       "createdAt": 1731339508685,
       "ath": {
         "date": 1772064000000,
         "value": "0.898777125046",
-        "percentChange": "-36.95403012187267"
+        "percentChange": "-36.74436750480244"
       },
       "atl": {
         "date": 1735430400000,
         "value": "0.005564978894",
-        "percentChange": "10082.298375631539"
+        "percentChange": "10116.160132843803"
       },
       "percentChange": {
-        "h24": "2.1501781405974976",
-        "d7": "-23.58871894231238",
-        "d30": "204.9042723710757",
-        "m3": "170.86598150680155",
-        "m6": "3517.2735685243047"
+        "h24": "2.2151329331837593",
+        "d7": "-23.315625245227384",
+        "d30": "208.75464904366518",
+        "m3": "174.92927456473194",
+        "m6": "3526.2204720835807"
       }
     },
     {
@@ -3660,40 +3660,40 @@
       "type": "coin",
       "rank": 84,
       "categoryId": 65,
-      "lastUpdated": 1772509466708,
+      "lastUpdated": 1772510344342,
       "totalSupply": "100000000000",
       "maxSupply": "100000000000",
       "circulatingSupply": "18000000000",
-      "volume24hBase": "898138306.2457",
+      "volume24hBase": "903363123.6905",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.stable1765200685063.png",
         "x150": "https://img.cryptorank.io/coins/150x150.stable1765200685063.png",
         "icon": "https://img.cryptorank.io/coins/icon.stable1765200685063.png",
         "native": "https://img.cryptorank.io/coins/stable1765200685063.png"
       },
-      "price": "0.031345981641",
+      "price": "0.031250311998",
       "high24h": "0.033502650629",
       "low24h": "0.031080391259",
-      "volume24h": "28153026.858656547835",
-      "marketCap": "564227669.538",
-      "fullyDilutedValuation": "3134598164.1",
+      "volume24h": "28230379.462815990189",
+      "marketCap": "562505615.964",
+      "fullyDilutedValuation": "3125031199.8",
       "createdAt": 1749135105939,
       "ath": {
         "date": 1762732800000,
         "value": "0.056192470622",
-        "percentChange": "-44.216758412598274"
+        "percentChange": "-44.387011903752914"
       },
       "atl": {
         "date": 1766534400000,
         "value": "0.009223209635",
-        "percentChange": "239.8597980690916"
+        "percentChange": "238.8225274573844"
       },
       "percentChange": {
-        "h24": "-4.287198475573079",
-        "d7": "10.43476023338861",
-        "d30": "39.54002212330399",
-        "m3": "-6.321682820439903",
-        "m6": "-43.380764949999126"
+        "h24": "-4.5108896215366086",
+        "d7": "10.434396044230802",
+        "d30": "38.89322781790594",
+        "m3": "-5.171064766529373",
+        "m6": "-43.55356993872794"
       }
     },
     {
@@ -3704,40 +3704,40 @@
       "type": "token",
       "rank": 85,
       "categoryId": 59,
-      "lastUpdated": 1772509463369,
+      "lastUpdated": 1772510344342,
       "totalSupply": "87995146633886",
       "maxSupply": "90960511344164",
       "circulatingSupply": "87995146633886",
-      "volume24hBase": "5486688264103.6084",
+      "volume24hBase": "5490429534402.1182",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.bonk1672306100278.png",
         "x150": "https://img.cryptorank.io/coins/150x150.bonk1672306100278.png",
         "icon": "https://img.cryptorank.io/coins/icon.bonk1672306100278.png",
         "native": "https://img.cryptorank.io/coins/bonk1672306100278.png"
       },
-      "price": "0.000005969129",
+      "price": "0.000005957904",
       "high24h": "0.000006319786",
       "low24h": "0.000005822482",
-      "volume24h": "32750750.031220507905",
-      "marketCap": "525254381.63158130529",
-      "fullyDilutedValuation": "525254381.63158130529",
+      "volume24h": "32711452.084732517632",
+      "marketCap": "524266636.11061593494",
+      "fullyDilutedValuation": "524266636.11061593494",
       "createdAt": 1672305433542,
       "ath": {
         "date": 1732060800000,
         "value": "0.000057859596",
-        "percentChange": "-89.68342433638838"
+        "percentChange": "-89.70282474837882"
       },
       "atl": {
         "date": 1672272000000,
         "value": "8.529e-8",
-        "percentChange": "6898.627037167312"
+        "percentChange": "6885.466056982061"
       },
       "percentChange": {
-        "h24": "-0.26396311934965955",
-        "d7": "3.6219866903568017",
-        "d30": "-16.490275013727953",
-        "m3": "-39.34008026976364",
-        "m6": "-70.88973132958486"
+        "h24": "-0.6583698339394026",
+        "d7": "3.2462438331556793",
+        "d30": "-16.788364596859108",
+        "m3": "-39.355515240607666",
+        "m6": "-70.9569035524062"
       }
     },
     {
@@ -3748,40 +3748,40 @@
       "type": "coin",
       "rank": 86,
       "categoryId": 38,
-      "lastUpdated": 1772509460422,
+      "lastUpdated": 1772510344342,
       "totalSupply": "17302156",
       "maxSupply": "21000000",
       "circulatingSupply": "17302055",
-      "volume24hBase": "179478.8935",
+      "volume24hBase": "179873.6388",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.decred1606243542067.png",
         "x150": "https://img.cryptorank.io/coins/150x150.decred1606243542067.png",
         "icon": "https://img.cryptorank.io/coins/icon.decred1606243542067.png",
         "native": "https://img.cryptorank.io/coins/decred1606243542067.png"
       },
-      "price": "30.174390243888",
+      "price": "30.203666052361",
       "high24h": "31.362536484427",
       "low24h": "28.171909859387",
-      "volume24h": "5415666.1730102133779",
-      "marketCap": "522078959.59121358984",
-      "fullyDilutedValuation": "522082007.20462822253",
+      "volume24h": "5432843.3179382044012",
+      "marketCap": "522585491.23958290186",
+      "fullyDilutedValuation": "522588541.80985419032",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1618617600000,
         "value": "250.31457054",
-        "percentChange": "-87.94541197550218"
+        "percentChange": "-87.93371636848663"
       },
       "atl": {
         "date": 1482883200000,
         "value": "0.394796",
-        "percentChange": "7543.033425842207"
+        "percentChange": "7550.4488526634"
       },
       "percentChange": {
-        "h24": "-2.123541996924511",
-        "d7": "16.043840864205265",
-        "d30": "54.87466359673421",
-        "m3": "56.533919618499546",
-        "m6": "83.40622916054637"
+        "h24": "-1.5641805428011946",
+        "d7": "15.9765992346123",
+        "d30": "56.97319463815662",
+        "m3": "57.33406025990521",
+        "m6": "83.45066442360617"
       }
     },
     {
@@ -3792,40 +3792,40 @@
       "type": "token",
       "rank": 87,
       "categoryId": 44,
-      "lastUpdated": 1772509470819,
+      "lastUpdated": 1772510344342,
       "totalSupply": "1000000000",
       "maxSupply": "1000000000",
       "circulatingSupply": "656301970",
-      "volume24hBase": "97225325.8200",
+      "volume24hBase": "97238854.8251",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.virtual_protocol1709913329667.png",
         "x150": "https://img.cryptorank.io/coins/150x150.virtual_protocol1709913329667.png",
         "icon": "https://img.cryptorank.io/coins/icon.virtual_protocol1709913329667.png",
         "native": "https://img.cryptorank.io/coins/virtual_protocol1709913329667.png"
       },
-      "price": "0.76424404128",
+      "price": "0.770678259017",
       "high24h": "0.790020502293",
       "low24h": "0.68720918946",
-      "volume24h": "74303875.91944152985",
-      "marketCap": "501574869.8528253216",
-      "fullyDilutedValuation": "764244041.28",
+      "volume24h": "74939871.345414878033",
+      "marketCap": "505797659.62902736349",
+      "fullyDilutedValuation": "770678259.017",
       "createdAt": 1709913330141,
       "ath": {
         "date": 1735776000000,
         "value": "5.074175994754",
-        "percentChange": "-84.93855865326462"
+        "percentChange": "-84.81175544928328"
       },
       "atl": {
         "date": 1720137600000,
         "value": "0.020040434622",
-        "percentChange": "3713.5103139980192"
+        "percentChange": "3745.616492623191"
       },
       "percentChange": {
-        "h24": "9.123966328761371",
-        "d7": "31.685664581426646",
-        "d30": "18.597398550399202",
-        "m3": "-22.415367703727078",
-        "m6": "-27.995147036296093"
+        "h24": "9.28172122054616",
+        "d7": "33.04201807367782",
+        "d30": "19.34822605313433",
+        "m3": "-21.72911502715956",
+        "m6": "-27.50489872534888"
       }
     },
     {
@@ -3836,40 +3836,40 @@
       "type": "token",
       "rank": 88,
       "categoryId": 37,
-      "lastUpdated": 1772509469971,
+      "lastUpdated": 1772510344343,
       "totalSupply": "494515083",
       "maxSupply": null,
       "circulatingSupply": "494515083",
-      "volume24hBase": "11188071.3216",
+      "volume24hBase": "11241764.9684",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.true usd1626879546878.png",
         "x150": "https://img.cryptorank.io/coins/150x150.true usd1626879546878.png",
         "icon": "https://img.cryptorank.io/coins/icon.true usd1626879546878.png",
         "native": "https://img.cryptorank.io/coins/true usd1626879546878.png"
       },
-      "price": "0.999593005756",
+      "price": "0.99982123001",
       "high24h": "1.001068359709",
       "low24h": "0.99801861485",
-      "volume24h": "11183517.840970647327",
-      "marketCap": "494313818.20764781775",
-      "fullyDilutedValuation": "494313818.20764781775",
+      "volume24h": "11239755.278189016782",
+      "marketCap": "494426678.54355724083",
+      "fullyDilutedValuation": "494426678.54355724083",
       "createdAt": 1520353235719,
       "ath": {
         "date": 1526428800000,
         "value": "1.36449",
-        "percentChange": "-26.742372186238082"
+        "percentChange": "-26.725646211404992"
       },
       "atl": {
         "date": 1592784000000,
         "value": "0.91420306",
-        "percentChange": "9.340369715673452"
+        "percentChange": "9.365334000304046"
       },
       "percentChange": {
-        "h24": "0.1323920898852927",
-        "d7": "0.05499008972993762",
-        "d30": "0.14434747942986206",
-        "m3": "0.31466400475919176",
-        "m6": "0.32574694064690984"
+        "h24": "0.10475528386423383",
+        "d7": "0.08750765521116438",
+        "d30": "0.16765500476552886",
+        "m3": "0.33873082617810724",
+        "m6": "0.3496473408314369"
       }
     },
     {
@@ -3880,40 +3880,40 @@
       "type": "coin",
       "rank": 89,
       "categoryId": 65,
-      "lastUpdated": 1772509461450,
+      "lastUpdated": 1772510344343,
       "totalSupply": "1832671110",
       "maxSupply": "1818000000",
       "circulatingSupply": "1832650468",
-      "volume24hBase": "24405646.0629",
+      "volume24hBase": "24513454.6720",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.stacks1711010314382.png",
         "x150": "https://img.cryptorank.io/coins/150x150.stacks1711010314382.png",
         "icon": "https://img.cryptorank.io/coins/icon.stacks1711010314382.png",
         "native": "https://img.cryptorank.io/coins/stacks1711010314382.png"
       },
-      "price": "0.257123259448",
+      "price": "0.257216607165",
       "high24h": "0.264446783331",
       "low24h": "0.248386512968",
-      "volume24h": "6275259.2646270964273",
-      "marketCap": "471217061.76106262166",
-      "fullyDilutedValuation": "471222369.29938414728",
+      "volume24h": "6305267.6406248579249",
+      "marketCap": "471388135.49830940322",
+      "fullyDilutedValuation": "471393444.96351450315",
       "createdAt": 1534255409357,
       "ath": {
         "date": 1711929600000,
         "value": "3.9183209987770002",
-        "percentChange": "-93.43792253038345"
+        "percentChange": "-93.43554019067648"
       },
       "atl": {
         "date": 1584057600000,
         "value": "0.04480209",
-        "percentChange": "473.90907309904514"
+        "percentChange": "474.1174288186109"
       },
       "percentChange": {
-        "h24": "0.07453181278809463",
-        "d7": "10.177764901900867",
-        "d30": "-1.404368975642675",
-        "m3": "-17.927980154094097",
-        "m6": "-59.18899912692733"
+        "h24": "0.08045004536953286",
+        "d7": "10.357956488753937",
+        "d30": "-1.655253107977833",
+        "m3": "-17.754896579390255",
+        "m6": "-59.239965370452985"
       }
     },
     {
@@ -3924,40 +3924,40 @@
       "type": "token",
       "rank": 90,
       "categoryId": 65,
-      "lastUpdated": 1772509468524,
+      "lastUpdated": 1772510344343,
       "totalSupply": "10000000000",
       "maxSupply": null,
       "circulatingSupply": "6733333333",
-      "volume24hBase": "394566001.6580",
+      "volume24hBase": "391427315.8061",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.sei_network1661962346631.png",
         "x150": "https://img.cryptorank.io/coins/150x150.sei_network1661962346631.png",
         "icon": "https://img.cryptorank.io/coins/icon.sei_network1661962346631.png",
         "native": "https://img.cryptorank.io/coins/sei_network1661962346631.png"
       },
-      "price": "0.068833598167",
+      "price": "0.068802067725",
       "high24h": "0.071235003887",
       "low24h": "0.067879362938",
-      "volume24h": "27159397.608486627761",
-      "marketCap": "463479560.96818880061",
-      "fullyDilutedValuation": "688335981.67",
+      "volume24h": "26931008.691506255168",
+      "marketCap": "463267255.99206597743",
+      "fullyDilutedValuation": "688020677.25",
       "createdAt": 1661962170577,
       "ath": {
         "date": 1710547200000,
         "value": "1.141143457308",
-        "percentChange": "-93.96801535107768"
+        "percentChange": "-93.97077840788688"
       },
       "atl": {
         "date": 1772236800000,
         "value": "0.063322729309",
-        "percentChange": "8.702829012799272"
+        "percentChange": "8.65303576739739"
       },
       "percentChange": {
-        "h24": "-1.0672051452438147",
-        "d7": "4.011770574919106",
-        "d30": "-22.055042760039107",
-        "m3": "-50.69754987018104",
-        "m6": "-75.96982476146447"
+        "h24": "-1.3067725192667137",
+        "d7": "4.001100410613493",
+        "d30": "-22.14667127193498",
+        "m3": "-50.66489649339251",
+        "m6": "-76.01182100445781"
       }
     },
     {
@@ -3968,40 +3968,40 @@
       "type": "token",
       "rank": 91,
       "categoryId": 37,
-      "lastUpdated": 1772509472524,
+      "lastUpdated": 1772510344343,
       "totalSupply": "395131919",
       "maxSupply": null,
       "circulatingSupply": "395131919",
-      "volume24hBase": "13067609.2627",
+      "volume24hBase": "16824326.6328",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.eurc1695986986486.png",
         "x150": "https://img.cryptorank.io/coins/150x150.eurc1695986986486.png",
         "icon": "https://img.cryptorank.io/coins/icon.eurc1695986986486.png",
         "native": "https://img.cryptorank.io/coins/eurc1695986986486.png"
       },
-      "price": "1.169324875124",
-      "high24h": "1.178605365059",
+      "price": "1.169360867712",
+      "high24h": "1.17852423997",
       "low24h": "1.168199837221",
-      "volume24h": "15280280.569275903211",
-      "marketCap": "462037581.84218148296",
-      "fullyDilutedValuation": "462037581.84218148296",
+      "volume24h": "19673709.1900011192",
+      "marketCap": "462051803.66254769933",
+      "fullyDilutedValuation": "462051803.66254769933",
       "createdAt": 1657015613987,
       "ath": {
         "date": 1769299200000,
         "value": "1.209455187746",
-        "percentChange": "-3.318048740341411"
+        "percentChange": "-3.3150728063535566"
       },
       "atl": {
         "date": 1664323200000,
         "value": "0.9563242087",
-        "percentChange": "22.272851035899954"
+        "percentChange": "22.27661467459827"
       },
       "percentChange": {
-        "h24": "-0.7855920210650625",
-        "d7": "-0.6970478847791245",
-        "d30": "-1.1311305016775992",
-        "m3": "0.5097601272210743",
-        "m6": "0.4812253948855096"
+        "h24": "-0.774222409553919",
+        "d7": "-0.6961934573539608",
+        "d30": "-1.260614483331575",
+        "m3": "0.42265254454148493",
+        "m6": "0.4791368275150295"
       }
     },
     {
@@ -4012,40 +4012,40 @@
       "type": "token",
       "rank": 92,
       "categoryId": null,
-      "lastUpdated": 1772509457120,
+      "lastUpdated": 1772510344343,
       "totalSupply": "6634",
       "maxSupply": null,
       "circulatingSupply": "6634",
-      "volume24hBase": "81.1719",
+      "volume24hBase": "89.4160",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.t_btc1679048329377.png",
         "x150": "https://img.cryptorank.io/coins/150x150.t_btc1679048329377.png",
         "icon": "https://img.cryptorank.io/coins/icon.t_btc1679048329377.png",
         "native": "https://img.cryptorank.io/coins/t_btc1679048329377.png"
       },
-      "price": "68376.65747001152",
+      "price": "68261.93048026368",
       "high24h": "69667.07355705186",
       "low24h": "65289.44906957167",
-      "volume24h": "5550263.2024900281003",
-      "marketCap": "453610745.65605642368",
-      "fullyDilutedValuation": "453610745.65605642368",
+      "volume24h": "6103708.7758232572109",
+      "marketCap": "452849646.80606925312",
+      "fullyDilutedValuation": "452849646.80606925312",
       "createdAt": 1585141734780,
       "ath": {
         "date": 1759708800000,
         "value": "125752.96023348506",
-        "percentChange": "-45.62620447021141"
+        "percentChange": "-45.717436509230474"
       },
       "atl": {
         "date": 1672099200000,
         "value": "3896.519650561194",
-        "percentChange": "1654.8136183571821"
+        "percentChange": "1651.8692731456467"
       },
       "percentChange": {
-        "h24": "2.7944304417769406",
-        "d7": "7.3714330958032805",
-        "d30": "-12.76667858482661",
-        "m3": "-26.049608912411376",
-        "m6": "-38.31275307010711"
+        "h24": "2.478035018456119",
+        "d7": "7.44762331241456",
+        "d30": "-13.14624396513597",
+        "m3": "-26.182988184592478",
+        "m6": "-38.45996771087724"
       }
     },
     {
@@ -4056,40 +4056,40 @@
       "type": "token",
       "rank": 93,
       "categoryId": 54,
-      "lastUpdated": 1772509464409,
+      "lastUpdated": 1772510344343,
       "totalSupply": "343669228",
       "maxSupply": "450000000",
       "circulatingSupply": "330371263",
-      "volume24hBase": "16331578.2928",
+      "volume24hBase": "15726599.0037",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pancake_swap1764244699920.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pancake_swap1764244699920.png",
         "icon": "https://img.cryptorank.io/coins/icon.pancake_swap1764244699920.png",
         "native": "https://img.cryptorank.io/coins/pancake_swap1764244699920.png"
       },
-      "price": "1.350276787378",
+      "price": "1.349485682259",
       "high24h": "1.375537115544",
       "low24h": "1.299296266822",
-      "volume24h": "22052151.070014265828",
-      "marketCap": "446092647.64565231841",
-      "fullyDilutedValuation": "464048581.10451740418",
+      "volume24h": "21222820.186121804165",
+      "marketCap": "445831289.24832252312",
+      "fullyDilutedValuation": "463776702.61900382605",
       "createdAt": 1599030542302,
       "ath": {
         "date": 1619740800000,
         "value": "44.11937833",
-        "percentChange": "-96.93949271615224"
+        "percentChange": "-96.94128581739017"
       },
       "atl": {
         "date": 1604534400000,
         "value": "0.20542717",
-        "percentChange": "557.3019466597335"
+        "percentChange": "556.9168441832694"
       },
       "percentChange": {
-        "h24": "1.9771634851451845",
-        "d7": "11.196996035469542",
-        "d30": "-12.43450189502535",
-        "m3": "-43.632918415671",
-        "m6": "-43.37445956109272"
+        "h24": "1.7247745255336118",
+        "d7": "11.114664861940243",
+        "d30": "-12.68003848948815",
+        "m3": "-43.72439875471912",
+        "m6": "-43.40502078565674"
       }
     },
     {
@@ -4100,40 +4100,40 @@
       "type": "coin",
       "rank": 94,
       "categoryId": 44,
-      "lastUpdated": 1772509467351,
+      "lastUpdated": 1772510344343,
       "totalSupply": "1000000000",
       "maxSupply": "1000000000",
       "circulatingSupply": "238898088",
-      "volume24hBase": "23980444.1567",
+      "volume24hBase": "23837361.3509",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.layer_zero1668092808242.png",
         "x150": "https://img.cryptorank.io/coins/150x150.layer_zero1668092808242.png",
         "icon": "https://img.cryptorank.io/coins/icon.layer_zero1668092808242.png",
         "native": "https://img.cryptorank.io/coins/layer_zero1668092808242.png"
       },
-      "price": "1.85774176468",
+      "price": "1.852701578691",
       "high24h": "1.915965742516",
       "low24h": "1.777739490578",
-      "volume24h": "44549472.645478052445",
-      "marketCap": "443810955.57979793184",
-      "fullyDilutedValuation": "1857741764.68",
+      "volume24h": "44163517.006640258414",
+      "marketCap": "442606864.78386144281",
+      "fullyDilutedValuation": "1852701578.691",
       "createdAt": 1668092788761,
       "ath": {
         "date": 1733443200000,
         "value": "7.521183700405",
-        "percentChange": "-75.2998751435899"
+        "percentChange": "-75.36688834509872"
       },
       "atl": {
         "date": 1764547200000,
         "value": "1.187926865745",
-        "percentChange": "56.385196618558695"
+        "percentChange": "55.960912419393026"
       },
       "percentChange": {
-        "h24": "-1.3419279173821919",
-        "d7": "21.79926971334397",
-        "d30": "6.8795812627481805",
-        "m3": "30.546810329193274",
-        "m6": "-0.2679785371383223"
+        "h24": "-1.8773122035284648",
+        "d7": "21.7255979833266",
+        "d30": "6.491194519866197",
+        "m3": "29.95552313975089",
+        "m6": "-0.6783374561533551"
       }
     },
     {
@@ -4144,40 +4144,40 @@
       "type": "token",
       "rank": 95,
       "categoryId": 56,
-      "lastUpdated": 1772509458594,
+      "lastUpdated": 1772510344343,
       "totalSupply": "79752152739",
       "maxSupply": "88888888888",
       "circulatingSupply": "62860396090",
-      "volume24hBase": "10695807224.7909",
+      "volume24hBase": "10682482582.1517",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.pudgy_penguins1734444110427.png",
         "x150": "https://img.cryptorank.io/coins/150x150.pudgy_penguins1734444110427.png",
         "icon": "https://img.cryptorank.io/coins/icon.pudgy_penguins1734444110427.png",
         "native": "https://img.cryptorank.io/coins/pudgy_penguins1734444110427.png"
       },
-      "price": "0.006988836713",
+      "price": "0.006990414112",
       "high24h": "0.007558736515",
       "low24h": "0.006661160568",
-      "volume24h": "74751250.207789285668",
-      "marketCap": "439321043.98751365217",
-      "fullyDilutedValuation": "557374773.00310670691",
+      "volume24h": "74674976.993467443005",
+      "marketCap": "439420199.91344562208",
+      "fullyDilutedValuation": "557500573.96908505277",
       "createdAt": 1683706646497,
       "ath": {
         "date": 1734393600000,
         "value": "0.069193916741",
-        "percentChange": "-89.89963707480248"
+        "percentChange": "-89.89735739607595"
       },
       "atl": {
         "date": 1744156800000,
         "value": "0.003729157556",
-        "percentChange": "87.41060435366599"
+        "percentChange": "87.45290342460392"
       },
       "percentChange": {
-        "h24": "1.7339329939378108",
-        "d7": "11.894167080203779",
-        "d30": "-10.72304891537527",
-        "m3": "-42.27912788067099",
-        "m6": "-77.22725926068787"
+        "h24": "1.4919942311360745",
+        "d7": "11.940068704647782",
+        "d30": "-10.791904540126849",
+        "m3": "-42.5134609738139",
+        "m6": "-77.23988808115504"
       }
     },
     {
@@ -4188,40 +4188,40 @@
       "type": "coin",
       "rank": 96,
       "categoryId": 38,
-      "lastUpdated": 1772509475215,
+      "lastUpdated": 1772510344343,
       "totalSupply": "12610936",
       "maxSupply": null,
       "circulatingSupply": "12609863",
-      "volume24hBase": "2163035.8213",
+      "volume24hBase": "2163499.5569",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.dash1762267697714.png",
         "x150": "https://img.cryptorank.io/coins/150x150.dash1762267697714.png",
         "icon": "https://img.cryptorank.io/coins/icon.dash1762267697714.png",
         "native": "https://img.cryptorank.io/coins/dash1762267697714.png"
       },
-      "price": "33.979376847202",
+      "price": "33.996928594273",
       "high24h": "35.149803738035",
       "low24h": "31.517689286391",
-      "volume24h": "73498609.305949782677",
-      "marketCap": "428475286.86858915333",
-      "fullyDilutedValuation": "428511746.73994620107",
+      "volume24h": "73552339.949670575378",
+      "marketCap": "428696611.9945651146",
+      "fullyDilutedValuation": "428733090.69894676953",
       "createdAt": 1520353235665,
       "ath": {
         "date": 1513728000000,
         "value": "1642.22",
-        "percentChange": "-97.93088764920644"
+        "percentChange": "-97.92981886749199"
       },
       "atl": {
         "date": 1392336000000,
         "value": "0.21389909",
-        "percentChange": "15785.704257648782"
+        "percentChange": "15793.909877911588"
       },
       "percentChange": {
-        "h24": "4.6353046157263105",
-        "d7": "7.290881481542426",
-        "d30": "-25.892838716080217",
-        "m3": "-27.397530054087287",
-        "m6": "43.680154362868464"
+        "h24": "4.50168382430364",
+        "d7": "7.160109764568038",
+        "d30": "-25.954399238545303",
+        "m3": "-27.07723672503651",
+        "m6": "43.43129068911946"
       }
     },
     {
@@ -4232,40 +4232,40 @@
       "type": "token",
       "rank": 97,
       "categoryId": 54,
-      "lastUpdated": 1772509466849,
+      "lastUpdated": 1772510344343,
       "totalSupply": "8815108921",
       "maxSupply": "9900000000",
       "circulatingSupply": "8815108921",
-      "volume24hBase": "322374157.2426",
+      "volume24hBase": "322409550.1850",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.just1644916878702.png",
         "x150": "https://img.cryptorank.io/coins/150x150.just1644916878702.png",
         "icon": "https://img.cryptorank.io/coins/icon.just1644916878702.png",
         "native": "https://img.cryptorank.io/coins/just1644916878702.png"
       },
-      "price": "0.047893854177",
+      "price": "0.047845867618",
       "high24h": "0.048771073862",
       "low24h": "0.047731169687",
-      "volume24h": "15439740.877410352812",
-      "marketCap": "422189541.21674581302",
-      "fullyDilutedValuation": "422189541.21674581302",
+      "volume24h": "15425964.656930437409",
+      "marketCap": "421766534.47241682018",
+      "fullyDilutedValuation": "421766534.47241682018",
       "createdAt": 1588238323587,
       "ath": {
         "date": 1617580800000,
         "value": "0.21482649",
-        "percentChange": "-77.70579681444313"
+        "percentChange": "-77.72813417097677"
       },
       "atl": {
         "date": 1588982400000,
         "value": "0.00482022",
-        "percentChange": "893.6030757309833"
+        "percentChange": "892.6075494064586"
       },
       "percentChange": {
-        "h24": "-0.7304539725901112",
-        "d7": "6.453015367470282",
-        "d30": "14.761205477222665",
-        "m3": "19.062813862264537",
-        "m6": "37.625867496563686"
+        "h24": "-0.7727834682385203",
+        "d7": "6.405278302221903",
+        "d30": "14.49268981164866",
+        "m3": "19.17443531723968",
+        "m6": "37.57615958432428"
       }
     },
     {
@@ -4276,40 +4276,40 @@
       "type": "token",
       "rank": 98,
       "categoryId": null,
-      "lastUpdated": 1772509472717,
+      "lastUpdated": 1772510344343,
       "totalSupply": "3543624",
       "maxSupply": null,
       "circulatingSupply": "3543583",
-      "volume24hBase": "1483.8017",
+      "volume24hBase": "1482.7298",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.marinade_staked_sol1706874702771.png",
         "x150": "https://img.cryptorank.io/coins/150x150.marinade_staked_sol1706874702771.png",
         "icon": "https://img.cryptorank.io/coins/icon.marinade_staked_sol1706874702771.png",
         "native": "https://img.cryptorank.io/coins/marinade_staked_sol1706874702771.png"
       },
-      "price": "118.259395438825",
+      "price": "118.127908961974",
       "high24h": "121.721252045924",
       "low24h": "112.294994760627",
-      "volume24h": "175473.491993100781",
-      "marketCap": "419061983.26729780998",
-      "fullyDilutedValuation": "419066831.9025108018",
+      "volume24h": "175151.77082960591663",
+      "marketCap": "418596050.02319871284",
+      "fullyDilutedValuation": "418600893.26746615378",
       "createdAt": 1631024862858,
       "ath": {
         "date": 1737244800000,
         "value": "358.706407713781",
-        "percentChange": "-67.0317025579352"
+        "percentChange": "-67.06835829477832"
       },
       "atl": {
         "date": 1672272000000,
         "value": "8.902328781747",
-        "percentChange": "1228.409659293865"
+        "percentChange": "1226.9326696198755"
       },
       "percentChange": {
-        "h24": "2.409755531437693",
-        "d7": "11.843792003375302",
-        "d30": "-16.657739288144132",
-        "m3": "-37.070681067945415",
-        "m6": "-57.29856557472167"
+        "h24": "2.3318486308086332",
+        "d7": "11.673199650773327",
+        "d30": "-16.77649683471512",
+        "m3": "-37.14302431788424",
+        "m6": "-57.2722391419329"
       }
     },
     {
@@ -4320,40 +4320,40 @@
       "type": "coin",
       "rank": 99,
       "categoryId": 65,
-      "lastUpdated": 1772509469976,
+      "lastUpdated": 1772510344344,
       "totalSupply": "1097171115",
       "maxSupply": null,
       "circulatingSupply": "1077112870",
-      "volume24hBase": "22703827.2286",
+      "volume24hBase": "22707726.9858",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.tezos1732274987232.png",
         "x150": "https://img.cryptorank.io/coins/150x150.tezos1732274987232.png",
         "icon": "https://img.cryptorank.io/coins/icon.tezos1732274987232.png",
         "native": "https://img.cryptorank.io/coins/tezos1732274987232.png"
       },
-      "price": "0.371813238352",
+      "price": "0.372234650457",
       "high24h": "0.387990534423",
       "low24h": "0.367898832129",
-      "volume24h": "8441583.5248500793913",
-      "marketCap": "400484824.26531679024",
-      "fullyDilutedValuation": "407942745.29442460248",
+      "volume24h": "8452602.8172322492025",
+      "marketCap": "400938732.66718608159",
+      "fullyDilutedValuation": "408405106.48354194956",
       "createdAt": 1520353235720,
       "ath": {
         "date": 1513468800000,
         "value": "12.1894",
-        "percentChange": "-96.9497002448685"
+        "percentChange": "-96.94624304348861"
       },
       "atl": {
         "date": 1544140800000,
         "value": "0.31724456",
-        "percentChange": "17.20082398008653"
+        "percentChange": "17.333659072672514"
       },
       "percentChange": {
-        "h24": "-1.060371346278588",
-        "d7": "0.6939497013552071",
-        "d30": "-20.956349335596162",
-        "m3": "-25.080714800671807",
-        "m6": "-48.81066395311685"
+        "h24": "-1.0338216439331895",
+        "d7": "0.7169118005354624",
+        "d30": "-21.036406317804442",
+        "m3": "-24.648355783354173",
+        "m6": "-48.81303574923665"
       }
     },
     {
@@ -4364,40 +4364,40 @@
       "type": "token",
       "rank": 100,
       "categoryId": 37,
-      "lastUpdated": 1772509467432,
+      "lastUpdated": 1772510344344,
       "totalSupply": "397715236",
       "maxSupply": null,
       "circulatingSupply": "397715236",
-      "volume24hBase": "384752669.2140",
+      "volume24hBase": "384056261.2846",
       "images": {
         "x60": "https://img.cryptorank.io/coins/60x60.first_digital_usd1690373296503.png",
         "x150": "https://img.cryptorank.io/coins/150x150.first_digital_usd1690373296503.png",
         "icon": "https://img.cryptorank.io/coins/icon.first_digital_usd1690373296503.png",
         "native": "https://img.cryptorank.io/coins/first_digital_usd1690373296503.png"
       },
-      "price": "0.999234574197",
+      "price": "0.999205765468",
       "high24h": "1.000865422798",
       "low24h": "0.999027599107",
-      "volume24h": "384458169.59321048067",
-      "marketCap": "397410814.49611936549",
-      "fullyDilutedValuation": "397410814.49611936549",
+      "volume24h": "383751230.539656956",
+      "marketCap": "397399356.82566627045",
+      "fullyDilutedValuation": "397399356.82566627045",
       "createdAt": 1690373262334,
       "ath": {
         "date": 1690848000000,
         "value": "1.012910179892",
-        "percentChange": "-1.3501301464319513"
+        "percentChange": "-1.3529743007875794"
       },
       "atl": {
         "date": 1743552000000,
         "value": "0.898515785402",
-        "percentChange": "11.209462363528534"
+        "percentChange": "11.20625610611291"
       },
       "percentChange": {
-        "h24": "-0.13646667053915307",
-        "d7": "-0.001493248789969343",
-        "d30": "0.18882091123650738",
-        "m3": "0.14285153248301344",
-        "m6": "0.12992314730898968"
+        "h24": "-0.14092488336814596",
+        "d7": "0.002769559521365647",
+        "d30": "0.18363058517258105",
+        "m3": "0.1438908407165652",
+        "m6": "0.12926203647814574"
       }
     }
   ],
