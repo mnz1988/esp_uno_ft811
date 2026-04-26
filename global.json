@@ -1,21 +1,21 @@
 {
   "data": {
     "allCurrencies": 37531,
-    "activeCurrencies": 5006,
-    "activeMarkets": 48566,
-    "btcDominance": 58.34948,
-    "btcDominanceChange": null,
-    "ethDominance": 10.51,
-    "ethDominanceChange": null,
+    "activeCurrencies": 4998,
+    "activeMarkets": 48560,
+    "btcDominance": 58.33669,
+    "btcDominanceChange": 0.25,
+    "ethDominance": 10.5,
+    "ethDominanceChange": 0.1,
     "investmentActivity": -42,
-    "totalVolume24h": "20922536348",
-    "totalVolume24hChange": -0.07,
-    "totalMarketCap": "2663158247961",
-    "totalMarketCapChange": null,
+    "totalVolume24h": "20719698377",
+    "totalVolume24hChange": -1.04,
+    "totalMarketCap": "2659673261657",
+    "totalMarketCapChange": -0.21,
     "fearGreed": 33,
     "fearGreedChange": 2,
-    "altcoinIndex": 39,
-    "altcoinIndexChange": 3
+    "altcoinIndex": 38,
+    "altcoinIndexChange": -1
   },
   "status": {
     "usedCredits": 1
